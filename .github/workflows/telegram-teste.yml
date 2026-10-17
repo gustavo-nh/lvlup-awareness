@@ -1,0 +1,28 @@
+name: Telegram - teste de envio
+
+on:
+  workflow_dispatch:            # botao "Run workflow" para testar o bot quando quiser
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/telegram-teste.yml"
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Enviar mensagem de teste
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Segredos TELEGRAM_TOKEN / TELEGRAM_CHAT_ID nao encontrados"; exit 1
+          fi
+          hora=$(TZ=America/Sao_Paulo date '+%d/%m %H:%M')
+          resp=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=[Awareness] ✅ Teste de envio (${hora} BRT). Os alertas de preço e de notícias graves vão chegar por aqui.")
+          echo "$resp" | grep -o '"ok":[a-z]*' || true
+          echo "$resp" | grep -q '"ok":true' || { echo "Telegram recusou: $(echo "$resp" | grep -o '"description":"[^"]*"')"; exit 1; }
