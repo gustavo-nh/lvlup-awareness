@@ -1,0 +1,50 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-17T23:49:05Z",
+  "data": "2026-10-17",
+  "janela": "noite",
+  "modo": "fim_de_semana",
+  "fatos_relevantes": [
+    { "texto": "Guarda Revolucionária do Irã diz que dois superpetroleiros, com mais de 2 milhões de barris cada, pegaram fogo após bater em minas em Hormuz neste sábado",
+      "categoria": "geopolitica", "fonte": "Channels Television", "url": "https://www.channelstv.com/2026/10/17/oil-tankers-catch-fire-after-hitting-mines-in-hormuz-irans-guards/" },
+    { "texto": "Marinha da IRGC declara o Estreito de Hormuz fechado; cinco petroleiros atingidos desde sexta, um por RPG e outro alvejado perto de Al Mukalla, no Iêmen",
+      "categoria": "geopolitica", "fonte": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2" },
+    { "texto": "Coalizão liderada pela Arábia Saudita diz ter interceptado quatro drones sobre Riad e as províncias Oriental e Sul",
+      "categoria": "geopolitica", "fonte": "Al Jazeera", "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2" },
+    { "texto": "Warsh não sinaliza a decisão de 28/10 (\"não prejulgo reuniões\"); CME FedWatch: 85% de manutenção em outubro e cerca de 89% de alta em dezembro",
+      "categoria": "bc", "fonte": "Invezz", "url": "https://invezz.com/news/2026/10/16/fed-rate-hold-odds-jump-to-85-even-as-warsh-offers-no-clues-on-policy-path" },
+    { "texto": "ETFs de BTC à vista com saídas de US$ 261,4 mi em 14/10 e US$ 82,4 mi em 16/10 (IBIT US$ 71,8 mi); ETFs de ether perderam US$ 69,7 mi em 16/10",
+      "categoria": "cripto", "fonte": "Investing.com", "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253" },
+    { "texto": "Balanços da semana: Netflix na terça (20/10); Texas Instruments, Lam Research, Meta e Tesla na quarta (21/10), todos após o fechamento",
+      "categoria": "agenda", "fonte": "StockTitan", "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-19-2026" }
+  ],
+  "moveu_mercados": [
+    { "texto": "Nasdaq caiu 2,1% na sexta (16/10) e 4,5% na semana, a pior desde junho, com temor sobre a dívida do ciclo de IA; NQ −2,5% na sessão",
+      "categoria": "mercados", "fonte": "FinanceFeeds", "url": "https://financefeeds.com/the-nasdaq-index-just-had-its-worst-week-since-june-and-netflix-tesla-and-meta-report-next" },
+    { "texto": "SOX caiu pelo oitavo dia seguido na sexta (16/10), a maior sequência de quedas desde 2008 (−3,8% na sessão)",
+      "categoria": "semis", "fonte": "Stocktwits", "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2" },
+    { "texto": "Memórias lideram a queda em 16/10: Micron −5,6%; Seagate, Western Digital, SanDisk e SK Hynix entre −6,6% e −7,5%, com concorrência chinesa citada",
+      "categoria": "semis", "fonte": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey" },
+    { "texto": "CoreWeave −11,9% em 16/10 (−25,2% na semana); título de 2031 rende acima de 16% e CDS de 5 anos fechou em 1.117 pontos-base",
+      "categoria": "mercados", "fonte": "TradingKey", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey" },
+    { "texto": "VIX saltou 21,5% em 16/10, para 19,99",
+      "categoria": "marco_preco", "fonte": "precos.json (Yahoo/Deribit)" },
+    { "texto": "Chance de alta do Fed em outubro caiu de cerca de 28% para 15% no CME FedWatch após falas de Warsh na sexta",
+      "categoria": "bc", "fonte": "Benzinga", "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62408879/fed-rate-hike-odds-warsh-ai" },
+    { "texto": "Strategy (MSTR) chegou a cair 7,9% na sexta após proposta da MSCI que pode excluir de seus índices empresas que acumulam bitcoin",
+      "categoria": "cripto", "fonte": "Benzinga", "url": "https://www.benzinga.com/markets/equities/26/10/62417145/nasdaq-100-slides-micron-sandisk-coreweave-sink-warsh-keeps-fed-hike-open-stock-market-today-friday" },
+    { "texto": "BTC estável perto de US$ 81,3 mil (−0,5% em 24 h) no sábado; DVOL em 38",
+      "categoria": "cripto", "fonte": "precos.json (Yahoo/Deribit)" }
+  ],
+  "pontos_sugeridos": [
+    { "chave": "semis-sell-off", "tema": "Sell-off de semis", "vies": "bear", "peso": 3,
+      "porque": "SOX com oito quedas seguidas e memórias em queda forte; TXN e Lam divulgam balanço na quarta", "revisao": "2026-10-21" },
+    { "chave": "divida-ia", "tema": "Dívida do ciclo de IA", "vies": "bear", "peso": 2,
+      "porque": "Títulos e CDS da CoreWeave em nível de estresse pesam sobre neoclouds e Nasdaq" },
+    { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 3,
+      "porque": "IRGC declara Hormuz fechado e relata petroleiros em chamas no sábado, risco para o petróleo na reabertura" },
+    { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
+      "porque": "Outubro perto da manutenção, mas mercado vê cerca de 89% de chance de alta em dezembro", "revisao": "2026-10-28" }
+  ],
+  "nota_sugerida": -2
+}
