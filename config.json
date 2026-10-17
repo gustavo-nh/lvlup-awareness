@@ -1,0 +1,38 @@
+{
+  "versao": 1,
+  "_notas": [
+    "Valores em %. 'no dia' = contra o fechamento anterior; BTC em janela de 24 h.",
+    "Para desligar um lado de um gatilho, apague a linha 'queda' ou 'alta' (cuidado com a virgula).",
+    "Mudancas valem a partir da proxima execucao. JSON invalido: o sistema usa a ultima versao valida e avisa no Telegram.",
+    "Horarios NAO ficam aqui: os do agente estao nas tarefas agendadas do Claude; os do Actions, nos workflows."
+  ],
+  "ativos": {
+    "NQ":     { "fonte": "yahoo",   "simbolo": "NQ=F" },
+    "ES":     { "fonte": "yahoo",   "simbolo": "ES=F" },
+    "SOX":    { "fonte": "yahoo",   "simbolo": "^SOX" },
+    "VIX":    { "fonte": "yahoo",   "simbolo": "^VIX" },
+    "KOSPI":  { "fonte": "yahoo",   "simbolo": "^KS11" },
+    "NIKKEI": { "fonte": "yahoo",   "simbolo": "^N225" },
+    "BTC":    { "fonte": "deribit", "simbolo": "BTC-PERPETUAL" },
+    "DVOL":   { "fonte": "deribit", "simbolo": "BTC-DVOL" }
+  },
+  "gatilhos_preco": [
+    { "ativo": "NQ",     "tipo": "variacao_dia_pct", "queda": 2.5, "alta": 2.5 },
+    { "ativo": "ES",     "tipo": "variacao_dia_pct", "queda": 2.5, "alta": 2.5 },
+    { "ativo": "SOX",    "tipo": "variacao_dia_pct", "queda": 4,   "alta": 4 },
+    { "ativo": "BTC",    "tipo": "variacao_24h_pct", "queda": 7,   "alta": 7 },
+    { "ativo": "KOSPI",  "tipo": "variacao_dia_pct", "queda": 4,   "alta": 4 },
+    { "ativo": "NIKKEI", "tipo": "variacao_dia_pct", "queda": 4,   "alta": 4 },
+    { "ativo": "VIX",    "tipo": "acima",            "valor": 25 },
+    { "ativo": "VIX",    "tipo": "salto_dia_pct",    "valor": 20 },
+    { "ativo": "DVOL",   "tipo": "acima",            "valor": 70 }
+  ],
+  "marcos": {
+    "meses": 3,
+    "ativos": ["NQ", "ES", "SOX", "BTC"]
+  },
+  "telegram": {
+    "ativo": true,
+    "prefixo": "[Awareness]"
+  }
+}
