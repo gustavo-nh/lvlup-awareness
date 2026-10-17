@@ -1,0 +1,33 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-17T23:22:00Z",
+  "data": "2026-10-18",
+  "janela": "noite",
+  "modo": "domingo_noite",
+  "fatos_relevantes": [
+    { "texto": "Semana sem falas do Fed (silêncio de 17 a 29/10); decisão em 27–28/10 com o mercado precificando alta de juros até o fim do ano",
+      "categoria": "agenda", "fonte": "Kiplinger", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar" },
+    { "texto": "Ter 20/10: housing starts de setembro (9h30 BRT) e balanço da Netflix após o fechamento",
+      "categoria": "agenda", "fonte": "Charles Schwab", "url": "https://www.schwab.com/learn/story/stock-market-update-open" },
+    { "texto": "Qua 21/10, após o fechamento: Texas Instruments e Lam Research (semis), além de Meta, Tesla, IBM e SAP",
+      "categoria": "agenda", "fonte": "Opening Bell Daily", "url": "https://www.openingbelldailynews.com/p/stock-market-week-ahead-oct-19-2026" },
+    { "texto": "Qui 22/10: pedidos de seguro-desemprego (9h30 BRT) e indicador antecedente do Conference Board",
+      "categoria": "agenda", "fonte": "Kiplinger", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar" },
+    { "texto": "Sex 23/10: PMIs preliminares de outubro (10h45 BRT) e sentimento final da Univ. de Michigan (11h BRT)",
+      "categoria": "agenda", "fonte": "Kiplinger", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar" },
+    { "texto": "Semana seguinte: Intel divulga resultado e sai o PIB do 3º trimestre em 29/10, um dia após a decisão do Fed",
+      "categoria": "agenda", "fonte": "Charles Schwab", "url": "https://www.schwab.com/learn/story/stock-market-update-open" }
+  ],
+  "moveu_mercados": [],
+  "pontos_sugeridos": [
+    { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
+      "porque": "Alta até o fim do ano acima de 90%; decisão em 28/10", "revisao": "2026-10-28" },
+    { "chave": "semis-sell-off", "tema": "Sell-off de semis", "vies": "bear", "peso": 3,
+      "porque": "SOX com oito quedas seguidas; TXN e Lam na quarta testam o setor", "revisao": "2026-10-21" },
+    { "chave": "divida-ia", "tema": "Dívida do ciclo de IA", "vies": "bear", "peso": 2,
+      "porque": "Títulos da CoreWeave em nível de estresse; Meta (capex de IA) reporta na quarta", "revisao": "2026-10-21" },
+    { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 3,
+      "porque": "Ataques em recorde e planos de ataque dos EUA ao Irã; risco de gap na reabertura" }
+  ],
+  "nota_sugerida": -2
+}

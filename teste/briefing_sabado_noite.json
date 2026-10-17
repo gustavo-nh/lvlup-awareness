@@ -1,0 +1,30 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-17T23:22:00Z",
+  "data": "2026-10-17",
+  "janela": "noite",
+  "modo": "fim_de_semana",
+  "fatos_relevantes": [
+    { "texto": "Irã diz que superpetroleiro com mais de 2 milhões de barris bateu em mina e pegou fogo; outubro já soma 23 ataques a navios, quase o dobro da média (UKMTO)",
+      "categoria": "geopolitica", "fonte": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/" },
+    { "texto": "EUA têm planos prontos para atacar alvos militares do Irã se Trump ordenar; Casa Branca diz que todas as opções estão na mesa",
+      "categoria": "geopolitica", "fonte": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/" },
+    { "texto": "Arábia Saudita bombardeia o Iêmen (ao menos 12 mortos, segundo os houthis); Egito diz que defenderia Riad se solicitado",
+      "categoria": "geopolitica", "fonte": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/" }
+  ],
+  "moveu_mercados": [
+    { "texto": "BTC estável perto de US$ 81,3 mil (−0,5% em 24 h), depois de ir abaixo de US$ 80 mil na semana; DVOL em 38, sem estresse",
+      "categoria": "cripto", "fonte": "precos.json (Yahoo/Deribit)" }
+  ],
+  "pontos_sugeridos": [
+    { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
+      "porque": "Alta até o fim do ano acima de 90%; Fed em silêncio até a decisão", "revisao": "2026-10-28" },
+    { "chave": "semis-sell-off", "tema": "Sell-off de semis", "vies": "bear", "peso": 3,
+      "porque": "SOX com oito quedas seguidas; balanços de TXN e Lam na quarta", "revisao": "2026-10-21" },
+    { "chave": "divida-ia", "tema": "Dívida do ciclo de IA", "vies": "bear", "peso": 2,
+      "porque": "Títulos da CoreWeave em nível de estresse puxam neoclouds e Nasdaq" },
+    { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 3,
+      "porque": "Ataques em recorde e planos de ataque dos EUA ao Irã elevam o risco para o petróleo na reabertura" }
+  ],
+  "nota_sugerida": -2
+}
