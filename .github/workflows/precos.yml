@@ -2,7 +2,7 @@ name: Precos e gatilhos
 
 on:
   schedule:
-    - cron: "7 * * * *"        # de hora em hora, minuto 7 (UTC)
+    - cron: "7 * * * *"        # de hora em hora, minuto 7 (UTC)  - ativado por Gustavo
   workflow_dispatch:            # botao "Run workflow" para rodar na hora
   push:                         # roda tambem quando a config ou o script mudam
     branches: [main]
