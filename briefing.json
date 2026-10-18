@@ -1,36 +1,44 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-18T10:45:00Z",
+  "gerado_em": "2026-10-18T23:46:02Z",
   "data": "2026-10-18",
-  "janela": "manha",
-  "modo": "fim_de_semana",
+  "janela": "noite",
+  "modo": "domingo_noite",
   "fatos_relevantes": [
-    { "texto": "Araghchi diz que o Irã enviou via Catar um plano para normalizar a passagem por Hormuz em sete dias se houver condições; a decisão, segundo ele, cabe aos EUA",
-      "categoria": "geopolitica", "fonte": "Investing.com", "url": "https://investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749" },
-    { "texto": "IRGC reafirma Hormuz fechado a navios sem autorização; CENTCOM diz que 97% das travessias ocorreram sem impacto e que redirecionou 138 navios no bloqueio a portos iranianos",
-      "categoria": "geopolitica", "fonte": "Investing.com", "url": "https://investing.com/news/economy-news/iran-war-tankers-hit-near-hormuz-as-tehran-offers-us-reopening-plan-4955749" },
-    { "texto": "UKMTO contou ao menos 10 ataques a navios em Hormuz ou perto nos sete dias até sábado, recorde semanal desde o início da guerra, e 23 em outubro; CENTCOM não confirmou as minas",
-      "categoria": "geopolitica", "fonte": "HNGN", "url": "https://www.hngn.com/articles/273540/20261018/iran-says-two-supertankers-hit-mines-hormuz.htm" },
-    { "texto": "Egito aprova envio de tropas à Arábia Saudita em missão defensiva, pendente do parlamento; operações no aeroporto King Khalid, em Riad, seguem suspensas após ataques houthis",
-      "categoria": "geopolitica", "fonte": "Gulf News", "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-drones-missiles-trump-says-iran-war-will-end-soon-1.500714637" },
-    { "texto": "Fed em período de silêncio antes de 28/10; semana traz PMIs preliminares e Michigan revisado na sexta (23/10) e balanço da Western Digital na quinta (22/10)",
-      "categoria": "agenda", "fonte": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-meta-tesla-and-chip-earnings-put-ai-trade-to-the-test-1638768" }
+    { "texto": "Trump diz que os EUA podem 'terminar o trabalho' contra o Irã em breve se Teerã não mudar de rumo; ataques americanos seguem pausados por causa das eleições de meio de mandato",
+      "categoria": "geopolitica", "fonte": "Fox News", "url": "https://noticias.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18" },
+    { "texto": "Araghchi diz que Hormuz pode reabrir em seis dias se os EUA aceitarem as condições do Irã; Lavrov visita Teerã na segunda para tratar do conflito",
+      "categoria": "geopolitica", "fonte": "Fox News", "url": "https://noticias.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18" },
+    { "texto": "UKMTO: rebocador atingido por dois projéteis a nordeste de Khor Fakkan (EAU) no domingo; novo ministro da Defesa do Irã promete resposta 'extensa' a novo ataque dos EUA",
+      "categoria": "geopolitica", "fonte": "Fox News", "url": "https://noticias.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18" },
+    { "texto": "PIB da China do 3º tri sai às 23:00 de domingo (BRT), 10:00 em Pequim",
+      "categoria": "agenda", "fonte": "FinanceCalendar", "url": "https://www.financecalendar.com/?p=2108" },
+    { "texto": "Balanços: Netflix na terça (20/10); Meta, Tesla, Texas Instruments, Lam Research e IBM na quarta (21/10) após o fechamento; Western Digital na quinta (22/10)",
+      "categoria": "agenda", "fonte": "StockTitan", "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-19-2026" },
+    { "texto": "Dados dos EUA: construção de casas na terça, pedidos de seguro-desemprego na quinta, PMIs preliminares e Michigan revisado na sexta (23/10)",
+      "categoria": "agenda", "fonte": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-meta-tesla-and-chip-earnings-put-ai-trade-to-the-test-1638768" },
+    { "texto": "Fed em período de silêncio a semana toda antes da reunião de 27 e 28/10; Intel divulga balanço em 29/10",
+      "categoria": "agenda", "fonte": "Opening Bell Daily", "url": "https://www.openingbelldailynews.com/p/stock-market-week-ahead-oct-19-2026" }
   ],
   "moveu_mercados": [
-    { "texto": "Cerca de US$ 51,6 mi em posições alavancadas liquidadas em 10 min no sábado em contratos de ações de chips na Binance e Hyperliquid; SOXL US$ 12,7 mi, SanDisk e SK Hynix US$ 10,8 mi cada",
-      "categoria": "semis", "fonte": "CoinDesk", "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut" },
-    { "texto": "BTC perto de US$ 82,1 mil (+0,7% em 24 h) na manhã de domingo; DVOL em 38,2",
-      "categoria": "cripto", "fonte": "precos.json (Yahoo/Deribit)" }
+    { "texto": "Na reabertura de domingo, NQ sobe 0,78% (29.620,5) e ES 0,43% (7.737,5)",
+      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)" },
+    { "texto": "Na semana, Nasdaq caiu 4,48% e S&P 500 1,95%, com semis e hardware liderando a queda em meio a temores sobre o financiamento da IA e juros mais altos",
+      "categoria": "mercados", "fonte": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-meta-tesla-and-chip-earnings-put-ai-trade-to-the-test-1638768" },
+    { "texto": "Brent fechou a sexta a US$ 109,86 (+3,7%), maior nível desde 19/05, com os ataques a navios em Hormuz; bolsa do Catar na mínima desde abril de 2020",
+      "categoria": "mercados", "fonte": "Fox News", "url": "https://noticias.foxnews.com/live-news/us-iran-war-peace-talks-oil-strait-hormuz-trump-october-18" },
+    { "texto": "BTC perto de US$ 82,0 mil (+0,9% em 24 h); liquidações de 24 h em cerca de US$ 359 mi, 78% de posições compradas",
+      "categoria": "cripto", "fonte": "The Crypto Times", "url": "https://www.cryptotimes.io/2026/10/19/bitcoin-price-holds-81k-ethereum-slips-to-2365-as-crypto-liquidations-cool-to-359m/" }
   ],
   "pontos_sugeridos": [
     { "chave": "semis-sell-off", "tema": "Sell-off de semis", "vies": "bear", "peso": 3,
-      "porque": "SOX com oito quedas seguidas e contratos de chips liquidados no fim de semana; TXN e Lam divulgam balanço na quarta", "revisao": "2026-10-21" },
-    { "chave": "divida-ia", "tema": "Dívida do ciclo de IA", "vies": "bear", "peso": 2,
-      "porque": "Títulos e CDS da CoreWeave em nível de estresse pesam sobre neoclouds e Nasdaq" },
+      "porque": "SOXX caiu 11,8% na semana; Texas Instruments e Lam Research divulgam balanço na quarta", "revisao": "2026-10-21" },
     { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 3,
-      "porque": "Hormuz segue fechado pelo IRGC com ataques em recorde; plano iraniano de reabertura em sete dias depende dos EUA" },
+      "porque": "Brent perto de US$ 110 com ataques seguidos a navios; Trump ameaça retomar ofensiva e plano iraniano depende dos EUA" },
+    { "chave": "divida-ia", "tema": "Dívida do ciclo de IA", "vies": "bear", "peso": 2,
+      "porque": "Estresse nos títulos da CoreWeave segue pesando sobre neoclouds e Nasdaq; balanços de Meta na quarta testam o capex de IA", "revisao": "2026-10-21" },
     { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
-      "porque": "Outubro perto da manutenção, mas mercado vê cerca de 89% de chance de alta em dezembro", "revisao": "2026-10-28" }
+      "porque": "Juros mais altos e chance de nova alta pesaram sobre tech; Fed em silêncio até a decisão de 28/10", "revisao": "2026-10-28" }
   ],
   "nota_sugerida": -2
 }
