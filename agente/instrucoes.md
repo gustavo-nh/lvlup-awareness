@@ -7,6 +7,7 @@ Especificação completa: `claude/agente-briefing-mercado-spec.md` no Projeto "T
 ## 0. Preparação (sempre)
 1. O repo `gustavo-nh/lvlup-awareness` já deve estar clonado (o comando da tarefa manda anexar e clonar). Trabalhe dentro dele e rode `git pull --rebase origin main` antes de começar.
 2. Hora atual em Brasília: `TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M %a'`.
+2a. **Atualize os preços:** `bash scripts/atualizar_precos.sh` (dispara o workflow de preços, espera até ~4 min e faz `git pull`). Ele também confere os gatilhos de preço e manda os alertas ao Telegram. Se der aviso de falha, siga com o `precos.json` que existir. Use sempre `gh api` (REST); `gh workflow run` não funciona neste ambiente.
 3. Leia:
    - `config.json` — ativos e marcos (`marcos.meses`, `marcos.ativos`).
    - `precos.json` — preços, variações e marcos (gerado de hora em hora pelo GitHub Actions). Confira `gerado_em`; se tiver mais de 3 h, use mesmo assim, mas não cite movimentos que podem ter mudado.
