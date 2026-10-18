@@ -1,0 +1,13 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-10-18T00:35:21Z",
+  "alertas": [
+    { "id": "2026-10-17-teste-ponta-a-ponta",
+      "gerado_em": "2026-10-18T00:35:21Z",
+      "categoria": "mercados",
+      "titulo": "Teste ponta a ponta dos alertas de noticia",
+      "texto": "Alerta forcado para conferir o caminho agente -> alerta.json -> GitHub Actions -> Telegram. Nenhuma acao necessaria.",
+      "fonte": "Awareness",
+      "teste": true }
+  ]
+}
