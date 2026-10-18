@@ -31,7 +31,16 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python3 scripts/precos.py
 
+      - name: Reenviar alertas de noticia pendentes (reserva)
+        if: always()
+        continue-on-error: true
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 scripts/enviar_alertas.py
+
       - name: Salvar no repositorio
+        if: always()
         run: |
           git config user.name "awareness-bot"
           git config user.email "awareness-bot@users.noreply.github.com"
