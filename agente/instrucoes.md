@@ -51,11 +51,14 @@ Para os ativos de `marcos.ativos`, olhe `marcos_recentes` (tipos `ath`, `max_Nm`
 ### Pontos de atenção sugeridos (máx. 6)
 - Ponto = **tema** (ex.: "Fed mais hawkish", "Sell-off de semis", "Estresse na Ásia"), não uma notícia isolada.
 - `chave`: slug ASCII minúsculo com hífens. **Reutilize a chave do briefing anterior** para o mesmo tema; crie nova só para tema novo.
-- `vies`: em relação a ativos de risco (NQ/ES/SOX/BTC): `"bear"` = negativo, `"bull"` = positivo.
+- `vies`: em relação a ativos de risco (NQ/ES/SOX/BTC): `"bear"` = negativo, `"bull"` = positivo, `"neutro"` = tema relevante ainda sem direção.
+- **Quando usar `"neutro"`:** só para tema **relevante e próximo** sem lado claro: evento agendado de alto impacto (decisão do Fed, CPI, payroll, balanço de NVDA/TSMC) ou risco em formação que pode ir para os dois lados. **Nunca** use neutro como "sem opinião" genérico nem para encher a lista — tema irrelevante fica de fora; tema com direção é bull ou bear.
+- Em neutro, `peso` = importância e `porque` diz por que monitorar e o que definiria a direção (ex.: "tom hawkish → bear; sinal de pausa → bull"). Sugira `revisao` na data do evento.
+- **Reclassificar:** quando a direção ficar clara num briefing seguinte, mantenha a **mesma chave** e troque o `vies` para bull/bear (o dashboard mostra "reclassificar"). Se o tema perder relevância depois do evento, tire o ponto.
 - `peso`: 1 = relevante; 2 = importante e já mexendo com preço; 3 = dominante, pode mudar o regime.
 - Mantenha temas que continuam vivos mesmo sem notícia nova (ajuste o peso se perderam força); tire os resolvidos.
 - `porque`: uma linha. `revisao` (opcional): data para reavaliar, se houver evento claro (ex.: dia da decisão do Fed).
-- `nota_sugerida`: placar = soma de peso × (+1 bull, −1 bear). Faixas: ≤ −5 → −2; −4 a −2 → −1; −1 a +1 → 0; +2 a +4 → +1; ≥ +5 → +2.
+- `nota_sugerida`: placar = soma de peso × (+1 bull, −1 bear); **pontos neutros não entram**. Faixas: ≤ −5 → −2; −4 a −2 → −1; −1 a +1 → 0; +2 a +4 → +1; ≥ +5 → +2.
 
 ### Regras de qualidade
 - **Só fatos encontrados nas buscas desta execução**, com `fonte` (nome do veículo) e `url` real da notícia. Nunca invente número, data, citação ou link. Na dúvida, deixe de fora.
@@ -79,7 +82,10 @@ Para os ativos de `marcos.ativos`, olhe `marcos_recentes` (tipos `ath`, `max_Nm`
   ],
   "pontos_sugeridos": [
     { "chave": "fed-hawkish", "tema": "Fed mais hawkish", "vies": "bear", "peso": 2,
-      "porque": "...", "revisao": "2026-10-29" }
+      "porque": "..." },
+    { "chave": "decisao-fed-28-10", "tema": "Decisão do Fed em 28/10", "vies": "neutro", "peso": 3,
+      "porque": "Alta x manutenção em aberto; tom hawkish ou alta → bear, sinal de pausa → bull",
+      "revisao": "2026-10-28" }
   ],
   "nota_sugerida": -1
 }
