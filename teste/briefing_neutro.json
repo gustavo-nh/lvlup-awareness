@@ -1,0 +1,28 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-10-19T17:45:00Z",
+  "data": "2026-10-20",
+  "janela": "manha",
+  "modo": "util",
+  "fatos_relevantes": [
+    { "texto": "Fed em período de silêncio até 29/10; decisão em 27–28/10 com o mercado precificando alta de juros até o fim do ano",
+      "categoria": "bc", "fonte": "Kiplinger", "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar" },
+    { "texto": "Qua 21/10, após o fechamento: Texas Instruments e Lam Research divulgam balanço, primeiro teste do setor após o sell-off",
+      "categoria": "agenda", "fonte": "Opening Bell Daily", "url": "https://www.openingbelldailynews.com/p/stock-market-week-ahead-oct-19-2026" }
+  ],
+  "moveu_mercados": [
+    { "texto": "SOX −3,8% em 16/10, oitava queda seguida; −11,4% na semana, a pior desde abril de 2025",
+      "categoria": "semis", "fonte": "CNN", "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/16/nasdaq-sinks-more-than-2-as-investors-raise-questions-about-ai-debt/" }
+  ],
+  "pontos_sugeridos": [
+    { "chave": "semis-sell-off", "tema": "Sell-off de semis", "vies": "bear", "peso": 3,
+      "porque": "SOX com oito quedas seguidas e −11,4% na semana" },
+    { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 2,
+      "porque": "Brent perto de US$ 110 mantém a pressão inflacionária" },
+    { "chave": "decisao-fed-28-10", "tema": "Decisão do Fed em 28/10", "vies": "neutro", "peso": 3,
+      "porque": "Alta x manutenção em aberto; tom hawkish ou alta → bear, sinal de pausa → bull", "revisao": "2026-10-28" },
+    { "chave": "balancos-semis-21-10", "tema": "Balanços de TXN e Lam", "vies": "neutro", "peso": 2,
+      "porque": "Guidance forte alivia o sell-off (bull); fraco confirma (bear)", "revisao": "2026-10-22" }
+  ],
+  "nota_sugerida": -2
+}

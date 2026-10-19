@@ -112,8 +112,8 @@ def validar(b, data=None, janela=None):
         else:
             chaves.add(ch)
         texto(p.get("tema"), f"{onde}.tema", limite=60)
-        if p.get("vies") not in ("bull", "bear"):
-            erros.append(f"{onde}.vies: precisa ser 'bull' ou 'bear'")
+        if p.get("vies") not in ("bull", "bear", "neutro"):
+            erros.append(f"{onde}.vies: precisa ser 'bull', 'bear' ou 'neutro'")
         if p.get("peso") not in (1, 2, 3) or isinstance(p.get("peso"), bool):
             erros.append(f"{onde}.peso: precisa ser 1, 2 ou 3")
         texto(p.get("porque"), f"{onde}.porque", limite=160)
