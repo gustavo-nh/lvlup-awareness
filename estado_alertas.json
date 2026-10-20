@@ -15,6 +15,11 @@
       "em": "2026-10-18T00:35:29Z",
       "status": "enviado",
       "texto": "Teste ponta a ponta dos alertas de noticia"
+    },
+    "KOSPI|variacao_dia_pct|queda|2026-10-20": {
+      "em": "2026-10-20T04:33:37Z",
+      "status": "enviado",
+      "texto": "🔴 KOSPI −4,1% no dia (gatilho: queda > 4,0%) · 5.533,64"
     }
   },
   "ultima_config_valida": {
