@@ -1,50 +1,130 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-22T23:43:52Z",
-  "data": "2026-10-22",
-  "janela": "noite",
+  "gerado_em": "2026-10-23T10:44:13Z",
+  "data": "2026-10-23",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
-    { "texto": "CEO da Lam Research diz que falta de sala limpa e de componentes pode limitar os fabricantes de chips até 2027; CFO afirma que o guidance seria maior sem essas restrições",
-      "categoria": "semis", "fonte": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/10/22/chip-stocks-fall-as-supply-warning-deepens-ai-selloff-marvell-and-amd-sink-8-intel-drops-7/" },
-    { "texto": "Mercado segue precificando chance de nova alta de 25 pb do Fed até o fim do ano; pedidos de seguro-desemprego ficam perto das mínimas em décadas",
-      "categoria": "bc", "fonte": "Reuters (via GV Wire)", "url": "https://gvwire.com/2026/10/22/wall-street-sinks-as-nasdaq-falls-over-2-on-ai-cost-worries/" },
-    { "texto": "Houthis avançam rumo ao estreito de Bab el-Mandeb em confronto com a coalizão saudita; analista não espera desescalada antes das eleições de meio de mandato nos EUA",
-      "categoria": "geopolitica", "fonte": "Reuters (via MarineLink)", "url": "https://www.marinelink.com/news/houthi-attacks-drive-oil-prices-fivemonth-543850" },
-    { "texto": "ETFs de BTC à vista tiveram entrada líquida de US$ 528,4 mi em 21/10 (IBIT US$ 235 mi; FBTC US$ 212,7 mi), segundo a SoSoValue",
-      "categoria": "cripto", "fonte": "The Crypto Times", "url": "https://www.cryptotimes.io/2026/10/23/crypto-long-liquidations-hit-418m-as-bitcoin-and-ethereum-extend-losses/" },
-    { "texto": "Amanhã (23/10): PMIs prévios da S&P Global às 10:45 BRT e Michigan final com expectativas de inflação às 11:00; balanços de American Express, SLB e Infosys antes da abertura",
-      "categoria": "agenda", "fonte": "Investrade", "url": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/" }
+    {
+      "texto": "Guarda Revolucionária do Irã ameaça bases dos EUA se navios comerciais seguirem passando por Hormuz; Arábia Saudita intercepta míssil houthi lançado contra Riade",
+      "categoria": "geopolitica",
+      "fonte": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-october-2026"
+    },
+    {
+      "texto": "Trump diz que os EUA \"esmagaram\" o Irã e podem agir de novo; há relatos de que EUA e Israel avaliam novos ataques depois das eleições de 3/11",
+      "categoria": "geopolitica",
+      "fonte": "Invezz",
+      "url": "https://invezz.com/news/2026/10/23/oil-nears-114-as-middle-east-supply-fears-overshadow-trumps-production-push/"
+    },
+    {
+      "texto": "Busca por proteção reduz apostas em alta do Fed: futuros dão ~5% de chance de alta em 28/10 e ~80% em dezembro",
+      "categoria": "bc",
+      "fonte": "Reuters (via WBOW)",
+      "url": "https://1027wbow.com/2026/10/23/earnings-flood-fed-meeting-pose-pivotal-tests-for-rickety-ai-market-rally/"
+    },
+    {
+      "texto": "Japão: CPI de setembro sobe 2,1% a/a, em linha (anterior 1,9%); núcleo sem alimentos e energia em 2,4% (esperado 2,3%), reforçando aposta de alta do BoJ",
+      "categoria": "macro",
+      "fonte": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-october-2026"
+    },
+    {
+      "texto": "SK Hynix suspende o IPO da subsidiária Solidigm nos EUA, citando a volatilidade do mercado",
+      "categoria": "semis",
+      "fonte": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/finance/2026/10/23/chip-shares-slide-as-ai-spending-fears-outweigh-solidigm"
+    },
+    {
+      "texto": "Moody's revisa hoje a nota da França (Aa3, perspectiva negativa); maioria dos economistas espera rebaixamento para A1",
+      "categoria": "agenda",
+      "fonte": "ABC Bourse",
+      "url": "https://www.abcbourse.com/marches/moody-s-pourrait-degrader-la-note-de-la-france-vendredi_704606"
+    },
+    {
+      "texto": "Próxima semana: decisão do Fed e balanços de Alphabet e Microsoft na quarta (28/10); Amazon na quinta; Intel e Sandisk também reportam",
+      "categoria": "agenda",
+      "fonte": "Reuters (via WBOW)",
+      "url": "https://1027wbow.com/2026/10/23/earnings-flood-fed-meeting-pose-pivotal-tests-for-rickety-ai-market-rally/"
+    }
   ],
   "moveu_mercados": [
-    { "texto": "Wall Street fecha em queda em 22/10: Nasdaq −2,60% (26.008,86) e S&P 500 −1,21% (7.663,43); Dow estável (+0,02%)",
-      "categoria": "mercados", "fonte": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html" },
-    { "texto": "SOX despenca 6,72% (10.731,98) após alerta de oferta da Lam Research; Marvell, AMD, Intel, Western Digital e Sandisk caem mais de 7%",
-      "categoria": "semis", "fonte": "precos.json (Yahoo/Deribit) e Reuters (via GV Wire)", "url": "https://gvwire.com/2026/10/22/wall-street-sinks-as-nasdaq-falls-over-2-on-ai-cost-worries/" },
-    { "texto": "Meta cai cerca de 7% após primeiro fluxo de caixa negativo em mais de uma década e plano de ações sem voto; Tesla recua apesar de capex menor",
-      "categoria": "mercados", "fonte": "Reuters (via GV Wire)", "url": "https://gvwire.com/2026/10/22/wall-street-sinks-as-nasdaq-falls-over-2-on-ai-cost-worries/" },
-    { "texto": "Futuros estabilizam à noite na sessão de 22/10: NQ −0,26% (29.066) e ES −0,02% (7.703); VIX fechou em alta de 14,1%, a 19,03",
-      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)" },
-    { "texto": "Brent sobe 2,2% para US$ 111,24, máxima de 5 meses, com a Aramco mandando evacuar a sede em Dhahran; WTI em US$ 98,29",
-      "categoria": "mercados", "fonte": "Reuters (via MarineLink)", "url": "https://www.marinelink.com/news/houthi-attacks-drive-oil-prices-fivemonth-543850" },
-    { "texto": "Treasuries sobem com a busca por proteção: yield de 10 anos recua cerca de 11 pb para perto de 5,02%; o de 30 anos vai a 5,32%",
-      "categoria": "mercados", "fonte": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html" },
-    { "texto": "BTC cai 3,51% em 24 h (81.254,5, Deribit); liquidações somam US$ 458 mi, 91% de posições compradas; DVOL em 38,4",
-      "categoria": "cripto", "fonte": "The Crypto Times", "url": "https://www.cryptotimes.io/2026/10/23/crypto-long-liquidations-hit-418m-as-bitcoin-and-ethereum-extend-losses/" }
+    {
+      "texto": "Brent sobe a US$ 113,64 (+0,4%) e WTI a US$ 100,02, perto das máximas desde maio, com ataques houthis na Arábia Saudita e tensão com o Irã",
+      "categoria": "mercados",
+      "fonte": "Invezz",
+      "url": "https://invezz.com/news/2026/10/23/oil-nears-114-as-middle-east-supply-fears-overshadow-trumps-production-push/"
+    },
+    {
+      "texto": "KOSPI chega a cair 4,1% no dia e fecha em alta de 0,30% (5.550,30); SK Hynix sobe 4,74% após abrir em queda; Nikkei −0,34%",
+      "categoria": "mercados",
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262235221-japan-korea-stocks-close-mixed-kospi-rebound-sk-hynix-samsung-kioxia-tradingkey"
+    },
+    {
+      "texto": "Futuros estáveis na manhã de 23/10: NQ −0,03% (29.132) e ES −0,23% (7.686,75); VIX em 19,58 (+2,9%)",
+      "categoria": "mercados",
+      "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "Treasuries seguem em alta com a busca por proteção: yield de 10 anos abaixo de 5%, em torno de 4,96%",
+      "categoria": "mercados",
+      "fonte": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-october-2026"
+    },
+    {
+      "texto": "ETFs de BTC à vista têm saída líquida de US$ 635,5 mi em 22/10, a maior desde 25/6; BTC em 81.640 (−0,5% em 24 h, Deribit), DVOL em 37",
+      "categoria": "cripto",
+      "fonte": "crypto.news",
+      "url": "https://crypto.news/why-is-bitcoin-price-down-today-etf-outflows/"
+    }
   ],
   "pontos_sugeridos": [
-    { "chave": "petroleo-hormuz", "tema": "Petróleo e escalada no Golfo", "vies": "bear", "peso": 3,
-      "porque": "Brent na máxima de 5 meses (US$ 111), Aramco evacua sede e houthis avançam rumo a Bab el-Mandeb" },
-    { "chave": "selloff-semis", "tema": "Sell-off de semis", "vies": "bear", "peso": 3,
-      "porque": "SOX −6,7% no dia com alerta da Lam de restrição de oferta até 2027; queda espalhada pelo setor" },
-    { "chave": "divida-ia", "tema": "Custo e dívida do ciclo de IA", "vies": "bear", "peso": 2,
-      "porque": "Meta −7% com caixa negativo e ações sem voto para financiar IA; Nasdaq −2,6%" },
-    { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
-      "porque": "Mercado vê chance de alta até o fim do ano; emprego firme e petróleo acima de US$ 110", "revisao": "2026-10-28" },
-    { "chave": "estresse-asia", "tema": "Estresse nas bolsas da Ásia", "vies": "bear", "peso": 1,
-      "porque": "Ásia reabre esta noite depois de KOSPI −3,5%, Nikkei −2,7% e China em bear market; semis dos EUA caíram forte" },
-    { "chave": "crise-franca", "tema": "Crise fiscal e política na França", "vies": "bear", "peso": 1,
-      "porque": "Spread da dívida francesa em 148 pb; orçamento 2027 segue como risco" }
+    {
+      "chave": "petroleo-hormuz",
+      "tema": "Petróleo e escalada no Golfo",
+      "vies": "bear",
+      "peso": 3,
+      "porque": "Brent acima de US$ 113 e WTI em US$ 100; Irã ameaça bases dos EUA e houthis seguem atacando a Arábia Saudita"
+    },
+    {
+      "chave": "selloff-semis",
+      "tema": "Sell-off de semis",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Depois do SOX −6,7%, Ásia estabilizou (SK Hynix +4,7%), mas SK Hynix suspendeu IPO da Solidigm"
+    },
+    {
+      "chave": "divida-ia",
+      "tema": "Custo e dívida do ciclo de IA",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Dúvidas sobre financiamento do capex de IA seguem após Meta; balanços de Alphabet, Microsoft e Amazon vêm na próxima semana"
+    },
+    {
+      "chave": "fed-hawkish",
+      "tema": "Fed com viés de alta de juros",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Alta em dezembro ~80% precificada, mas busca por proteção reduziu apostas; decisão em 28/10 deve manter juros",
+      "revisao": "2026-10-28"
+    },
+    {
+      "chave": "balancos-big-tech",
+      "tema": "Balanços de Alphabet, Microsoft e Amazon",
+      "vies": "neutro",
+      "peso": 3,
+      "porque": "Testam o rali de IA após Meta; capex e caixa fortes → bull, mais gasto com caixa fraco → bear",
+      "revisao": "2026-10-28"
+    },
+    {
+      "chave": "crise-franca",
+      "tema": "Crise fiscal e política na França",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Yield de 10 anos francês passou de 5% e a Moody's revisa a nota hoje, com rebaixamento esperado",
+      "revisao": "2026-10-23"
+    }
   ],
   "nota_sugerida": -2
 }
