@@ -1,82 +1,58 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-23T10:44:13Z",
+  "gerado_em": "2026-10-23T23:44:55Z",
   "data": "2026-10-23",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Guarda Revolucionária do Irã ameaça bases dos EUA se navios comerciais seguirem passando por Hormuz; Arábia Saudita intercepta míssil houthi lançado contra Riade",
+      "texto": "Irã ameaça atacar instalações de petróleo, data centers e estruturas de IA em até sete países do Golfo se for atacado de novo",
       "categoria": "geopolitica",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-october-2026"
+      "fonte": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
     },
     {
-      "texto": "Trump diz que os EUA \"esmagaram\" o Irã e podem agir de novo; há relatos de que EUA e Israel avaliam novos ataques depois das eleições de 3/11",
+      "texto": "Embaixador dos EUA na ONU, Mike Waltz, diz ao FT que a guerra com o Irã pode durar mais um ano; Trump sugere deixar o conflito \"definhar\"",
       "categoria": "geopolitica",
-      "fonte": "Invezz",
-      "url": "https://invezz.com/news/2026/10/23/oil-nears-114-as-middle-east-supply-fears-overshadow-trumps-production-push/"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
-      "texto": "Busca por proteção reduz apostas em alta do Fed: futuros dão ~5% de chance de alta em 28/10 e ~80% em dezembro",
-      "categoria": "bc",
-      "fonte": "Reuters (via WBOW)",
-      "url": "https://1027wbow.com/2026/10/23/earnings-flood-fed-meeting-pose-pivotal-tests-for-rickety-ai-market-rally/"
-    },
-    {
-      "texto": "Japão: CPI de setembro sobe 2,1% a/a, em linha (anterior 1,9%); núcleo sem alimentos e energia em 2,4% (esperado 2,3%), reforçando aposta de alta do BoJ",
+      "texto": "Sentimento do consumidor de Michigan em 48,0 (esperado 46,3; anterior 48,1), o segundo menor da série; expectativa de inflação em 1 ano sobe a 4,7% e em 5 anos a 3,5%",
       "categoria": "macro",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-october-2026"
-    },
-    {
-      "texto": "SK Hynix suspende o IPO da subsidiária Solidigm nos EUA, citando a volatilidade do mercado",
-      "categoria": "semis",
-      "fonte": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/finance/2026/10/23/chip-shares-slide-as-ai-spending-fears-outweigh-solidigm"
-    },
-    {
-      "texto": "Moody's revisa hoje a nota da França (Aa3, perspectiva negativa); maioria dos economistas espera rebaixamento para A1",
-      "categoria": "agenda",
-      "fonte": "ABC Bourse",
-      "url": "https://www.abcbourse.com/marches/moody-s-pourrait-degrader-la-note-de-la-france-vendredi_704606"
-    },
-    {
-      "texto": "Próxima semana: decisão do Fed e balanços de Alphabet e Microsoft na quarta (28/10); Amazon na quinta; Intel e Sandisk também reportam",
-      "categoria": "agenda",
-      "fonte": "Reuters (via WBOW)",
-      "url": "https://1027wbow.com/2026/10/23/earnings-flood-fed-meeting-pose-pivotal-tests-for-rickety-ai-market-rally/"
+      "fonte": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Brent sobe a US$ 113,64 (+0,4%) e WTI a US$ 100,02, perto das máximas desde maio, com ataques houthis na Arábia Saudita e tensão com o Irã",
+      "texto": "Brent fecha a US$ 116,72, máxima de seis meses e terceira alta semanal; WTI acima de US$ 103, com escalada no Oriente Médio e ataques perto do Mar Vermelho",
       "categoria": "mercados",
-      "fonte": "Invezz",
-      "url": "https://invezz.com/news/2026/10/23/oil-nears-114-as-middle-east-supply-fears-overshadow-trumps-production-push/"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
-      "texto": "KOSPI chega a cair 4,1% no dia e fecha em alta de 0,30% (5.550,30); SK Hynix sobe 4,74% após abrir em queda; Nikkei −0,34%",
+      "texto": "Wall Street fecha em queda: Dow −1,23% (52.215,16), S&P 500 −0,52% e Nasdaq −0,21%; S&P e Nasdaq têm a segunda semana seguida de perdas",
       "categoria": "mercados",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/more/262235221-japan-korea-stocks-close-mixed-kospi-rebound-sk-hynix-samsung-kioxia-tradingkey"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
-      "texto": "Futuros estáveis na manhã de 23/10: NQ −0,03% (29.132) e ES −0,23% (7.686,75); VIX em 19,58 (+2,9%)",
+      "texto": "Sessão de 23/10: NQ +0,11% (29.175) e ES −0,42% (7.672,5); SOX +0,44% (10.779,5) e VIX em 19,45 (+2,2%)",
       "categoria": "mercados",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Treasuries seguem em alta com a busca por proteção: yield de 10 anos abaixo de 5%, em torno de 4,96%",
+      "texto": "Yield do Treasury de 10 anos sobe a 4,988% na sexta, ainda abaixo de 5%, depois da maior queda diária em mais de dois anos na quinta",
       "categoria": "mercados",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---23rd-october-2026"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     },
     {
-      "texto": "ETFs de BTC à vista têm saída líquida de US$ 635,5 mi em 22/10, a maior desde 25/6; BTC em 81.640 (−0,5% em 24 h, Deribit), DVOL em 37",
-      "categoria": "cripto",
-      "fonte": "crypto.news",
-      "url": "https://crypto.news/why-is-bitcoin-price-down-today-etf-outflows/"
+      "texto": "Aéreas (United, Delta, American) caem com a perspectiva de combustível mais caro; Nvidia e AMD fecham mistas, com recuperação só parcial da tecnologia",
+      "categoria": "semis",
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
     }
   ],
   "pontos_sugeridos": [
@@ -85,28 +61,28 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 3,
-      "porque": "Brent acima de US$ 113 e WTI em US$ 100; Irã ameaça bases dos EUA e houthis seguem atacando a Arábia Saudita"
+      "porque": "Brent em US$ 116,72, máxima de seis meses; Irã ameaça infraestrutura de energia e IA no Golfo e EUA falam em guerra longa"
     },
     {
       "chave": "selloff-semis",
       "tema": "Sell-off de semis",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Depois do SOX −6,7%, Ásia estabilizou (SK Hynix +4,7%), mas SK Hynix suspendeu IPO da Solidigm"
+      "peso": 1,
+      "porque": "Rebote parcial na sexta (SOX +0,4%) após a queda forte da semana; Nvidia e AMD mistas"
     },
     {
       "chave": "divida-ia",
       "tema": "Custo e dívida do ciclo de IA",
       "vies": "bear",
       "peso": 2,
-      "porque": "Dúvidas sobre financiamento do capex de IA seguem após Meta; balanços de Alphabet, Microsoft e Amazon vêm na próxima semana"
+      "porque": "Tecnologia só se recuperou em parte das dúvidas sobre financiamento do capex de IA; Alphabet, Microsoft e Amazon reportam na próxima semana"
     },
     {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Alta em dezembro ~80% precificada, mas busca por proteção reduziu apostas; decisão em 28/10 deve manter juros",
+      "porque": "Expectativa de inflação de 1 ano no Michigan sobe a 4,7%; decisão de 28/10 deve manter juros, com alta em dezembro no radar",
       "revisao": "2026-10-28"
     },
     {
@@ -122,8 +98,7 @@
       "tema": "Crise fiscal e política na França",
       "vies": "bear",
       "peso": 1,
-      "porque": "Yield de 10 anos francês passou de 5% e a Moody's revisa a nota hoje, com rebaixamento esperado",
-      "revisao": "2026-10-23"
+      "porque": "Rebaixamento da nota pela Moody's era esperado para a noite de 23/10; resultado ainda não confirmado nesta execução"
     }
   ],
   "nota_sugerida": -2
