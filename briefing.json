@@ -1,64 +1,58 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-24T10:48:39Z",
+  "gerado_em": "2026-10-24T23:43:12Z",
   "data": "2026-10-24",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Coalizão liderada pela Arábia Saudita intercepta neste sábado míssil balístico dos Houthis contra Riad e, depois, dois mísseis disparados contra Taif e Yanbu, polo petrolífero do Mar Vermelho",
+      "texto": "Trump diz que os EUA podem atacar o Irã \"talvez amanhã\" ou fechar um grande acordo, \"em qualquer caso vamos ganhar\"; não revela prazo de operação militar",
       "categoria": "geopolitica",
-      "fonte": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-october-24-2026/amp/"
+      "fonte": "Kurdistan24",
+      "url": "https://www.kurdistan24.net/en/story/948302/trump-we-may-attack-iran-tomorrow-or-we-may-get-a-great-deal-either-way-we-win"
     },
     {
-      "texto": "Chefe do Estado-Maior do Irã, Ali Abdollahi, diz que o país não permitirá a entrada de navios militares dos EUA no Golfo \"em nenhuma circunstância\"",
+      "texto": "WSJ: porta-aviões USS George Washington é rearmado no Mar da Arábia com bombas antibunker e mísseis de longo alcance; EUA retiram pessoal não essencial da embaixada em Riad",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack"
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388"
     },
     {
-      "texto": "Pezeshkian deve se reunir com Putin em Moscou na cúpula de exportadores de gás de 27/10; negociações entre EUA e Irã seguem paradas há meses",
+      "texto": "Al Arabiya diz que o Irã aceitaria retomar conversas e reabrir Hormuz se os EUA suspenderem o bloqueio aos portos iranianos; Tasnim nega qualquer nova oferta",
       "categoria": "geopolitica",
-      "fonte": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-october-24-2026/amp/"
+      "fonte": "Iran International",
+      "url": "https://www.iranintl.com/en/liveblog/202610244311"
     },
     {
-      "texto": "Moody's mantém a nota da França em Aa3 com perspectiva negativa, contra a expectativa de rebaixamento; revisão saiu após o fechamento de NY em 23/10",
-      "categoria": "mercados",
-      "fonte": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/finance/2026/10/24/france-dodges-downgrade-as-moodys-keeps-aa3-rating"
+      "texto": "Fontes de segurança do Irã dizem à Reuters que Teerã tem planos para atingir cabos submarinos de internet no Golfo se EUA ou Israel atacarem de novo",
+      "categoria": "geopolitica",
+      "fonte": "Gulf News (Reuters)",
+      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388"
     },
     {
-      "texto": "Fed decide os juros na quarta (28/10), com coletiva de Warsh; futuros dão menos de 10% de chance de alta agora e cerca de 80% em dezembro",
+      "texto": "Arábia Saudita responde aos mísseis dos Houthis com ataques aéreos em Sanaa e Mocha, segundo a Al-Masirah (números não confirmados); Houthis ameaçam o aeroporto de Riad",
+      "categoria": "geopolitica",
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388"
+    },
+    {
+      "texto": "CPI de setembro sai na quinta (29/10), um dia depois da decisão do Fed (27–28/10)",
       "categoria": "agenda",
-      "fonte": "The Star (Reuters)",
-      "url": "https://thestar.com.my/tech/tech-news/2026/10/24/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally"
-    },
-    {
-      "texto": "Semana mais cheia da temporada de balanços (cerca de um terço do S&P 500): Alphabet e Microsoft na quarta, Amazon na quinta; Intel e Sandisk também reportam",
-      "categoria": "agenda",
-      "fonte": "The Star (Reuters)",
-      "url": "https://thestar.com.my/tech/tech-news/2026/10/24/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally"
+      "fonte": "BeInCrypto (Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "BTC a US$ 80.592 neste sábado (−1,3% em 24 h), perto do suporte de US$ 80 mil; DVOL em 37,4",
+      "texto": "BTC a US$ 80.761 neste sábado à noite (−0,16% em 24 h), ainda abaixo de US$ 83 mil; DVOL em 38,0",
       "categoria": "cripto",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "ETFs de BTC à vista têm saída líquida de US$ 635,6 milhões em 22/10, a maior desde junho (IBIT −US$ 254,1 mi; FBTC −US$ 217,5 mi); ETFs de ether perdem US$ 110,6 mi",
+      "texto": "BTC perde US$ 83 mil; numa queda de 4 h, US$ 91,2 mi dos US$ 95,2 mi liquidados eram compras; Glassnode estima custo médio das empresas com BTC em US$ 80 mil",
       "categoria": "cripto",
-      "fonte": "The Block",
-      "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483"
-    },
-    {
-      "texto": "Liquidações de US$ 87 mi a 91 mi em posições de BTC em 24 h, a maior parte compradas; dominância do BTC perto de 60% com altcoins caindo mais",
-      "categoria": "cripto",
-      "fonte": "CaptainAltcoin",
-      "url": "https://captainaltcoin.com/why-is-the-crypto-market-down-today-october-24/"
+      "fonte": "BeInCrypto (Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html"
     }
   ],
   "pontos_sugeridos": [
@@ -67,14 +61,7 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 3,
-      "porque": "Brent perto da máxima de seis meses; Houthis miram Yanbu e Riad e Irã ameaça barrar navios dos EUA no Golfo antes da reabertura"
-    },
-    {
-      "chave": "divida-ia",
-      "tema": "Custo e dívida do ciclo de IA",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Dúvidas sobre o financiamento do capex de IA (cerca de US$ 800 bi dos hyperscalers no ano) seguem antes dos balanços da semana"
+      "porque": "Trump fala em atacar o Irã \"amanhã\", porta-aviões rearmado e Brent a US$ 116,72 na sexta; futuros reabrem domingo à noite"
     },
     {
       "chave": "balancos-big-tech",
@@ -85,11 +72,18 @@
       "revisao": "2026-10-28"
     },
     {
+      "chave": "divida-ia",
+      "tema": "Custo e dívida do ciclo de IA",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Dúvidas sobre o financiamento do capex de IA seguem vivas antes dos balanços, sem fato novo no fim de semana"
+    },
+    {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção em 28/10 é a aposta, mas futuros dão cerca de 80% para alta em dezembro; tom de Warsh define o peso",
+      "porque": "Manutenção em 28/10 é a aposta, mas alta em dezembro é precificada; tom de Warsh e CPI de 29/10 definem o peso",
       "revisao": "2026-10-28"
     },
     {
@@ -104,7 +98,7 @@
       "tema": "Saídas dos ETFs de bitcoin",
       "vies": "bear",
       "peso": 1,
-      "porque": "Maior saída diária desde junho em 22/10 e outubro no negativo; BTC testa US$ 80 mil no fim de semana"
+      "porque": "Saídas fortes na semana e BTC abaixo de US$ 83 mil, perto do custo médio das empresas (US$ 80 mil)"
     }
   ],
   "nota_sugerida": -2
