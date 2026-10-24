@@ -1,58 +1,64 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-23T23:44:55Z",
-  "data": "2026-10-23",
-  "janela": "noite",
-  "modo": "util",
+  "gerado_em": "2026-10-24T10:48:39Z",
+  "data": "2026-10-24",
+  "janela": "manha",
+  "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Irã ameaça atacar instalações de petróleo, data centers e estruturas de IA em até sete países do Golfo se for atacado de novo",
+      "texto": "Coalizão liderada pela Arábia Saudita intercepta neste sábado míssil balístico dos Houthis contra Riad e, depois, dois mísseis disparados contra Taif e Yanbu, polo petrolífero do Mar Vermelho",
       "categoria": "geopolitica",
-      "fonte": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+      "fonte": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-october-24-2026/amp/"
     },
     {
-      "texto": "Embaixador dos EUA na ONU, Mike Waltz, diz ao FT que a guerra com o Irã pode durar mais um ano; Trump sugere deixar o conflito \"definhar\"",
+      "texto": "Chefe do Estado-Maior do Irã, Ali Abdollahi, diz que o país não permitirá a entrada de navios militares dos EUA no Golfo \"em nenhuma circunstância\"",
       "categoria": "geopolitica",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack"
     },
     {
-      "texto": "Sentimento do consumidor de Michigan em 48,0 (esperado 46,3; anterior 48,1), o segundo menor da série; expectativa de inflação em 1 ano sobe a 4,7% e em 5 anos a 3,5%",
-      "categoria": "macro",
-      "fonte": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+      "texto": "Pezeshkian deve se reunir com Putin em Moscou na cúpula de exportadores de gás de 27/10; negociações entre EUA e Irã seguem paradas há meses",
+      "categoria": "geopolitica",
+      "fonte": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-october-24-2026/amp/"
+    },
+    {
+      "texto": "Moody's mantém a nota da França em Aa3 com perspectiva negativa, contra a expectativa de rebaixamento; revisão saiu após o fechamento de NY em 23/10",
+      "categoria": "mercados",
+      "fonte": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/finance/2026/10/24/france-dodges-downgrade-as-moodys-keeps-aa3-rating"
+    },
+    {
+      "texto": "Fed decide os juros na quarta (28/10), com coletiva de Warsh; futuros dão menos de 10% de chance de alta agora e cerca de 80% em dezembro",
+      "categoria": "agenda",
+      "fonte": "The Star (Reuters)",
+      "url": "https://thestar.com.my/tech/tech-news/2026/10/24/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally"
+    },
+    {
+      "texto": "Semana mais cheia da temporada de balanços (cerca de um terço do S&P 500): Alphabet e Microsoft na quarta, Amazon na quinta; Intel e Sandisk também reportam",
+      "categoria": "agenda",
+      "fonte": "The Star (Reuters)",
+      "url": "https://thestar.com.my/tech/tech-news/2026/10/24/earnings-flood-fed-meeting-will-test-rickety-ai-market-rally"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Brent fecha a US$ 116,72, máxima de seis meses e terceira alta semanal; WTI acima de US$ 103, com escalada no Oriente Médio e ataques perto do Mar Vermelho",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-    },
-    {
-      "texto": "Wall Street fecha em queda: Dow −1,23% (52.215,16), S&P 500 −0,52% e Nasdaq −0,21%; S&P e Nasdaq têm a segunda semana seguida de perdas",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
-    },
-    {
-      "texto": "Sessão de 23/10: NQ +0,11% (29.175) e ES −0,42% (7.672,5); SOX +0,44% (10.779,5) e VIX em 19,45 (+2,2%)",
-      "categoria": "mercados",
+      "texto": "BTC a US$ 80.592 neste sábado (−1,3% em 24 h), perto do suporte de US$ 80 mil; DVOL em 37,4",
+      "categoria": "cripto",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Yield do Treasury de 10 anos sobe a 4,988% na sexta, ainda abaixo de 5%, depois da maior queda diária em mais de dois anos na quinta",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+      "texto": "ETFs de BTC à vista têm saída líquida de US$ 635,6 milhões em 22/10, a maior desde junho (IBIT −US$ 254,1 mi; FBTC −US$ 217,5 mi); ETFs de ether perdem US$ 110,6 mi",
+      "categoria": "cripto",
+      "fonte": "The Block",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483"
     },
     {
-      "texto": "Aéreas (United, Delta, American) caem com a perspectiva de combustível mais caro; Nvidia e AMD fecham mistas, com recuperação só parcial da tecnologia",
-      "categoria": "semis",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+      "texto": "Liquidações de US$ 87 mi a 91 mi em posições de BTC em 24 h, a maior parte compradas; dominância do BTC perto de 60% com altcoins caindo mais",
+      "categoria": "cripto",
+      "fonte": "CaptainAltcoin",
+      "url": "https://captainaltcoin.com/why-is-the-crypto-market-down-today-october-24/"
     }
   ],
   "pontos_sugeridos": [
@@ -61,29 +67,14 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 3,
-      "porque": "Brent em US$ 116,72, máxima de seis meses; Irã ameaça infraestrutura de energia e IA no Golfo e EUA falam em guerra longa"
-    },
-    {
-      "chave": "selloff-semis",
-      "tema": "Sell-off de semis",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Rebote parcial na sexta (SOX +0,4%) após a queda forte da semana; Nvidia e AMD mistas"
+      "porque": "Brent perto da máxima de seis meses; Houthis miram Yanbu e Riad e Irã ameaça barrar navios dos EUA no Golfo antes da reabertura"
     },
     {
       "chave": "divida-ia",
       "tema": "Custo e dívida do ciclo de IA",
       "vies": "bear",
       "peso": 2,
-      "porque": "Tecnologia só se recuperou em parte das dúvidas sobre financiamento do capex de IA; Alphabet, Microsoft e Amazon reportam na próxima semana"
-    },
-    {
-      "chave": "fed-hawkish",
-      "tema": "Fed com viés de alta de juros",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Expectativa de inflação de 1 ano no Michigan sobe a 4,7%; decisão de 28/10 deve manter juros, com alta em dezembro no radar",
-      "revisao": "2026-10-28"
+      "porque": "Dúvidas sobre o financiamento do capex de IA (cerca de US$ 800 bi dos hyperscalers no ano) seguem antes dos balanços da semana"
     },
     {
       "chave": "balancos-big-tech",
@@ -94,11 +85,26 @@
       "revisao": "2026-10-28"
     },
     {
-      "chave": "crise-franca",
-      "tema": "Crise fiscal e política na França",
+      "chave": "fed-hawkish",
+      "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Rebaixamento da nota pela Moody's era esperado para a noite de 23/10; resultado ainda não confirmado nesta execução"
+      "porque": "Manutenção em 28/10 é a aposta, mas futuros dão cerca de 80% para alta em dezembro; tom de Warsh define o peso",
+      "revisao": "2026-10-28"
+    },
+    {
+      "chave": "selloff-semis",
+      "tema": "Sell-off de semis",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "SOX ainda perto da mínima de 3 meses após a queda forte da semana; Intel reporta na próxima"
+    },
+    {
+      "chave": "saida-etf-btc",
+      "tema": "Saídas dos ETFs de bitcoin",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Maior saída diária desde junho em 22/10 e outubro no negativo; BTC testa US$ 80 mil no fim de semana"
     }
   ],
   "nota_sugerida": -2
