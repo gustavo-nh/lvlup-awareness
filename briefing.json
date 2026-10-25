@@ -1,58 +1,83 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-24T23:43:12Z",
-  "data": "2026-10-24",
-  "janela": "noite",
+  "gerado_em": "2026-10-25T10:43:18Z",
+  "data": "2026-10-25",
+  "janela": "manha",
   "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Trump diz que os EUA podem atacar o Irã \"talvez amanhã\" ou fechar um grande acordo, \"em qualquer caso vamos ganhar\"; não revela prazo de operação militar",
+      "texto": "Trump diz que os EUA podem atacar o Irã já neste domingo e talvez precisem \"terminar o serviço\", ou fechar um acordo com Teerã; nenhum ataque confirmado até agora",
       "categoria": "geopolitica",
-      "fonte": "Kurdistan24",
-      "url": "https://www.kurdistan24.net/en/story/948302/trump-we-may-attack-iran-tomorrow-or-we-may-get-a-great-deal-either-way-we-win"
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
     },
     {
-      "texto": "WSJ: porta-aviões USS George Washington é rearmado no Mar da Arábia com bombas antibunker e mísseis de longo alcance; EUA retiram pessoal não essencial da embaixada em Riad",
+      "texto": "Forças armadas do Irã dizem estar prontas para atirar em navios de guerra dos EUA que se aproximem; ataques a navios em Hormuz continuam",
       "categoria": "geopolitica",
-      "fonte": "Gulf News",
-      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388"
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
     },
     {
-      "texto": "Al Arabiya diz que o Irã aceitaria retomar conversas e reabrir Hormuz se os EUA suspenderem o bloqueio aos portos iranianos; Tasnim nega qualquer nova oferta",
+      "texto": "Exército do Irã diz ter derrubado um drone americano LUCAS sobre Bandar Abbas; Ghalibaf afirma que o Irã não tem nada de novo a dizer aos EUA",
       "categoria": "geopolitica",
       "fonte": "Iran International",
       "url": "https://www.iranintl.com/en/liveblog/202610244311"
     },
     {
-      "texto": "Fontes de segurança do Irã dizem à Reuters que Teerã tem planos para atingir cabos submarinos de internet no Golfo se EUA ou Israel atacarem de novo",
+      "texto": "Coalizão saudita diz ter destruído 10 mísseis balísticos dos Houthis contra o sul da Arábia Saudita; Houthis chamam o aeroporto de Riad de alvo militar",
       "categoria": "geopolitica",
-      "fonte": "Gulf News (Reuters)",
-      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388"
+      "fonte": "Iran International",
+      "url": "https://www.iranintl.com/en/liveblog/202610244311"
     },
     {
-      "texto": "Arábia Saudita responde aos mísseis dos Houthis com ataques aéreos em Sanaa e Mocha, segundo a Al-Masirah (números não confirmados); Houthis ameaçam o aeroporto de Riad",
+      "texto": "The Hill: opções militares dos EUA para novos ataques ao Irã estariam prontas para depois das eleições de meio de mandato (03/11), pendentes de aval da Casa Branca",
       "categoria": "geopolitica",
-      "fonte": "Gulf News",
-      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-october-24-2026-1.500722388"
+      "fonte": "Iran International (The Hill)",
+      "url": "https://www.iranintl.com/en/liveblog/202610244311"
     },
     {
-      "texto": "CPI de setembro sai na quinta (29/10), um dia depois da decisão do Fed (27–28/10)",
+      "texto": "Decisão do Fed na quarta (28/10) com coletiva de Warsh; FedWatch dá ~88% de manutenção e futuros apontam ~80% de chance de alta em dezembro",
       "categoria": "agenda",
-      "fonte": "BeInCrypto (Yahoo Finance)",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html"
+      "fonte": "FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174"
+    },
+    {
+      "texto": "Semana: Microsoft e Alphabet (28/10), Amazon e Intel (29/10), NXP (27/10); PIB preliminar e PCE núcleo saem na quinta (29/10)",
+      "categoria": "agenda",
+      "fonte": "TipRanks / FXEmpire",
+      "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-25"
+    },
+    {
+      "texto": "Israel vai às urnas na terça (27/10), uma semana antes das eleições de meio de mandato nos EUA (03/11)",
+      "categoria": "agenda",
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "BTC a US$ 80.761 neste sábado à noite (−0,16% em 24 h), ainda abaixo de US$ 83 mil; DVOL em 38,0",
-      "categoria": "cripto",
-      "fonte": "precos.json (Yahoo/Deribit)"
+      "texto": "Brent subiu mais de 3% na sexta, a cerca de US$ 116,72, maior nível desde abril; Treasury de 10 anos perto de 5,00%",
+      "categoria": "mercados",
+      "fonte": "TipRanks",
+      "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-25"
     },
     {
-      "texto": "BTC perde US$ 83 mil; numa queda de 4 h, US$ 91,2 mi dos US$ 95,2 mi liquidados eram compras; Glassnode estima custo médio das empresas com BTC em US$ 80 mil",
+      "texto": "S&P 500 fechou a sexta em −0,52% (7.623,68) e a semana em −0,47%; Dow caiu 1,23% no dia; VIX em 19,45",
+      "categoria": "mercados",
+      "fonte": "TipRanks",
+      "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-25"
+    },
+    {
+      "texto": "BTC caiu a US$ 79.220 na Binance no sábado à tarde e voltou a ~US$ 80.200; US$ 841 mi liquidados em 24 h, 83% em compras",
       "categoria": "cripto",
-      "fonte": "BeInCrypto (Yahoo Finance)",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-break-weekend-market-110545299.html"
+      "fonte": "Cointribune (CoinGlass)",
+      "url": "https://www.cointribune.com/en/bitcoin-trump-iran-tensions-send-btc-below-80000"
+    },
+    {
+      "texto": "ETFs de bitcoin nos EUA tiveram saída de US$ 635,49 mi na quinta (22/10), a maior em um dia desde 25/06, apagando ~60% das entradas de seg–qua",
+      "categoria": "cripto",
+      "fonte": "Cointribune",
+      "url": "https://www.cointribune.com/en/bitcoin-trump-iran-tensions-send-btc-below-80000"
     }
   ],
   "pontos_sugeridos": [
@@ -61,15 +86,30 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 3,
-      "porque": "Trump fala em atacar o Irã \"amanhã\", porta-aviões rearmado e Brent a US$ 116,72 na sexta; futuros reabrem domingo à noite"
+      "porque": "Trump fala em ataque já no domingo, Irã ameaça navios dos EUA e Brent a ~US$ 117; futuros reabrem domingo à noite"
     },
     {
       "chave": "balancos-big-tech",
       "tema": "Balanços de Alphabet, Microsoft e Amazon",
       "vies": "neutro",
       "peso": 3,
-      "porque": "Testam o rali de IA após Meta; capex e caixa fortes → bull, mais gasto com caixa fraco → bear",
+      "porque": "Testam o rali de IA em 28 e 29/10; capex e caixa fortes → bull, mais gasto com caixa fraco → bear",
       "revisao": "2026-10-28"
+    },
+    {
+      "chave": "fed-hawkish",
+      "tema": "Fed com viés de alta de juros",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Manutenção em 28/10 é a aposta, mas ~80% de alta em dezembro precificada; tom de Warsh e PCE de 29/10 definem o peso",
+      "revisao": "2026-10-28"
+    },
+    {
+      "chave": "saida-etf-btc",
+      "tema": "Saídas dos ETFs de bitcoin",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Maior saída diária desde junho e BTC abaixo de US$ 80 mil no sábado, com US$ 841 mi em liquidações"
     },
     {
       "chave": "divida-ia",
@@ -79,26 +119,11 @@
       "porque": "Dúvidas sobre o financiamento do capex de IA seguem vivas antes dos balanços, sem fato novo no fim de semana"
     },
     {
-      "chave": "fed-hawkish",
-      "tema": "Fed com viés de alta de juros",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Manutenção em 28/10 é a aposta, mas alta em dezembro é precificada; tom de Warsh e CPI de 29/10 definem o peso",
-      "revisao": "2026-10-28"
-    },
-    {
       "chave": "selloff-semis",
       "tema": "Sell-off de semis",
       "vies": "bear",
       "peso": 1,
-      "porque": "SOX ainda perto da mínima de 3 meses após a queda forte da semana; Intel reporta na próxima"
-    },
-    {
-      "chave": "saida-etf-btc",
-      "tema": "Saídas dos ETFs de bitcoin",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Saídas fortes na semana e BTC abaixo de US$ 83 mil, perto do custo médio das empresas (US$ 80 mil)"
+      "porque": "SOX ainda perto da mínima de 3 meses; NXP (27/10) e Intel (29/10) reportam na semana"
     }
   ],
   "nota_sugerida": -2
