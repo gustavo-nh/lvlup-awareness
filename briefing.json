@@ -1,83 +1,59 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-25T10:43:18Z",
+  "gerado_em": "2026-10-25T23:43:07Z",
   "data": "2026-10-25",
-  "janela": "manha",
-  "modo": "fim_de_semana",
+  "janela": "noite",
+  "modo": "domingo_noite",
   "fatos_relevantes": [
     {
-      "texto": "Trump diz que os EUA podem atacar o Irã já neste domingo e talvez precisem \"terminar o serviço\", ou fechar um acordo com Teerã; nenhum ataque confirmado até agora",
+      "texto": "Trump descarta ataque ao Irã neste domingo (\"não haverá ataque\"), mas diz à Fox que a escolha é entre acordo e \"acabar com eles\"; mediadores do Catar visitam Teerã",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
+      "fonte": "Al Jazeera / Arab Times",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
     },
     {
-      "texto": "Forças armadas do Irã dizem estar prontas para atirar em navios de guerra dos EUA que se aproximem; ataques a navios em Hormuz continuam",
+      "texto": "Trump afirma que os EUA controlam o Estreito de Hormuz e que o tráfego comercial já supera o pré-guerra; o controle da rota segue em disputa com o Irã",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
+      "fonte": "Arab Times",
+      "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/"
     },
     {
-      "texto": "Exército do Irã diz ter derrubado um drone americano LUCAS sobre Bandar Abbas; Ghalibaf afirma que o Irã não tem nada de novo a dizer aos EUA",
+      "texto": "Houthis dizem ter atingido instalações da Aramco em Yanbu e a refinaria de Rabigh; Arábia Saudita relata interceptações sobre Riad no domingo e não confirma danos",
       "categoria": "geopolitica",
-      "fonte": "Iran International",
-      "url": "https://www.iranintl.com/en/liveblog/202610244311"
+      "fonte": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-116-72-sunday-futures-open-houthi-yanbu-rabigh-claims-riyadh-intercepts-fed-week-bull-120-bear-108/"
     },
     {
-      "texto": "Coalizão saudita diz ter destruído 10 mísseis balísticos dos Houthis contra o sul da Arábia Saudita; Houthis chamam o aeroporto de Riad de alvo militar",
-      "categoria": "geopolitica",
-      "fonte": "Iran International",
-      "url": "https://www.iranintl.com/en/liveblog/202610244311"
-    },
-    {
-      "texto": "The Hill: opções militares dos EUA para novos ataques ao Irã estariam prontas para depois das eleições de meio de mandato (03/11), pendentes de aval da Casa Branca",
-      "categoria": "geopolitica",
-      "fonte": "Iran International (The Hill)",
-      "url": "https://www.iranintl.com/en/liveblog/202610244311"
-    },
-    {
-      "texto": "Decisão do Fed na quarta (28/10) com coletiva de Warsh; FedWatch dá ~88% de manutenção e futuros apontam ~80% de chance de alta em dezembro",
+      "texto": "Fed decide na quarta (28/10, 15:00 BRT) com coletiva de Warsh; FedWatch dá ~90% de manutenção em 3,75%-4,00% após a alta de setembro",
       "categoria": "agenda",
-      "fonte": "FXEmpire",
-      "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174"
+      "fonte": "Stocktwits (TradingView)",
+      "url": "https://www.tradingview.com/news/stocktwits:ef3220335094b:0-what-to-expect-in-markets-this-week-googl-msft-amzn-intc-hood-lly-earnings-fed-meeting-and-more/"
     },
     {
-      "texto": "Semana: Microsoft e Alphabet (28/10), Amazon e Intel (29/10), NXP (27/10); PIB preliminar e PCE núcleo saem na quinta (29/10)",
+      "texto": "Quinta (29/10): PIB do 3º tri (consenso 3,2%) e PCE de setembro (consenso 3,7% a/a; núcleo 3,1%); BCE decide no mesmo dia e o BoJ logo depois",
       "categoria": "agenda",
-      "fonte": "TipRanks / FXEmpire",
-      "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-25"
+      "fonte": "Kalkine / Stocktwits",
+      "url": "https://kalkine.com/news/premium/week-ahead-october-26-to-30-microsoft-alphabet-and-amazon-earnings-the-fed-decision-and-q3-gdp-converge"
     },
     {
-      "texto": "Israel vai às urnas na terça (27/10), uma semana antes das eleições de meio de mandato nos EUA (03/11)",
+      "texto": "Balanços: Cadence, Amkor e Rambus (26/10); Microsoft, Alphabet e KLA (28/10); Amazon, Intel e Sandisk (29/10), todos após o fechamento",
       "categoria": "agenda",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
+      "fonte": "Kalkine",
+      "url": "https://kalkine.com/news/premium/week-ahead-october-26-to-30-microsoft-alphabet-and-amazon-earnings-the-fed-decision-and-q3-gdp-converge"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Brent subiu mais de 3% na sexta, a cerca de US$ 116,72, maior nível desde abril; Treasury de 10 anos perto de 5,00%",
+      "texto": "Futuros reabriram estáveis no domingo à noite: NQ +0,05% (29.132) e ES +0,04% (7.663) após Trump descartar ataque imediato ao Irã",
       "categoria": "mercados",
-      "fonte": "TipRanks",
-      "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-25"
+      "fonte": "precos.json (Yahoo/Deribit); Arab Times",
+      "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/"
     },
     {
-      "texto": "S&P 500 fechou a sexta em −0,52% (7.623,68) e a semana em −0,47%; Dow caiu 1,23% no dia; VIX em 19,45",
-      "categoria": "mercados",
-      "fonte": "TipRanks",
-      "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-25"
-    },
-    {
-      "texto": "BTC caiu a US$ 79.220 na Binance no sábado à tarde e voltou a ~US$ 80.200; US$ 841 mi liquidados em 24 h, 83% em compras",
+      "texto": "ETFs de bitcoin tiveram nova saída de US$ 137,9 mi na sexta (23/10), após US$ 635,5 mi na quinta; BTC perto de US$ 80.200 (−0,7% em 24 h)",
       "categoria": "cripto",
-      "fonte": "Cointribune (CoinGlass)",
-      "url": "https://www.cointribune.com/en/bitcoin-trump-iran-tensions-send-btc-below-80000"
-    },
-    {
-      "texto": "ETFs de bitcoin nos EUA tiveram saída de US$ 635,49 mi na quinta (22/10), a maior em um dia desde 25/06, apagando ~60% das entradas de seg–qua",
-      "categoria": "cripto",
-      "fonte": "Cointribune",
-      "url": "https://www.cointribune.com/en/bitcoin-trump-iran-tensions-send-btc-below-80000"
+      "fonte": "The Crypto Times (SoSoValue)",
+      "url": "https://www.cryptotimes.io/2026/10/25/bitcoin-price-today-btc-falls-below-80000-as-820m-crypto-liquidations-hit-longs/"
     }
   ],
   "pontos_sugeridos": [
@@ -85,8 +61,8 @@
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
-      "peso": 3,
-      "porque": "Trump fala em ataque já no domingo, Irã ameaça navios dos EUA e Brent a ~US$ 117; futuros reabrem domingo à noite"
+      "peso": 2,
+      "porque": "Trump recua de ataque imediato, mas Houthis seguem mirando a Arábia Saudita e Brent fechou a US$ 116,72; risco perde força, não sai"
     },
     {
       "chave": "balancos-big-tech",
@@ -101,7 +77,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção em 28/10 é a aposta, mas ~80% de alta em dezembro precificada; tom de Warsh e PCE de 29/10 definem o peso",
+      "porque": "Manutenção em 28/10 é ~90%, mas alta em dezembro segue no preço; tom de Warsh e PCE de 29/10 definem o peso",
       "revisao": "2026-10-28"
     },
     {
@@ -109,7 +85,7 @@
       "tema": "Saídas dos ETFs de bitcoin",
       "vies": "bear",
       "peso": 2,
-      "porque": "Maior saída diária desde junho e BTC abaixo de US$ 80 mil no sábado, com US$ 841 mi em liquidações"
+      "porque": "Segundo dia de saídas na sexta e BTC preso perto de US$ 80 mil antes do Fed"
     },
     {
       "chave": "divida-ia",
@@ -123,7 +99,7 @@
       "tema": "Sell-off de semis",
       "vies": "bear",
       "peso": 1,
-      "porque": "SOX ainda perto da mínima de 3 meses; NXP (27/10) e Intel (29/10) reportam na semana"
+      "porque": "SOX ainda perto da mínima de 3 meses; Amkor (26/10), KLA (28/10) e Intel (29/10) reportam na semana"
     }
   ],
   "nota_sugerida": -2
