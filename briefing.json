@@ -1,83 +1,64 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-26T10:44:15Z",
+  "gerado_em": "2026-10-26T23:43:46Z",
   "data": "2026-10-26",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Houthis dizem ter lançado míssil balístico contra o aeroporto de Riad na segunda de manhã, horas após a retomada dos voos; sauditas relatam interceptação e bombardeiam o Iêmen",
-      "categoria": "geopolitica",
-      "fonte": "ABC News",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447"
-    },
-    {
-      "texto": "Autoridades de Arábia Saudita, Turquia e Paquistão se reúnem hoje em Teerã para tratar das repercussões regionais da guerra, após a visita dos mediadores do Catar no domingo",
-      "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron"
-    },
-    {
-      "texto": "Analistas veem alívio no petróleo como possivelmente temporário; mercado ainda considera novos ataques ao Irã após as eleições de meio de mandato dos EUA em 03/11",
-      "categoria": "geopolitica",
-      "fonte": "Asharq Al-Awsat (Reuters)",
-      "url": "https://english.aawsat.com/business/5333750-oil-drops-near-six-month-highs-hopes-iran-war-hostilities-ease"
-    },
-    {
-      "texto": "Antes da decisão do Fed de quarta (28/10), mercado precifica entre 80% e 90% de chance de alta de juros em dezembro",
-      "categoria": "bc",
-      "fonte": "Analytics Insight",
-      "url": "https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-trades-near-usd-80100-as-fed-meeting-approaches"
-    },
-    {
-      "texto": "Juro do título francês de 10 anos chega a 5,07%, o maior desde 2002; PMI composto da França cai de 51,1 para 48,4",
+      "texto": "Anthropic protocola o S-1 do IPO (ticker ANT): receita de US$ 16,3 bi no 1º semestre e compromisso de até US$ 120,5 bi em computação com a unidade de IA da SpaceX até 2029",
       "categoria": "mercados",
-      "fonte": "The Nation",
-      "url": "https://nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
     },
     {
-      "texto": "Lula vence Flávio Bolsonaro no segundo turno no Brasil em disputa apertada; Bolsonaro não teria reconhecido a derrota, segundo a CNBC",
+      "texto": "Arábia Saudita, Paquistão e Turquia concordam em continuar as conversas de segurança com o Irã em Teerã; Trump diz que \"não haverá ataque hoje\"",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera / CNBC",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off"
+      "fonte": "The New Arab / Rigzone",
+      "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
     },
     {
-      "texto": "BoJ tem reunião em 29 e 30/10, com o Relatório de Perspectivas na sexta; SK Hynix divulga o 3º trimestre em 28/10",
+      "texto": "Coalizão saudita diz ter destruído três drones em Riad e interceptado mísseis contra áreas como o porto de Yanbu",
+      "categoria": "geopolitica",
+      "fonte": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_dips_from_6_month_high_as_officials_meet_in_tehran-26-oct-2026-184936-article/"
+    },
+    {
+      "texto": "Fed começa a reunião de dois dias na terça e decide na quarta (28/10); mercado espera manutenção com tom hawkish de Warsh; BCE, BoC e BoJ também decidem na semana",
       "categoria": "agenda",
-      "fonte": "IBTimes / TradingKey",
-      "url": "https://www.ibtimes.com.au/japan-nikkei-falls-chip-stocks-oil-prices-1877397"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
+    },
+    {
+      "texto": "Alphabet e Microsoft divulgam balanços na quarta (28/10) após o fechamento",
+      "categoria": "agenda",
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Petróleo recua com mediação do Catar em Teerã: Brent −1,3% a US$ 115,23 e WTI −1,7% a US$ 101,51, após alta de 6% do Brent na semana passada",
-      "categoria": "mercados",
-      "fonte": "Asharq Al-Awsat (Reuters)",
-      "url": "https://english.aawsat.com/business/5333750-oil-drops-near-six-month-highs-hopes-iran-war-hostilities-ease"
-    },
-    {
-      "texto": "Nikkei cai 0,8% (62.189,65), terceira queda seguida e menor fechamento desde julho; Advantest e Tokyo Electron lideram com receio de excesso de investimento em IA",
+      "texto": "Wall Street sobe com o IPO da Anthropic reavivando o trade de IA: S&P 500 +0,70% (7.676,77), Nasdaq +0,82%, Nvidia +2,39% e SOX +2,82% (11.083,47)",
       "categoria": "semis",
-      "fonte": "IBTimes",
-      "url": "https://www.ibtimes.com.au/japan-nikkei-falls-chip-stocks-oil-prices-1877397"
+      "fonte": "Yahoo Finance; precos.json (Yahoo/Deribit)",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
     },
     {
-      "texto": "KOSPI perde os 5.500 pontos (−1,46%, 5.469,47) com Samsung −1,16%; SK Hynix sobe 0,16% após anunciar dividendo extraordinário de até 16 tri de wons",
+      "texto": "Petróleo recua com as conversas em Teerã: Brent −0,8% a US$ 115,81 e WTI −1,5% a US$ 101,76; ataques dos Houthis limitaram a queda",
       "categoria": "mercados",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/more/262238636-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-tradingkey"
+      "fonte": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_dips_from_6_month_high_as_officials_meet_in_tehran-26-oct-2026-184936-article/"
     },
     {
-      "texto": "Futuros sobem de leve com o petróleo em queda: NQ +0,09% (29.142,75) e ES +0,17% (7.672,75); Treasury de 10 anos cai 3 bps a 4,97%",
+      "texto": "VIX cai 5,45% a 18,39; na sessão noturna, NQ +0,23% (29.505) e ES +0,06% (7.718,75)",
       "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit); The Nation",
-      "url": "https://nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks"
+      "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Cripto teve mais de US$ 810 mi em liquidações em 24 h (US$ 689 mi de compras); BTC tocou US$ 79.146 no fim de semana e está perto de US$ 80.400 (+0,2% em 24 h)",
+      "texto": "BTC segue perto de US$ 80 mil (−0,18% em 24 h) após saídas de US$ 773,5 mi dos ETFs à vista em 22 e 23/10",
       "categoria": "cripto",
-      "fonte": "Analytics Insight; precos.json (Yahoo/Deribit)",
-      "url": "https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-trades-near-usd-80100-as-fed-meeting-approaches"
+      "fonte": "crypto.news; precos.json (Yahoo/Deribit)",
+      "url": "https://crypto.news/why-is-bitcoin-price-down-today-fed-etf-outflows/"
     }
   ],
   "pontos_sugeridos": [
@@ -86,7 +67,7 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Brent recua com a mediação, mas segue perto de US$ 115; Houthis continuam mirando a Arábia Saudita e o risco de ataque pós-midterms segue no radar"
+      "porque": "Diálogo em Teerã segue, mas sem acordo; Houthis mantêm ataques à Arábia Saudita e o Brent continua perto de US$ 116"
     },
     {
       "chave": "balancos-big-tech",
@@ -101,30 +82,30 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção em 28/10 é esperada, mas alta em dezembro está 80-90% no preço; tom de Warsh e PCE de 29/10 definem o peso",
+      "porque": "Manutenção em 28/10 é esperada, mas com tom hawkish de Warsh sinalizando novas altas; PCE de 29/10 completa o quadro",
       "revisao": "2026-10-28"
+    },
+    {
+      "chave": "ipo-anthropic-ia",
+      "tema": "IPO da Anthropic reaviva o trade de IA",
+      "vies": "bull",
+      "peso": 2,
+      "porque": "S-1 com receita forte e gasto bilionário em computação puxou Nvidia, Broadcom e Micron e o SOX"
     },
     {
       "chave": "selloff-semis",
       "tema": "Sell-off de semis",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Chips puxaram Nikkei e KOSPI para baixo; SOX perto da mínima de 3 meses com Amkor, SK Hynix, KLA e Intel reportando na semana"
+      "peso": 1,
+      "porque": "SOX repicou 2,8% com o IPO da Anthropic, mas segue perto da mínima de 3 meses; KOSPI e Nikkei caíram na sessão"
     },
     {
       "chave": "saida-etf-btc",
       "tema": "Saídas dos ETFs de bitcoin",
       "vies": "bear",
       "peso": 1,
-      "porque": "Saídas da semana passada e liquidações de compras no fim de semana; BTC estabilizou perto de US$ 80 mil, sem dado novo de fluxo"
-    },
-    {
-      "chave": "divida-ia",
-      "tema": "Custo e dívida do ciclo de IA",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Receio de excesso de investimento em IA voltou a pesar na Ásia antes dos balanços das big techs"
+      "porque": "US$ 773,5 mi de saídas em 22 e 23/10; BTC estável perto de US$ 80 mil, sem dado novo de fluxo"
     }
   ],
-  "nota_sugerida": -2
+  "nota_sugerida": -1
 }
