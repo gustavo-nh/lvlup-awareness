@@ -1,59 +1,83 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-25T23:43:07Z",
-  "data": "2026-10-25",
-  "janela": "noite",
-  "modo": "domingo_noite",
+  "gerado_em": "2026-10-26T10:44:15Z",
+  "data": "2026-10-26",
+  "janela": "manha",
+  "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Trump descarta ataque ao Irã neste domingo (\"não haverá ataque\"), mas diz à Fox que a escolha é entre acordo e \"acabar com eles\"; mediadores do Catar visitam Teerã",
+      "texto": "Houthis dizem ter lançado míssil balístico contra o aeroporto de Riad na segunda de manhã, horas após a retomada dos voos; sauditas relatam interceptação e bombardeiam o Iêmen",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera / Arab Times",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+      "fonte": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447"
     },
     {
-      "texto": "Trump afirma que os EUA controlam o Estreito de Hormuz e que o tráfego comercial já supera o pré-guerra; o controle da rota segue em disputa com o Irã",
+      "texto": "Autoridades de Arábia Saudita, Turquia e Paquistão se reúnem hoje em Teerã para tratar das repercussões regionais da guerra, após a visita dos mediadores do Catar no domingo",
       "categoria": "geopolitica",
-      "fonte": "Arab Times",
-      "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/"
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron"
     },
     {
-      "texto": "Houthis dizem ter atingido instalações da Aramco em Yanbu e a refinaria de Rabigh; Arábia Saudita relata interceptações sobre Riad no domingo e não confirma danos",
+      "texto": "Analistas veem alívio no petróleo como possivelmente temporário; mercado ainda considera novos ataques ao Irã após as eleições de meio de mandato dos EUA em 03/11",
       "categoria": "geopolitica",
-      "fonte": "FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-116-72-sunday-futures-open-houthi-yanbu-rabigh-claims-riyadh-intercepts-fed-week-bull-120-bear-108/"
+      "fonte": "Asharq Al-Awsat (Reuters)",
+      "url": "https://english.aawsat.com/business/5333750-oil-drops-near-six-month-highs-hopes-iran-war-hostilities-ease"
     },
     {
-      "texto": "Fed decide na quarta (28/10, 15:00 BRT) com coletiva de Warsh; FedWatch dá ~90% de manutenção em 3,75%-4,00% após a alta de setembro",
-      "categoria": "agenda",
-      "fonte": "Stocktwits (TradingView)",
-      "url": "https://www.tradingview.com/news/stocktwits:ef3220335094b:0-what-to-expect-in-markets-this-week-googl-msft-amzn-intc-hood-lly-earnings-fed-meeting-and-more/"
+      "texto": "Antes da decisão do Fed de quarta (28/10), mercado precifica entre 80% e 90% de chance de alta de juros em dezembro",
+      "categoria": "bc",
+      "fonte": "Analytics Insight",
+      "url": "https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-trades-near-usd-80100-as-fed-meeting-approaches"
     },
     {
-      "texto": "Quinta (29/10): PIB do 3º tri (consenso 3,2%) e PCE de setembro (consenso 3,7% a/a; núcleo 3,1%); BCE decide no mesmo dia e o BoJ logo depois",
-      "categoria": "agenda",
-      "fonte": "Kalkine / Stocktwits",
-      "url": "https://kalkine.com/news/premium/week-ahead-october-26-to-30-microsoft-alphabet-and-amazon-earnings-the-fed-decision-and-q3-gdp-converge"
+      "texto": "Juro do título francês de 10 anos chega a 5,07%, o maior desde 2002; PMI composto da França cai de 51,1 para 48,4",
+      "categoria": "mercados",
+      "fonte": "The Nation",
+      "url": "https://nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks"
     },
     {
-      "texto": "Balanços: Cadence, Amkor e Rambus (26/10); Microsoft, Alphabet e KLA (28/10); Amazon, Intel e Sandisk (29/10), todos após o fechamento",
+      "texto": "Lula vence Flávio Bolsonaro no segundo turno no Brasil em disputa apertada; Bolsonaro não teria reconhecido a derrota, segundo a CNBC",
+      "categoria": "geopolitica",
+      "fonte": "Al Jazeera / CNBC",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off"
+    },
+    {
+      "texto": "BoJ tem reunião em 29 e 30/10, com o Relatório de Perspectivas na sexta; SK Hynix divulga o 3º trimestre em 28/10",
       "categoria": "agenda",
-      "fonte": "Kalkine",
-      "url": "https://kalkine.com/news/premium/week-ahead-october-26-to-30-microsoft-alphabet-and-amazon-earnings-the-fed-decision-and-q3-gdp-converge"
+      "fonte": "IBTimes / TradingKey",
+      "url": "https://www.ibtimes.com.au/japan-nikkei-falls-chip-stocks-oil-prices-1877397"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Futuros reabriram estáveis no domingo à noite: NQ +0,05% (29.132) e ES +0,04% (7.663) após Trump descartar ataque imediato ao Irã",
+      "texto": "Petróleo recua com mediação do Catar em Teerã: Brent −1,3% a US$ 115,23 e WTI −1,7% a US$ 101,51, após alta de 6% do Brent na semana passada",
       "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit); Arab Times",
-      "url": "https://www.arabtimesonline.com/news/trump-does-u-turn-again-rules-out-immediate-iran-strike/"
+      "fonte": "Asharq Al-Awsat (Reuters)",
+      "url": "https://english.aawsat.com/business/5333750-oil-drops-near-six-month-highs-hopes-iran-war-hostilities-ease"
     },
     {
-      "texto": "ETFs de bitcoin tiveram nova saída de US$ 137,9 mi na sexta (23/10), após US$ 635,5 mi na quinta; BTC perto de US$ 80.200 (−0,7% em 24 h)",
+      "texto": "Nikkei cai 0,8% (62.189,65), terceira queda seguida e menor fechamento desde julho; Advantest e Tokyo Electron lideram com receio de excesso de investimento em IA",
+      "categoria": "semis",
+      "fonte": "IBTimes",
+      "url": "https://www.ibtimes.com.au/japan-nikkei-falls-chip-stocks-oil-prices-1877397"
+    },
+    {
+      "texto": "KOSPI perde os 5.500 pontos (−1,46%, 5.469,47) com Samsung −1,16%; SK Hynix sobe 0,16% após anunciar dividendo extraordinário de até 16 tri de wons",
+      "categoria": "mercados",
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262238636-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-tradingkey"
+    },
+    {
+      "texto": "Futuros sobem de leve com o petróleo em queda: NQ +0,09% (29.142,75) e ES +0,17% (7.672,75); Treasury de 10 anos cai 3 bps a 4,97%",
+      "categoria": "mercados",
+      "fonte": "precos.json (Yahoo/Deribit); The Nation",
+      "url": "https://nation.com.pk/26-Oct-2026/global-markets-open-mixed-amid-ongoing-tech-selloff-middle-east-risks"
+    },
+    {
+      "texto": "Cripto teve mais de US$ 810 mi em liquidações em 24 h (US$ 689 mi de compras); BTC tocou US$ 79.146 no fim de semana e está perto de US$ 80.400 (+0,2% em 24 h)",
       "categoria": "cripto",
-      "fonte": "The Crypto Times (SoSoValue)",
-      "url": "https://www.cryptotimes.io/2026/10/25/bitcoin-price-today-btc-falls-below-80000-as-820m-crypto-liquidations-hit-longs/"
+      "fonte": "Analytics Insight; precos.json (Yahoo/Deribit)",
+      "url": "https://www.analyticsinsight.net/amp/story/price-analysis/crypto-prices-today-bitcoin-trades-near-usd-80100-as-fed-meeting-approaches"
     }
   ],
   "pontos_sugeridos": [
@@ -62,7 +86,7 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Trump recua de ataque imediato, mas Houthis seguem mirando a Arábia Saudita e Brent fechou a US$ 116,72; risco perde força, não sai"
+      "porque": "Brent recua com a mediação, mas segue perto de US$ 115; Houthis continuam mirando a Arábia Saudita e o risco de ataque pós-midterms segue no radar"
     },
     {
       "chave": "balancos-big-tech",
@@ -77,29 +101,29 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção em 28/10 é ~90%, mas alta em dezembro segue no preço; tom de Warsh e PCE de 29/10 definem o peso",
+      "porque": "Manutenção em 28/10 é esperada, mas alta em dezembro está 80-90% no preço; tom de Warsh e PCE de 29/10 definem o peso",
       "revisao": "2026-10-28"
+    },
+    {
+      "chave": "selloff-semis",
+      "tema": "Sell-off de semis",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Chips puxaram Nikkei e KOSPI para baixo; SOX perto da mínima de 3 meses com Amkor, SK Hynix, KLA e Intel reportando na semana"
     },
     {
       "chave": "saida-etf-btc",
       "tema": "Saídas dos ETFs de bitcoin",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Segundo dia de saídas na sexta e BTC preso perto de US$ 80 mil antes do Fed"
+      "peso": 1,
+      "porque": "Saídas da semana passada e liquidações de compras no fim de semana; BTC estabilizou perto de US$ 80 mil, sem dado novo de fluxo"
     },
     {
       "chave": "divida-ia",
       "tema": "Custo e dívida do ciclo de IA",
       "vies": "bear",
       "peso": 1,
-      "porque": "Dúvidas sobre o financiamento do capex de IA seguem vivas antes dos balanços, sem fato novo no fim de semana"
-    },
-    {
-      "chave": "selloff-semis",
-      "tema": "Sell-off de semis",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "SOX ainda perto da mínima de 3 meses; Amkor (26/10), KLA (28/10) e Intel (29/10) reportam na semana"
+      "porque": "Receio de excesso de investimento em IA voltou a pesar na Ásia antes dos balanços das big techs"
     }
   ],
   "nota_sugerida": -2
