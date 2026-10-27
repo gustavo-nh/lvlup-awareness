@@ -63,6 +63,7 @@ Para os ativos de `marcos.ativos`, olhe `marcos_recentes` (tipos `ath`, `max_Nm`
 ### Regras de qualidade
 - **Só fatos encontrados nas buscas desta execução**, com `fonte` (nome do veículo) e `url` real da notícia. Nunca invente número, data, citação ou link. Na dúvida, deixe de fora.
 - Português do Brasil; uma frase por item, até ~200 caracteres; números no formato brasileiro (21.345,2; −1,8%).
+- **Datas e horários sempre em Brasília (BRT).** Eventos fora do Brasil (balanços, dados, decisões de BC) vêm com o horário de Brasília e o local entre parênteses, ex.: "hoje (27/10) às 21h de Brasília (09h de 28/10 em Seul)". Ásia (Coreia, Japão, Taiwan, China) está 11–12 h à frente: um evento de manhã lá costuma ser **na véspera à noite** em Brasília, e "quarta" numa matéria asiática pode ser terça para o Gustavo. Confirme data e hora na fonte oficial da empresa/órgão (página de RI, comunicado) e não deduza o dia a partir de "quarta"/"amanhã" em agregadores.
 - **Sem emojis** nos dados. Nomes de campos exatamente como no formato.
 - Nada de análise técnica, previsão de preço ou recomendação.
 
