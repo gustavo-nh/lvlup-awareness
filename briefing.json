@@ -1,91 +1,98 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-27T10:43:59Z",
+  "gerado_em": "2026-10-27T23:44:03Z",
   "data": "2026-10-27",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Fed começa hoje a reunião de dois dias e decide amanhã (28/10); CME precifica cerca de 10% de chance de alta após inflação acima do esperado",
+      "texto": "Fed decide amanhã (28/10) às 15h de Brasília; manutenção em 3,75%–4% é esperada e o FedWatch aponta a segunda alta do ano para dezembro",
       "categoria": "bc",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
+      "fonte": "Reuters (via Virginia Business)",
+      "url": "https://virginiabusiness.com/wall-street-rises-ai-momentum-earnings/"
     },
     {
-      "texto": "Houthis dizem ter atingido estações de bombeamento do oleoduto Leste-Oeste da Arábia Saudita; Riad não confirmou",
-      "categoria": "geopolitica",
-      "fonte": "Arab News",
-      "url": "https://www.arabnews.com/energy/oil-slips-1-as-iran-diplomacy-eases-supply-fears-3008471"
-    },
-    {
-      "texto": "Treasury de 10 anos perto de 4,99% antes da decisão do Fed",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
-    },
-    {
-      "texto": "Hoje nos EUA: bens duráveis de setembro (consenso +1,7%), confiança do consumidor do Conference Board (consenso 80,5) e vendas de casas novas; balanços de Visa, UPS, Coca-Cola e Boeing",
-      "categoria": "agenda",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
-    },
-    {
-      "texto": "SK Hynix divulga o balanço do 3º trimestre hoje (27/10) às 21h de Brasília (09h de 28/10 em Seul), com teleconferência no mesmo horário",
-      "categoria": "semis",
-      "fonte": "SK hynix",
-      "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
-    },
-    {
-      "texto": "Samsung divulga o resultado completo do 3º trimestre na quarta (28/10) às 22h de Brasília (10h de 29/10 em Seul); a prévia mostrou lucro operacional de 107,4 tri de wons",
-      "categoria": "semis",
-      "fonte": "Samsung Electronics",
-      "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/notice-of-3q-2026-earnings-release-schedule/9812151"
-    },
-    {
-      "texto": "PIB da Coreia do Sul cresceu 3,4% no 3º trimestre na comparação anual",
+      "texto": "Confiança do consumidor do Conference Board sobe 7,5 pontos para 91,7 em outubro (setembro revisado: 84,2)",
       "categoria": "macro",
-      "fonte": "Fortune",
-      "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
+      "fonte": "The Conference Board",
+      "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
+    },
+    {
+      "texto": "Treasury de 10 anos perto de 4,99%, com queda de mais de 30 pontos-base em outubro, encaminhando o fim de sete meses seguidos de alta",
+      "categoria": "mercados",
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
+    },
+    {
+      "texto": "Meta eleva a captação em ações para US$ 97,5 bi, a maior da sua história; Nvidia indicou investimento de US$ 3 bi na oferta",
+      "categoria": "mercados",
+      "fonte": "Reuters (via Virginia Business); Dimsum Daily",
+      "url": "https://virginiabusiness.com/wall-street-rises-ai-momentum-earnings/"
+    },
+    {
+      "texto": "Oracle amplia parceria com a Nvidia para implantações de vários gigawatts de servidores Vera Rubin e adiciona TPUs do Google, SambaNova e Cerebras",
+      "categoria": "semis",
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
+    },
+    {
+      "texto": "Baleias de BTC na Hyperliquid ficam vendidas líquidas pela primeira vez desde o repique de junho, segundo a Glassnode",
+      "categoria": "cripto",
+      "fonte": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/crypto-market-today-oct-27-bitcoin-bounces-back-but-whales-are-turning-bearish-for-the-first-time-since-june/"
+    },
+    {
+      "texto": "Próximos dias: Alphabet e Microsoft divulgam balanço na quarta (28/10) e Amazon na quinta (29/10)",
+      "categoria": "agenda",
+      "fonte": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/chip-gains-support-wall-street-as-oil-eases-and-fed-meeting-gets-under-way/"
+    },
+    {
+      "texto": "BCE anuncia decisão de juros na quinta (29/10) às 10h15 de Brasília (14h15 em Frankfurt)",
+      "categoria": "agenda",
+      "fonte": "Admiral Markets",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "IPO da Anthropic puxa chips na Ásia: KOSPI +3,09% (5.638,34) e Nikkei +1,73% (63.268,37); Samsung +4,2%, SK Hynix +5,2% e Advantest perto de +9%",
+      "texto": "Chips ampliam o rali de IA: SOX +3,6% (11.482,51), com as 30 ações do índice em alta; Nasdaq +1,18% e CoreWeave +7,9%",
       "categoria": "semis",
-      "fonte": "Fortune; precos.json (Yahoo/Deribit)",
-      "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
+      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
     },
     {
-      "texto": "China fica de fora do rali de IA: Hang Seng −0,7% e CSI 300 −1,3%; Cambricon −5,7% e SMIC −1,3%",
+      "texto": "Broadcom sobe 3,8% na abertura após financiamento de US$ 63 bi para equipar a Anthropic com seus chips, com entregas a partir de 2027",
+      "categoria": "semis",
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-gain-3-8-171137844.html"
+    },
+    {
+      "texto": "S&P 500 fecha em +0,60% (7.723,05) e Dow +0,05%; VIX cai 4,73% para 17,52 e, no after, NQ +0,08% (29.836,5) e ES +0,04% (7.761,5)",
       "categoria": "mercados",
-      "fonte": "Fortune",
-      "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
+      "fonte": "Reuters (via Virginia Business); precos.json (Yahoo/Deribit)",
+      "url": "https://virginiabusiness.com/wall-street-rises-ai-momentum-earnings/"
     },
     {
-      "texto": "Petróleo recua com o diálogo em Teerã: Brent −0,86% a US$ 114,81 e WTI −0,86% a US$ 100,88",
+      "texto": "Petróleo cede com esperança de desescalada no Oriente Médio: WTI perto de US$ 101 (cerca de −1%) e energia foi o pior setor do S&P 500",
       "categoria": "mercados",
-      "fonte": "Arab News",
-      "url": "https://www.arabnews.com/energy/oil-slips-1-as-iran-diplomacy-eases-supply-fears-3008471"
+      "fonte": "Dimsum Daily; Reuters (via Virginia Business)",
+      "url": "https://www.dimsumdaily.hk/chip-gains-support-wall-street-as-oil-eases-and-fed-meeting-gets-under-way/"
     },
     {
-      "texto": "Futuros estáveis antes do Fed: NQ −0,06% (29.419,25) e ES −0,06% (7.710,25); VIX em 18,31",
-      "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    },
-    {
-      "texto": "BTC volta a ficar abaixo de US$ 80 mil (79.757; −0,76% em 24 h) antes do Fed; US$ 33,6 mi em liquidações em 24 h",
+      "texto": "BTC volta acima de US$ 80 mil (80.851,5; +1,01% em 24 h) após cair abaixo desse nível mais cedo; DVOL em 37,63",
       "categoria": "cripto",
-      "fonte": "Coinpedia; precos.json (Yahoo/Deribit)",
-      "url": "https://coinpedia.org/news/why-is-bitcoin-price-down-today-october-27th/"
+      "fonte": "The Motley Fool; precos.json (Yahoo/Deribit)",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/crypto-market-today-oct-27-bitcoin-bounces-back-but-whales-are-turning-bearish-for-the-first-time-since-june/"
     }
   ],
   "pontos_sugeridos": [
     {
-      "chave": "petroleo-hormuz",
-      "tema": "Petróleo e escalada no Golfo",
-      "vies": "bear",
+      "chave": "ipo-anthropic-ia",
+      "tema": "IPO da Anthropic reaviva o trade de IA",
+      "vies": "bull",
       "peso": 2,
-      "porque": "Diálogo em Teerã alivia o Brent, mas Houthis alegam ataque ao oleoduto Leste-Oeste e o barril segue perto de US$ 115"
+      "porque": "Rali chegou a Wall Street: SOX +3,6% com todas as ações em alta e Broadcom +3,8% com o financiamento de US$ 63 bi ligado à Anthropic"
     },
     {
       "chave": "balancos-big-tech",
@@ -100,30 +107,23 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção amanhã é esperada, mas o mercado ainda vê cerca de 10% de chance de alta e o Treasury de 10 anos está perto de 5%",
+      "porque": "Manutenção amanhã às 15h de Brasília é esperada, mas o FedWatch já precifica nova alta em dezembro; Treasury de 10 anos perto de 5%",
       "revisao": "2026-10-28"
     },
     {
-      "chave": "ipo-anthropic-ia",
-      "tema": "IPO da Anthropic reaviva o trade de IA",
-      "vies": "bull",
-      "peso": 2,
-      "porque": "Rali de chips se estendeu à Ásia: KOSPI +3,1% com Samsung e SK Hynix, Nikkei +1,7% com Advantest e SoftBank"
-    },
-    {
-      "chave": "selloff-semis",
-      "tema": "Sell-off de semis",
+      "chave": "petroleo-hormuz",
+      "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Repique de dois dias ainda pouco muda outubro; SOX segue perto da mínima de 3 meses e o balanço da SK Hynix sai hoje às 21h de Brasília"
+      "porque": "Esperança de desescalada derruba o WTI para perto de US$ 101, mas o barril segue em nível alto e sensível a novos ataques"
     },
     {
       "chave": "saida-etf-btc",
       "tema": "Saídas dos ETFs de bitcoin",
       "vies": "bear",
       "peso": 1,
-      "porque": "Sem dado novo de fluxo após US$ 773,5 mi de saídas em 22 e 23/10; BTC de volta abaixo de US$ 80 mil"
+      "porque": "Fluxo dos ETFs segue negativo há vários dias e baleias na Hyperliquid viraram vendidas, mesmo com o BTC de volta acima de US$ 80 mil"
     }
   ],
-  "nota_sugerida": -1
+  "nota_sugerida": 0
 }
