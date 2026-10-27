@@ -1,16 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "NQ|variacao_dia_pct|queda|2026-10-16": {
-      "em": "2026-10-17T23:17:32Z",
-      "status": "sem_bot",
-      "texto": "🔴 NQ −2,5% no dia (gatilho: queda > 2,5%) · 29.391,50"
-    },
-    "VIX|salto_dia_pct|salto|2026-10-16": {
-      "em": "2026-10-17T23:17:32Z",
-      "status": "sem_bot",
-      "texto": "⚠️ VIX +21,4% no dia (gatilho: salto > 20,0%) · 19,99"
-    },
     "noticia|2026-10-17-teste-ponta-a-ponta": {
       "em": "2026-10-18T00:35:29Z",
       "status": "enviado",
