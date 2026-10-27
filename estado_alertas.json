@@ -30,6 +30,11 @@
       "em": "2026-10-22T18:27:25Z",
       "status": "enviado",
       "texto": "🔴 NQ −2,8% no dia (gatilho: queda > 2,5%) · 29.165,00"
+    },
+    "KOSPI|variacao_dia_pct|alta|2026-10-27": {
+      "em": "2026-10-27T01:57:47Z",
+      "status": "enviado",
+      "texto": "🟢 KOSPI +4,5% no dia (gatilho: alta > 4,0%) · 5.718,00"
     }
   },
   "ultima_config_valida": {
