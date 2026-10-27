@@ -1,64 +1,76 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-26T23:43:46Z",
-  "data": "2026-10-26",
-  "janela": "noite",
+  "gerado_em": "2026-10-27T10:43:59Z",
+  "data": "2026-10-27",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Anthropic protocola o S-1 do IPO (ticker ANT): receita de US$ 16,3 bi no 1º semestre e compromisso de até US$ 120,5 bi em computação com a unidade de IA da SpaceX até 2029",
+      "texto": "Fed começa hoje a reunião de dois dias e decide amanhã (28/10); CME precifica cerca de 10% de chance de alta após inflação acima do esperado",
+      "categoria": "bc",
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
+    },
+    {
+      "texto": "Houthis dizem ter atingido estações de bombeamento do oleoduto Leste-Oeste da Arábia Saudita; Riad não confirmou",
+      "categoria": "geopolitica",
+      "fonte": "Arab News",
+      "url": "https://www.arabnews.com/energy/oil-slips-1-as-iran-diplomacy-eases-supply-fears-3008471"
+    },
+    {
+      "texto": "Treasury de 10 anos perto de 4,99% antes da decisão do Fed",
       "categoria": "mercados",
       "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
     },
     {
-      "texto": "Arábia Saudita, Paquistão e Turquia concordam em continuar as conversas de segurança com o Irã em Teerã; Trump diz que \"não haverá ataque hoje\"",
-      "categoria": "geopolitica",
-      "fonte": "The New Arab / Rigzone",
-      "url": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
-    },
-    {
-      "texto": "Coalizão saudita diz ter destruído três drones em Riad e interceptado mísseis contra áreas como o porto de Yanbu",
-      "categoria": "geopolitica",
-      "fonte": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_dips_from_6_month_high_as_officials_meet_in_tehran-26-oct-2026-184936-article/"
-    },
-    {
-      "texto": "Fed começa a reunião de dois dias na terça e decide na quarta (28/10); mercado espera manutenção com tom hawkish de Warsh; BCE, BoC e BoJ também decidem na semana",
+      "texto": "Hoje nos EUA: bens duráveis de setembro (consenso +1,7%), confiança do consumidor do Conference Board (consenso 80,5) e vendas de casas novas; balanços de Visa, UPS, Coca-Cola e Boeing",
       "categoria": "agenda",
       "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
     },
     {
-      "texto": "Alphabet e Microsoft divulgam balanços na quarta (28/10) após o fechamento",
-      "categoria": "agenda",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
+      "texto": "SK Hynix divulga o balanço do 3º trimestre na quarta e a Samsung o resultado completo na quinta; a prévia da Samsung mostrou lucro operacional de 107,4 tri de wons",
+      "categoria": "semis",
+      "fonte": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/samsung-q3-operating-profit-surpasses-107-4-trillion-krw-sk-hynix-to-release-earnings-wednesday"
+    },
+    {
+      "texto": "PIB da Coreia do Sul cresceu 3,4% no 3º trimestre na comparação anual",
+      "categoria": "macro",
+      "fonte": "Fortune",
+      "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Wall Street sobe com o IPO da Anthropic reavivando o trade de IA: S&P 500 +0,70% (7.676,77), Nasdaq +0,82%, Nvidia +2,39% e SOX +2,82% (11.083,47)",
+      "texto": "IPO da Anthropic puxa chips na Ásia: KOSPI +3,09% (5.638,34) e Nikkei +1,73% (63.268,37); Samsung +4,2%, SK Hynix +5,2% e Advantest perto de +9%",
       "categoria": "semis",
-      "fonte": "Yahoo Finance; precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html"
+      "fonte": "Fortune; precos.json (Yahoo/Deribit)",
+      "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
     },
     {
-      "texto": "Petróleo recua com as conversas em Teerã: Brent −0,8% a US$ 115,81 e WTI −1,5% a US$ 101,76; ataques dos Houthis limitaram a queda",
+      "texto": "China fica de fora do rali de IA: Hang Seng −0,7% e CSI 300 −1,3%; Cambricon −5,7% e SMIC −1,3%",
       "categoria": "mercados",
-      "fonte": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_dips_from_6_month_high_as_officials_meet_in_tehran-26-oct-2026-184936-article/"
+      "fonte": "Fortune",
+      "url": "https://fortune.com/2026/10/27/anthropic-ipo-filing-lifts-asia-stocks-except-for-china/"
     },
     {
-      "texto": "VIX cai 5,45% a 18,39; na sessão noturna, NQ +0,23% (29.505) e ES +0,06% (7.718,75)",
+      "texto": "Petróleo recua com o diálogo em Teerã: Brent −0,86% a US$ 114,81 e WTI −0,86% a US$ 100,88",
+      "categoria": "mercados",
+      "fonte": "Arab News",
+      "url": "https://www.arabnews.com/energy/oil-slips-1-as-iran-diplomacy-eases-supply-fears-3008471"
+    },
+    {
+      "texto": "Futuros estáveis antes do Fed: NQ −0,06% (29.419,25) e ES −0,06% (7.710,25); VIX em 18,31",
       "categoria": "mercados",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "BTC segue perto de US$ 80 mil (−0,18% em 24 h) após saídas de US$ 773,5 mi dos ETFs à vista em 22 e 23/10",
+      "texto": "BTC volta a ficar abaixo de US$ 80 mil (79.757; −0,76% em 24 h) antes do Fed; US$ 33,6 mi em liquidações em 24 h",
       "categoria": "cripto",
-      "fonte": "crypto.news; precos.json (Yahoo/Deribit)",
-      "url": "https://crypto.news/why-is-bitcoin-price-down-today-fed-etf-outflows/"
+      "fonte": "Coinpedia; precos.json (Yahoo/Deribit)",
+      "url": "https://coinpedia.org/news/why-is-bitcoin-price-down-today-october-27th/"
     }
   ],
   "pontos_sugeridos": [
@@ -67,7 +79,7 @@
       "tema": "Petróleo e escalada no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Diálogo em Teerã segue, mas sem acordo; Houthis mantêm ataques à Arábia Saudita e o Brent continua perto de US$ 116"
+      "porque": "Diálogo em Teerã alivia o Brent, mas Houthis alegam ataque ao oleoduto Leste-Oeste e o barril segue perto de US$ 115"
     },
     {
       "chave": "balancos-big-tech",
@@ -82,7 +94,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção em 28/10 é esperada, mas com tom hawkish de Warsh sinalizando novas altas; PCE de 29/10 completa o quadro",
+      "porque": "Manutenção amanhã é esperada, mas o mercado ainda vê cerca de 10% de chance de alta e o Treasury de 10 anos está perto de 5%",
       "revisao": "2026-10-28"
     },
     {
@@ -90,21 +102,21 @@
       "tema": "IPO da Anthropic reaviva o trade de IA",
       "vies": "bull",
       "peso": 2,
-      "porque": "S-1 com receita forte e gasto bilionário em computação puxou Nvidia, Broadcom e Micron e o SOX"
+      "porque": "Rali de chips se estendeu à Ásia: KOSPI +3,1% com Samsung e SK Hynix, Nikkei +1,7% com Advantest e SoftBank"
     },
     {
       "chave": "selloff-semis",
       "tema": "Sell-off de semis",
       "vies": "bear",
       "peso": 1,
-      "porque": "SOX repicou 2,8% com o IPO da Anthropic, mas segue perto da mínima de 3 meses; KOSPI e Nikkei caíram na sessão"
+      "porque": "Repique de dois dias ainda pouco muda outubro; SOX segue perto da mínima de 3 meses e o balanço da SK Hynix sai na quarta"
     },
     {
       "chave": "saida-etf-btc",
       "tema": "Saídas dos ETFs de bitcoin",
       "vies": "bear",
       "peso": 1,
-      "porque": "US$ 773,5 mi de saídas em 22 e 23/10; BTC estável perto de US$ 80 mil, sem dado novo de fluxo"
+      "porque": "Sem dado novo de fluxo após US$ 773,5 mi de saídas em 22 e 23/10; BTC de volta abaixo de US$ 80 mil"
     }
   ],
   "nota_sugerida": -1
