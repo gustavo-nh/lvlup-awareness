@@ -30,10 +30,16 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html"
     },
     {
-      "texto": "SK Hynix divulga o balanço do 3º trimestre na quarta e a Samsung o resultado completo na quinta; a prévia da Samsung mostrou lucro operacional de 107,4 tri de wons",
+      "texto": "SK Hynix divulga o balanço do 3º trimestre hoje (27/10) às 21h de Brasília (09h de 28/10 em Seul), com teleconferência no mesmo horário",
       "categoria": "semis",
-      "fonte": "KuCoin News",
-      "url": "https://www.kucoin.com/news/flash/samsung-q3-operating-profit-surpasses-107-4-trillion-krw-sk-hynix-to-release-earnings-wednesday"
+      "fonte": "SK hynix",
+      "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+    },
+    {
+      "texto": "Samsung divulga o resultado completo do 3º trimestre na quarta (28/10) às 22h de Brasília (10h de 29/10 em Seul); a prévia mostrou lucro operacional de 107,4 tri de wons",
+      "categoria": "semis",
+      "fonte": "Samsung Electronics",
+      "url": "https://www.investegate.co.uk/announcement/rns/samsung-electronics-co-ltd-att---smsd/notice-of-3q-2026-earnings-release-schedule/9812151"
     },
     {
       "texto": "PIB da Coreia do Sul cresceu 3,4% no 3º trimestre na comparação anual",
@@ -109,7 +115,7 @@
       "tema": "Sell-off de semis",
       "vies": "bear",
       "peso": 1,
-      "porque": "Repique de dois dias ainda pouco muda outubro; SOX segue perto da mínima de 3 meses e o balanço da SK Hynix sai na quarta"
+      "porque": "Repique de dois dias ainda pouco muda outubro; SOX segue perto da mínima de 3 meses e o balanço da SK Hynix sai hoje às 21h de Brasília"
     },
     {
       "chave": "saida-etf-btc",
