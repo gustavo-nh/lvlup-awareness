@@ -1,11 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "noticia|2026-10-17-teste-ponta-a-ponta": {
-      "em": "2026-10-18T00:35:29Z",
-      "status": "enviado",
-      "texto": "Teste ponta a ponta dos alertas de noticia"
-    },
     "KOSPI|variacao_dia_pct|queda|2026-10-20": {
       "em": "2026-10-20T04:33:37Z",
       "status": "enviado",
@@ -25,6 +20,16 @@
       "em": "2026-10-27T01:57:47Z",
       "status": "enviado",
       "texto": "🟢 KOSPI +4,5% no dia (gatilho: alta > 4,0%) · 5.718,00"
+    },
+    "KOSPI|variacao_dia_pct|alta|2026-10-28": {
+      "em": "2026-10-28T05:20:36Z",
+      "status": "enviado",
+      "texto": "🟢 KOSPI +6,2% no dia (gatilho: alta > 4,0%) · 5.988,66"
+    },
+    "noticia|2026-10-17-teste-ponta-a-ponta": {
+      "em": "2026-10-28T05:20:39Z",
+      "status": "expirado",
+      "texto": "Teste ponta a ponta dos alertas de noticia"
     }
   },
   "ultima_config_valida": {
