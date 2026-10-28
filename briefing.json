@@ -1,105 +1,112 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-27T23:44:03Z",
-  "data": "2026-10-27",
-  "janela": "noite",
+  "gerado_em": "2026-10-28T10:46:06Z",
+  "data": "2026-10-28",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Fed decide amanhã (28/10) às 15h de Brasília; manutenção em 3,75%–4% é esperada e o FedWatch aponta a segunda alta do ano para dezembro",
+      "texto": "Fed anuncia a decisão hoje (28/10) às 15h de Brasília, com coletiva de Warsh às 15h30; manutenção esperada e chance de cerca de 3 em 4 de nova alta em dezembro",
       "categoria": "bc",
-      "fonte": "Reuters (via Virginia Business)",
-      "url": "https://virginiabusiness.com/wall-street-rises-ai-momentum-earnings/"
+      "fonte": "Investing.com; TokenPost",
+      "url": "https://in.investing.com/news/economy-news/alphabet-microsoft-to-report-fed-decision-ahead--whats-moving-markets-5658997"
     },
     {
-      "texto": "Confiança do consumidor do Conference Board sobe 7,5 pontos para 91,7 em outubro (setembro revisado: 84,2)",
-      "categoria": "macro",
-      "fonte": "The Conference Board",
-      "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
-    },
-    {
-      "texto": "Treasury de 10 anos perto de 4,99%, com queda de mais de 30 pontos-base em outubro, encaminhando o fim de sete meses seguidos de alta",
+      "texto": "Treasury de 10 anos volta a passar de 5% (5,01%, +2 pb) antes do Fed; 2 anos em 4,75%",
       "categoria": "mercados",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
+      "fonte": "TokenPost",
+      "url": "https://www.tokenpost.com/news/investing/42501"
     },
     {
-      "texto": "Meta eleva a captação em ações para US$ 97,5 bi, a maior da sua história; Nvidia indicou investimento de US$ 3 bi na oferta",
-      "categoria": "mercados",
-      "fonte": "Reuters (via Virginia Business); Dimsum Daily",
-      "url": "https://virginiabusiness.com/wall-street-rises-ai-momentum-earnings/"
+      "texto": "WSJ: EUA pediram a países do Golfo que se preparem para uma campanha militar curta e intensa contra o Irã após as eleições de meio de mandato; Trump ainda não decidiu",
+      "categoria": "geopolitica",
+      "fonte": "Ynet (citando WSJ)",
+      "url": "https://www.ynetnews.com/article/s1c65jkazg"
     },
     {
-      "texto": "Oracle amplia parceria com a Nvidia para implantações de vários gigawatts de servidores Vera Rubin e adiciona TPUs do Google, SambaNova e Cerebras",
+      "texto": "Microsoft e Alphabet divulgam balanço hoje (28/10) após o fechamento em Nova York (a partir das 17h de Brasília); Amazon na quinta (29/10)",
+      "categoria": "agenda",
+      "fonte": "Yahoo Finance (via AOL); Investing.com",
+      "url": "https://www.aol.com/articles/stock-market-today-dow-futures-080642000.html"
+    },
+    {
+      "texto": "SK Hynix prevê demanda por memória acima da oferta até 2030 e anuncia cerca de 100 tri de wons (US$ 75 bi) em retorno ao acionista em 2026",
       "categoria": "semis",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
+      "fonte": "IBTimes",
+      "url": "https://www.ibtimes.com.au/south-korean-stocks-skhynix-record-earnings-rally-1877512"
     },
     {
-      "texto": "Baleias de BTC na Hyperliquid ficam vendidas líquidas pela primeira vez desde o repique de junho, segundo a Glassnode",
+      "texto": "ETFs de bitcoin à vista têm o segundo dia seguido de entradas em 27/10 (US$ 176 mi, IBIT US$ 150 mi); ETFs de ether perdem US$ 60 mi",
       "categoria": "cripto",
-      "fonte": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/crypto-market-today-oct-27-bitcoin-bounces-back-but-whales-are-turning-bearish-for-the-first-time-since-june/"
+      "fonte": "Bloomingbit",
+      "url": "https://en.bloomingbit.io/feed/news/123102"
     },
     {
-      "texto": "Próximos dias: Alphabet e Microsoft divulgam balanço na quarta (28/10) e Amazon na quinta (29/10)",
-      "categoria": "agenda",
-      "fonte": "Dimsum Daily",
-      "url": "https://www.dimsumdaily.hk/chip-gains-support-wall-street-as-oil-eases-and-fed-meeting-gets-under-way/"
-    },
-    {
-      "texto": "BCE anuncia decisão de juros na quinta (29/10) às 10h15 de Brasília (14h15 em Frankfurt)",
-      "categoria": "agenda",
-      "fonte": "Admiral Markets",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/ecb-meeting-october-2026"
+      "texto": "NXP supera o 3º tri mas dá guidance fraco para o 4º tri e cai; Teradyne recua 6% apesar de bater as estimativas",
+      "categoria": "semis",
+      "fonte": "Everhint",
+      "url": "https://www.everhint.com/earnings-reports-october-27-2026-evening-update-last-12-hours-pacific-time/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Chips ampliam o rali de IA: SOX +3,6% (11.482,51), com as 30 ações do índice em alta; Nasdaq +1,18% e CoreWeave +7,9%",
-      "categoria": "semis",
-      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
-    },
-    {
-      "texto": "Broadcom sobe 3,8% na abertura após financiamento de US$ 63 bi para equipar a Anthropic com seus chips, com entregas a partir de 2027",
-      "categoria": "semis",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-gain-3-8-171137844.html"
-    },
-    {
-      "texto": "S&P 500 fecha em +0,60% (7.723,05) e Dow +0,05%; VIX cai 4,73% para 17,52 e, no after, NQ +0,08% (29.836,5) e ES +0,04% (7.761,5)",
+      "texto": "KOSPI dispara 6,63% para 6.012,44 com SK Hynix +10,89% e Samsung +9,01%; sidecar de compra acionado pela segunda sessão seguida",
       "categoria": "mercados",
-      "fonte": "Reuters (via Virginia Business); precos.json (Yahoo/Deribit)",
-      "url": "https://virginiabusiness.com/wall-street-rises-ai-momentum-earnings/"
+      "fonte": "Korea JoongAng Daily; precos.json (Yahoo/Deribit)",
+      "url": "https://www.koreajoongangdaily.com/business/kospi-surges-past-6000-as-sk-hynix-record-earnings-reignite-ai-rally/12943596"
     },
     {
-      "texto": "Petróleo cede com esperança de desescalada no Oriente Médio: WTI perto de US$ 101 (cerca de −1%) e energia foi o pior setor do S&P 500",
+      "texto": "SK Hynix tem lucro operacional recorde de 83,3 tri de wons no 3º tri (+632%; consenso 77,5 tri) e receita de 104,6 tri (+328%), divulgados na noite de 27/10 em Brasília",
+      "categoria": "semis",
+      "fonte": "Investing.com",
+      "url": "https://in.investing.com/news/economy-news/alphabet-microsoft-to-report-fed-decision-ahead--whats-moving-markets-5658997"
+    },
+    {
+      "texto": "Futuros mistos antes do Fed: NQ +0,47% (29.951) e ES +0,14% (7.769); Dow futuro em queda; VIX estável em 17,51",
       "categoria": "mercados",
-      "fonte": "Dimsum Daily; Reuters (via Virginia Business)",
-      "url": "https://www.dimsumdaily.hk/chip-gains-support-wall-street-as-oil-eases-and-fed-meeting-gets-under-way/"
+      "fonte": "Yahoo Finance (via AOL); precos.json (Yahoo/Deribit)",
+      "url": "https://www.aol.com/articles/stock-market-today-dow-futures-080642000.html"
     },
     {
-      "texto": "BTC volta acima de US$ 80 mil (80.851,5; +1,01% em 24 h) após cair abaixo desse nível mais cedo; DVOL em 37,63",
+      "texto": "Brent sobe 1,2% para US$ 115,29, sustentado pelas disrupções de oferta no Oriente Médio",
+      "categoria": "mercados",
+      "fonte": "Investing.com",
+      "url": "https://in.investing.com/news/economy-news/alphabet-microsoft-to-report-fed-decision-ahead--whats-moving-markets-5658997"
+    },
+    {
+      "texto": "Nikkei sobe 1,08% (63.954,19) na sessão de 28/10, na esteira do rali de chips",
+      "categoria": "mercados",
+      "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "BTC sobe para 81.459 (+2,15% em 24 h) com a volta das entradas nos ETFs; DVOL cai para 37,13",
       "categoria": "cripto",
-      "fonte": "The Motley Fool; precos.json (Yahoo/Deribit)",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/crypto-market-today-oct-27-bitcoin-bounces-back-but-whales-are-turning-bearish-for-the-first-time-since-june/"
+      "fonte": "Bloomingbit; precos.json (Yahoo/Deribit)",
+      "url": "https://en.bloomingbit.io/feed/news/123102"
     }
   ],
   "pontos_sugeridos": [
     {
       "chave": "ipo-anthropic-ia",
-      "tema": "IPO da Anthropic reaviva o trade de IA",
+      "tema": "Rali de IA reaceso (Anthropic, SK Hynix)",
       "vies": "bull",
       "peso": 2,
-      "porque": "Rali chegou a Wall Street: SOX +3,6% com todas as ações em alta e Broadcom +3,8% com o financiamento de US$ 63 bi ligado à Anthropic"
+      "porque": "Lucro recorde da SK Hynix leva o KOSPI a +6,63% e estende o rali de chips após o SOX +3,6% de ontem"
     },
     {
       "chave": "balancos-big-tech",
       "tema": "Balanços de Alphabet, Microsoft e Amazon",
       "vies": "neutro",
       "peso": 3,
-      "porque": "Testam o rali de IA em 28 e 29/10; capex e caixa fortes → bull, mais gasto com caixa fraco → bear",
+      "porque": "Hoje após o fechamento e quinta; capex com receita de IA forte → bull, mais gasto com caixa fraco → bear",
+      "revisao": "2026-10-29"
+    },
+    {
+      "chave": "decisao-fed-28-10",
+      "tema": "Decisão do Fed em 28/10",
+      "vies": "neutro",
+      "peso": 3,
+      "porque": "Manutenção esperada às 15h; Warsh sinalizando alta em dezembro → bear, sinal de pausa → bull",
       "revisao": "2026-10-28"
     },
     {
@@ -107,22 +114,14 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 1,
-      "porque": "Manutenção amanhã às 15h de Brasília é esperada, mas o FedWatch já precifica nova alta em dezembro; Treasury de 10 anos perto de 5%",
-      "revisao": "2026-10-28"
+      "porque": "Treasury de 10 anos de volta acima de 5% e mercado precifica cerca de 75% de chance de alta em dezembro"
     },
     {
       "chave": "petroleo-hormuz",
-      "tema": "Petróleo e escalada no Golfo",
+      "tema": "Petróleo e risco de nova ofensiva contra o Irã",
       "vies": "bear",
-      "peso": 1,
-      "porque": "Esperança de desescalada derruba o WTI para perto de US$ 101, mas o barril segue em nível alto e sensível a novos ataques"
-    },
-    {
-      "chave": "saida-etf-btc",
-      "tema": "Saídas dos ETFs de bitcoin",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Fluxo dos ETFs segue negativo há vários dias e baleias na Hyperliquid viraram vendidas, mesmo com o BTC de volta acima de US$ 80 mil"
+      "peso": 2,
+      "porque": "WSJ relata preparação de campanha contra o Irã após as eleições de meio de mandato; Brent sobe para US$ 115"
     }
   ],
   "nota_sugerida": 0
