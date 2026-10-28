@@ -1,88 +1,76 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-28T10:46:06Z",
+  "gerado_em": "2026-10-28T23:50:00Z",
   "data": "2026-10-28",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Fed anuncia a decisão hoje (28/10) às 15h de Brasília, com coletiva de Warsh às 15h30; manutenção esperada e chance de cerca de 3 em 4 de nova alta em dezembro",
+      "texto": "Warsh diz que a inflação segue alta demais e subiu nas últimas semanas, mas não dá pista sobre dezembro: não acredita em forward guidance fora de crise",
       "categoria": "bc",
-      "fonte": "Investing.com; TokenPost",
-      "url": "https://in.investing.com/news/economy-news/alphabet-microsoft-to-report-fed-decision-ahead--whats-moving-markets-5658997"
+      "fonte": "MarketScreener; FatTail (citando CNBC)",
+      "url": "https://fattail.ai/warsh-press-conference-october-2026/"
     },
     {
-      "texto": "Treasury de 10 anos volta a passar de 5% (5,01%, +2 pb) antes do Fed; 2 anos em 4,75%",
-      "categoria": "mercados",
-      "fonte": "TokenPost",
-      "url": "https://www.tokenpost.com/news/investing/42501"
+      "texto": "Antes da reunião, os futuros precificavam cerca de 73% a 79% de chance de nova alta de juros em dezembro",
+      "categoria": "bc",
+      "fonte": "Kiplinger; FatTail",
+      "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
     },
     {
-      "texto": "WSJ: EUA pediram a países do Golfo que se preparem para uma campanha militar curta e intensa contra o Irã após as eleições de meio de mandato; Trump ainda não decidiu",
+      "texto": "Trump, sobre ataques ao Irã após as eleições de meio de mandato: \"tudo é possível\"; míssil houthi lançado contra Taif foi interceptado pela Arábia Saudita",
       "categoria": "geopolitica",
-      "fonte": "Ynet (citando WSJ)",
-      "url": "https://www.ynetnews.com/article/s1c65jkazg"
+      "fonte": "Fox News",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26"
     },
     {
-      "texto": "Microsoft e Alphabet divulgam balanço hoje (28/10) após o fechamento em Nova York (a partir das 17h de Brasília); Amazon na quinta (29/10)",
+      "texto": "Amanhã (29/10): PIB do 3º tri, PCE de setembro e pedidos de seguro-desemprego às 09h30 de Brasília (08h30 em Nova York); BCE decide às 10h15 de Brasília",
       "categoria": "agenda",
-      "fonte": "Yahoo Finance (via AOL); Investing.com",
-      "url": "https://www.aol.com/articles/stock-market-today-dow-futures-080642000.html"
+      "fonte": "Yelza; Thrive Markets",
+      "url": "https://yelza.com/research/economic-calender-october-26-30-2026"
     },
     {
-      "texto": "SK Hynix prevê demanda por memória acima da oferta até 2030 e anuncia cerca de 100 tri de wons (US$ 75 bi) em retorno ao acionista em 2026",
-      "categoria": "semis",
-      "fonte": "IBTimes",
-      "url": "https://www.ibtimes.com.au/south-korean-stocks-skhynix-record-earnings-rally-1877512"
-    },
-    {
-      "texto": "ETFs de bitcoin à vista têm o segundo dia seguido de entradas em 27/10 (US$ 176 mi, IBIT US$ 150 mi); ETFs de ether perdem US$ 60 mi",
-      "categoria": "cripto",
-      "fonte": "Bloomingbit",
-      "url": "https://en.bloomingbit.io/feed/news/123102"
-    },
-    {
-      "texto": "NXP supera o 3º tri mas dá guidance fraco para o 4º tri e cai; Teradyne recua 6% apesar de bater as estimativas",
-      "categoria": "semis",
-      "fonte": "Everhint",
-      "url": "https://www.everhint.com/earnings-reports-october-27-2026-evening-update-last-12-hours-pacific-time/"
+      "texto": "Amazon divulga balanço amanhã (29/10) após o fechamento em Nova York (a partir das 17h de Brasília)",
+      "categoria": "agenda",
+      "fonte": "Yelza",
+      "url": "https://yelza.com/research/economic-calender-october-26-30-2026"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "KOSPI dispara 6,63% para 6.012,44 com SK Hynix +10,89% e Samsung +9,01%; sidecar de compra acionado pela segunda sessão seguida",
-      "categoria": "mercados",
-      "fonte": "Korea JoongAng Daily; precos.json (Yahoo/Deribit)",
-      "url": "https://www.koreajoongangdaily.com/business/kospi-surges-past-6000-as-sk-hynix-record-earnings-reignite-ai-rally/12943596"
+      "texto": "Fed mantém juros em 3,75%-4,00% (10 a 2; Cook e Hammack votaram por alta de 0,25 pp); S&P 500 fecha +0,28% (7.743,98), Nasdaq +0,27% e VIX cai 3,48% (16,91)",
+      "categoria": "bc",
+      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262249004-us-stock-market-close-oracle-sk-hynix-fed-hold-sox-tradingkey"
     },
     {
-      "texto": "SK Hynix tem lucro operacional recorde de 83,3 tri de wons no 3º tri (+632%; consenso 77,5 tri) e receita de 104,6 tri (+328%), divulgados na noite de 27/10 em Brasília",
-      "categoria": "semis",
-      "fonte": "Investing.com",
-      "url": "https://in.investing.com/news/economy-news/alphabet-microsoft-to-report-fed-decision-ahead--whats-moving-markets-5658997"
-    },
-    {
-      "texto": "Futuros mistos antes do Fed: NQ +0,47% (29.951) e ES +0,14% (7.769); Dow futuro em queda; VIX estável em 17,51",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance (via AOL); precos.json (Yahoo/Deribit)",
-      "url": "https://www.aol.com/articles/stock-market-today-dow-futures-080642000.html"
-    },
-    {
-      "texto": "Brent sobe 1,2% para US$ 115,29, sustentado pelas disrupções de oferta no Oriente Médio",
+      "texto": "Alphabet cai cerca de 10% no after: LPA de US$ 2,12 vs. 3,02 esperado (perda com SpaceX), receita em linha; capex de 2026 mantido e alta significativa prevista para 2027",
       "categoria": "mercados",
       "fonte": "Investing.com",
-      "url": "https://in.investing.com/news/economy-news/alphabet-microsoft-to-report-fed-decision-ahead--whats-moving-markets-5658997"
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q3-2026-profit-miss-sparks-10-afterhours-drop-93CH-4981037"
     },
     {
-      "texto": "Nikkei sobe 1,08% (63.954,19) na sessão de 28/10, na esteira do rali de chips",
+      "texto": "Microsoft sobe cerca de 2,5% no after: LPA de US$ 4,89 (vs. 4,72) e receita de US$ 92,3 bi (vs. 90,6 bi); Azure +48% e capex abaixo do esperado",
+      "categoria": "mercados",
+      "fonte": "Investing.com",
+      "url": "https://www.investing.com/news/earnings/microsoft-stock-rises-over-4-after-hours-on-quarterly-results-beat-4980704"
+    },
+    {
+      "texto": "NQ futuro cai 1,09% (29.652,75) e ES −0,41% (7.751) no after-market de 28/10, com a queda da Alphabet",
       "categoria": "mercados",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "BTC sobe para 81.459 (+2,15% em 24 h) com a volta das entradas nos ETFs; DVOL cai para 37,13",
+      "texto": "SOX sobe 1,75% (11.684) em 28/10, com ADR da SK Hynix +13,3% após o balanço recorde; Oracle +10,6%",
+      "categoria": "semis",
+      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262249004-us-stock-market-close-oracle-sk-hynix-fed-hold-sox-tradingkey"
+    },
+    {
+      "texto": "BTC oscila entre 80.500 e 81.700 após o Fed e fica em 81.264 (+0,53% em 24 h); DVOL em 37,29",
       "categoria": "cripto",
-      "fonte": "Bloomingbit; precos.json (Yahoo/Deribit)",
-      "url": "https://en.bloomingbit.io/feed/news/123102"
+      "fonte": "KuCoin; precos.json (Yahoo/Deribit)",
+      "url": "https://www.kucoin.com/news/flash/bitcoin-price-surpasses-81-500-amid-fed-s-rate-decision"
     }
   ],
   "pontos_sugeridos": [
@@ -91,38 +79,38 @@
       "tema": "Rali de IA reaceso (Anthropic, SK Hynix)",
       "vies": "bull",
       "peso": 2,
-      "porque": "Lucro recorde da SK Hynix leva o KOSPI a +6,63% e estende o rali de chips após o SOX +3,6% de ontem"
+      "porque": "SOX +1,75% com ADR da SK Hynix +13% e Oracle +10,6%; Azure +48% na Microsoft reforça a demanda por IA"
     },
     {
       "chave": "balancos-big-tech",
       "tema": "Balanços de Alphabet, Microsoft e Amazon",
       "vies": "neutro",
       "peso": 3,
-      "porque": "Hoje após o fechamento e quinta; capex com receita de IA forte → bull, mais gasto com caixa fraco → bear",
-      "revisao": "2026-10-29"
-    },
-    {
-      "chave": "decisao-fed-28-10",
-      "tema": "Decisão do Fed em 28/10",
-      "vies": "neutro",
-      "peso": 3,
-      "porque": "Manutenção esperada às 15h; Warsh sinalizando alta em dezembro → bear, sinal de pausa → bull",
-      "revisao": "2026-10-28"
+      "porque": "Misto até agora (Alphabet −10%, Microsoft +2,5% no after); Amazon amanhã: nuvem forte com capex contido → bull, mais gasto com caixa fraco → bear",
+      "revisao": "2026-10-30"
     },
     {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
-      "peso": 1,
-      "porque": "Treasury de 10 anos de volta acima de 5% e mercado precifica cerca de 75% de chance de alta em dezembro"
+      "peso": 2,
+      "porque": "Fed mantém, mas dois votos por alta e Warsh diz que a inflação subiu nas últimas semanas; dezembro segue em aberto"
+    },
+    {
+      "chave": "dados-macro-29-10",
+      "tema": "PIB, PCE e BCE em 29/10",
+      "vies": "neutro",
+      "peso": 2,
+      "porque": "PCE acima do esperado reforça alta do Fed em dezembro → bear; PCE fraco → bull",
+      "revisao": "2026-10-29"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e risco de nova ofensiva contra o Irã",
       "vies": "bear",
       "peso": 2,
-      "porque": "WSJ relata preparação de campanha contra o Irã após as eleições de meio de mandato; Brent sobe para US$ 115"
+      "porque": "Trump diz que \"tudo é possível\" sobre ataques após as eleições de meio de mandato; houthis seguem lançando mísseis contra a Arábia Saudita"
     }
   ],
-  "nota_sugerida": 0
+  "nota_sugerida": -1
 }
