@@ -30,6 +30,11 @@
       "em": "2026-10-28T05:20:39Z",
       "status": "expirado",
       "texto": "Teste ponta a ponta dos alertas de noticia"
+    },
+    "NQ|variacao_dia_pct|queda|2026-10-29": {
+      "em": "2026-10-29T21:43:17Z",
+      "status": "enviado",
+      "texto": "🔴 NQ −2,5% no dia (gatilho: queda > 2,5%) · 29.218,25"
     }
   },
   "ultima_config_valida": {
