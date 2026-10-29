@@ -1,82 +1,89 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-29T10:45:02Z",
+  "gerado_em": "2026-10-29T23:44:33Z",
   "data": "2026-10-29",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Após o Fed, a CME FedWatch mostra mais de 81% de chance de alta de juros em dezembro, e o mercado precifica outra alta até meados de 2027; T-note de 10 anos em 5,05%",
-      "categoria": "bc",
-      "fonte": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+      "texto": "PCE de setembro em linha: cheio +0,5% no mês e 3,6% em 12 meses; núcleo +0,3% e 3,1%; FedWatch com 79,6% de chance de alta em dezembro (84,2% na véspera)",
+      "categoria": "macro",
+      "fonte": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/september-2026-pce-inflation"
     },
     {
-      "texto": "Banco do Canadá subiu os juros em 28/10, a primeira alta em mais de três anos; BCE decide hoje (29/10) e a expectativa é de manutenção",
+      "texto": "BCE mantém a taxa de depósito em 2,5% com inflação de 3,8%; Lagarde anuncia saída em 07/02/2027, cerca de nove meses antes do fim do mandato",
       "categoria": "bc",
-      "fonte": "Free Malaysia Today (Reuters)",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/29/asian-shares-fall-after-alphabet-earnings-miss-forecasts"
+      "fonte": "Euronews",
+      "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
     },
     {
-      "texto": "Irã diz discutir com mediadores um plano para encerrar a guerra e reabrir Hormuz; vice-presidente Vance contatou o chefe de segurança iraniano, segundo relatos",
+      "texto": "Juro de 10 anos da França perto de 5%, com spread de cerca de 155 pontos sobre o Bund",
+      "categoria": "mercados",
+      "fonte": "Euronews",
+      "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+    },
+    {
+      "texto": "Catar apresentou ao Irã novo rascunho de acordo para encerrar a guerra; autoridade iraniana chamou de inaceitável; WSJ relata opções militares levadas a Trump",
       "categoria": "geopolitica",
-      "fonte": "Khaleej Times",
-      "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-29-2026"
+      "fonte": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
     },
     {
-      "texto": "Hoje (29/10) às 09h30 de Brasília (08h30 em Nova York): PIB do 3º tri (prévia), PCE de setembro e pedidos de seguro-desemprego",
-      "categoria": "agenda",
-      "fonte": "Finance Calendar; Reuters via Yahoo Finance",
-      "url": "https://www.financecalendar.com/events/2026-10-29/"
+      "texto": "Houthis dizem ter atacado refinarias sauditas (Ras Tanura, Rabigh) e Abqaiq, sem confirmação saudita; Guarda Revolucionária relata 3 petroleiros atingidos por minas perto de Hormuz",
+      "categoria": "geopolitica",
+      "fonte": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
     },
     {
-      "texto": "Amazon e Intel divulgam balanço hoje (29/10) após o fechamento em Nova York (a partir das 17h de Brasília)",
+      "texto": "BoJ decide por volta da meia-noite de Brasília de 30/10 (12h em Tóquio, horário estimado); PMI oficial da China às 22h30 de Brasília de 30/10 (09h30 de 31/10 em Pequim)",
       "categoria": "agenda",
-      "fonte": "TipRanks",
-      "url": "https://www.tipranks.com/news/stock-market-today-oct-29-nasdaq-futures-fall-as-alphabet-earnings-spook-investors"
-    },
-    {
-      "texto": "BoJ conclui reunião na sexta (30/10, em Tóquio), horário não confirmado; expectativa de manutenção em 1,25%, com Ueda sinalizando novas altas adiante",
-      "categoria": "agenda",
-      "fonte": "investingLive",
-      "url": "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/"
+      "fonte": "Finance Calendar",
+      "url": "https://www.financecalendar.com/events/2026-10-30/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Alphabet cai 10,2% no pré-mercado (busca fraca e fluxo de caixa livre negativo de US$ 9 bi com gasto em IA); Microsoft +3,6%; NQ −1,04% (29.666,75) e ES −0,30% (7.759,75)",
+      "texto": "Alphabet fecha em −12,64% após receita abaixo do esperado; Nasdaq −1,4% e S&P 500 −0,3% no fechamento; NQ em −1,59% (29.091,75) e ES −0,61% (7.706,75) na sessão de 29/10",
       "categoria": "mercados",
-      "fonte": "Reuters via Yahoo Finance; precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+      "fonte": "StockTitan; precos.json (Yahoo/Deribit)",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
     },
     {
-      "texto": "ServiceNow cai 18,2% e Fortinet 25% no pré-mercado após balanços; Chipotle +6,7% e Carvana +7,8%",
+      "texto": "Intel cai 17,6% no after-hours com previsão de receita de US$ 15 a 16 bi no 4º tri e PC fraco ao menos até o 1º semestre de 2027",
+      "categoria": "semis",
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+    },
+    {
+      "texto": "Amazon cai mais de 6% no after-hours: lucro por ação de US$ 1,89 (esperado 1,97) e receita de US$ 201,94 bi (esperado 202,2 bi), apesar de AWS +39,3%",
       "categoria": "mercados",
-      "fonte": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+      "fonte": "AP via ABC News",
+      "url": "https://abcnews.com/Business/wireStory/amazons-3q-results-miss-analysts-estimates-posts-solid-137686707"
     },
     {
-      "texto": "Marvell cai 9,7% no pré-mercado com relato de negociação avançada para comprar a Lumentum (+4,2%); Micron −3,3%, AMD −2,8%, Intel −3,7%, Nvidia −0,7%",
+      "texto": "Marvell fecha em −13,24% com relatos de negociação para comprar a Lumentum; SOX −1,42% (11.518,2)",
       "categoria": "semis",
-      "fonte": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+      "fonte": "StockTitan; precos.json (Yahoo/Deribit)",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
     },
     {
-      "texto": "Samsung tem lucro operacional recorde de 107,4 tri de wons (1,7% acima do consenso), mas a ação cai cerca de 5%; KOSPI fecha em −1,24% (5.937,66) após alta de quase 7% na véspera",
-      "categoria": "semis",
-      "fonte": "Seoul Economic Daily; precos.json (Yahoo/Deribit)",
-      "url": "https://en.sedaily.com/finance/2026/10/29/samsung-shares-slide-5-percent-despite-record-107-trillion"
-    },
-    {
-      "texto": "Brent cai 0,4% (US$ 114,91) após relato do WSJ de carta de Vance a Mohsen Rezaei para retomar negociações de paz; Nikkei fecha em +1,10% (64.659,47)",
-      "categoria": "geopolitica",
-      "fonte": "Free Malaysia Today (Reuters); precos.json (Yahoo/Deribit)",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/29/asian-shares-fall-after-alphabet-earnings-miss-forecasts"
-    },
-    {
-      "texto": "BTC em 80.150 (−1,59% em 24 h), perto da marca de 80 mil; DVOL em 36,15",
+      "texto": "BTC perde 80 mil com US$ 356 mi em liquidações em 24 h; agora em 78.340 (−3,57% em 24 h) e DVOL em 41,67 (+11,8%)",
       "categoria": "cripto",
-      "fonte": "precos.json (Yahoo/Deribit)"
+      "fonte": "CoinDesk; precos.json (Yahoo/Deribit)",
+      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+    },
+    {
+      "texto": "Brent fecha em −0,38% (US$ 114,88) e WTI −0,76% (US$ 102) com a carta de Vance ao Irã para retomar negociações",
+      "categoria": "geopolitica",
+      "fonte": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
+    },
+    {
+      "texto": "PIB dos EUA do 3º tri (prévia) cresce 3,4% anualizado, acima dos 3,2% esperados",
+      "categoria": "macro",
+      "fonte": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/september-2026-pce-inflation"
     }
   ],
   "pontos_sugeridos": [
@@ -85,45 +92,44 @@
       "tema": "Mercado pune gasto alto com IA",
       "vies": "bear",
       "peso": 2,
-      "porque": "Alphabet −10% com caixa negativo; Samsung cai apesar de lucro recorde; Marvell, Micron e AMD caem no pré; NQ −1%"
-    },
-    {
-      "chave": "ipo-anthropic-ia",
-      "tema": "Demanda por IA segue forte",
-      "vies": "bull",
-      "peso": 1,
-      "porque": "Lucro recorde da Samsung com chips de IA e Azure +48% na Microsoft sustentam a demanda, mas o preço já não reage"
+      "porque": "Alphabet fecha em −12,6% e Amazon cai no after com caixa negativo por gasto em IA; NQ −1,6%"
     },
     {
       "chave": "balancos-big-tech",
       "tema": "Balanços de Alphabet, Microsoft e Amazon",
-      "vies": "neutro",
-      "peso": 3,
-      "porque": "Amazon e Intel hoje após o fechamento: nuvem forte com capex contido → bull; mais gasto com caixa fraco → bear",
-      "revisao": "2026-10-30"
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Reclassificado: Alphabet e Amazon decepcionam e Intel cai 17,6% no after com guidance fraco"
     },
     {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 2,
-      "porque": "FedWatch acima de 81% para alta em dezembro, T-note de 10 anos em 5,05% e Banco do Canadá já voltou a subir juros"
-    },
-    {
-      "chave": "dados-macro-29-10",
-      "tema": "PIB, PCE e BCE em 29/10",
-      "vies": "neutro",
-      "peso": 2,
-      "porque": "PCE acima do esperado reforça alta do Fed em dezembro → bear; PCE fraco → bull",
-      "revisao": "2026-10-29"
+      "porque": "PCE em linha a 3,6% mantém FedWatch perto de 80% para alta em dezembro; BCE com inflação de 3,8%"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e risco de nova ofensiva contra o Irã",
       "vies": "bear",
       "peso": 1,
-      "porque": "Brent perto de US$ 115 segue pressionando a inflação, mas Irã e EUA sinalizam retomada de negociações para reabrir Hormuz"
+      "porque": "Brent perto de US$ 115; diplomacia sem acordo, relatos de minas em Hormuz e opções militares após 03/11"
+    },
+    {
+      "chave": "ipo-anthropic-ia",
+      "tema": "Demanda por IA segue forte",
+      "vies": "bull",
+      "peso": 1,
+      "porque": "AWS acelera para 39,3%, o maior ritmo em quase cinco anos, mas o preço não reage"
+    },
+    {
+      "chave": "decisao-boj-30-10",
+      "tema": "Decisão do BoJ em 30/10",
+      "vies": "neutro",
+      "peso": 1,
+      "porque": "Sinal de alta de juros próxima → bear (iene e carry trade); tom paciente → bull",
+      "revisao": "2026-10-30"
     }
   ],
-  "nota_sugerida": -1
+  "nota_sugerida": -2
 }
