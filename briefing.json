@@ -1,92 +1,105 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-28T23:50:00Z",
-  "data": "2026-10-28",
-  "janela": "noite",
+  "gerado_em": "2026-10-29T10:45:02Z",
+  "data": "2026-10-29",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Warsh diz que a inflação segue alta demais e subiu nas últimas semanas, mas não dá pista sobre dezembro: não acredita em forward guidance fora de crise",
+      "texto": "Após o Fed, a CME FedWatch mostra mais de 81% de chance de alta de juros em dezembro, e o mercado precifica outra alta até meados de 2027; T-note de 10 anos em 5,05%",
       "categoria": "bc",
-      "fonte": "MarketScreener; FatTail (citando CNBC)",
-      "url": "https://fattail.ai/warsh-press-conference-october-2026/"
+      "fonte": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
     },
     {
-      "texto": "Antes da reunião, os futuros precificavam cerca de 73% a 79% de chance de nova alta de juros em dezembro",
+      "texto": "Banco do Canadá subiu os juros em 28/10, a primeira alta em mais de três anos; BCE decide hoje (29/10) e a expectativa é de manutenção",
       "categoria": "bc",
-      "fonte": "Kiplinger; FatTail",
-      "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
+      "fonte": "Free Malaysia Today (Reuters)",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/29/asian-shares-fall-after-alphabet-earnings-miss-forecasts"
     },
     {
-      "texto": "Trump, sobre ataques ao Irã após as eleições de meio de mandato: \"tudo é possível\"; míssil houthi lançado contra Taif foi interceptado pela Arábia Saudita",
+      "texto": "Irã diz discutir com mediadores um plano para encerrar a guerra e reabrir Hormuz; vice-presidente Vance contatou o chefe de segurança iraniano, segundo relatos",
       "categoria": "geopolitica",
-      "fonte": "Fox News",
-      "url": "https://www.foxnews.com/live-news/us-iran-war-trump-speaks-strait-hormuz-10-28-26"
+      "fonte": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-29-2026"
     },
     {
-      "texto": "Amanhã (29/10): PIB do 3º tri, PCE de setembro e pedidos de seguro-desemprego às 09h30 de Brasília (08h30 em Nova York); BCE decide às 10h15 de Brasília",
+      "texto": "Hoje (29/10) às 09h30 de Brasília (08h30 em Nova York): PIB do 3º tri (prévia), PCE de setembro e pedidos de seguro-desemprego",
       "categoria": "agenda",
-      "fonte": "Yelza; Thrive Markets",
-      "url": "https://yelza.com/research/economic-calender-october-26-30-2026"
+      "fonte": "Finance Calendar; Reuters via Yahoo Finance",
+      "url": "https://www.financecalendar.com/events/2026-10-29/"
     },
     {
-      "texto": "Amazon divulga balanço amanhã (29/10) após o fechamento em Nova York (a partir das 17h de Brasília)",
+      "texto": "Amazon e Intel divulgam balanço hoje (29/10) após o fechamento em Nova York (a partir das 17h de Brasília)",
       "categoria": "agenda",
-      "fonte": "Yelza",
-      "url": "https://yelza.com/research/economic-calender-october-26-30-2026"
+      "fonte": "TipRanks",
+      "url": "https://www.tipranks.com/news/stock-market-today-oct-29-nasdaq-futures-fall-as-alphabet-earnings-spook-investors"
+    },
+    {
+      "texto": "BoJ conclui reunião na sexta (30/10, em Tóquio), horário não confirmado; expectativa de manutenção em 1,25%, com Ueda sinalizando novas altas adiante",
+      "categoria": "agenda",
+      "fonte": "investingLive",
+      "url": "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Fed mantém juros em 3,75%-4,00% (10 a 2; Cook e Hammack votaram por alta de 0,25 pp); S&P 500 fecha +0,28% (7.743,98), Nasdaq +0,27% e VIX cai 3,48% (16,91)",
-      "categoria": "bc",
-      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262249004-us-stock-market-close-oracle-sk-hynix-fed-hold-sox-tradingkey"
-    },
-    {
-      "texto": "Alphabet cai cerca de 10% no after: LPA de US$ 2,12 vs. 3,02 esperado (perda com SpaceX), receita em linha; capex de 2026 mantido e alta significativa prevista para 2027",
+      "texto": "Alphabet cai 10,2% no pré-mercado (busca fraca e fluxo de caixa livre negativo de US$ 9 bi com gasto em IA); Microsoft +3,6%; NQ −1,04% (29.666,75) e ES −0,30% (7.759,75)",
       "categoria": "mercados",
-      "fonte": "Investing.com",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q3-2026-profit-miss-sparks-10-afterhours-drop-93CH-4981037"
+      "fonte": "Reuters via Yahoo Finance; precos.json (Yahoo/Deribit)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
     },
     {
-      "texto": "Microsoft sobe cerca de 2,5% no after: LPA de US$ 4,89 (vs. 4,72) e receita de US$ 92,3 bi (vs. 90,6 bi); Azure +48% e capex abaixo do esperado",
+      "texto": "ServiceNow cai 18,2% e Fortinet 25% no pré-mercado após balanços; Chipotle +6,7% e Carvana +7,8%",
       "categoria": "mercados",
-      "fonte": "Investing.com",
-      "url": "https://www.investing.com/news/earnings/microsoft-stock-rises-over-4-after-hours-on-quarterly-results-beat-4980704"
+      "fonte": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
     },
     {
-      "texto": "NQ futuro cai 1,09% (29.652,75) e ES −0,41% (7.751) no after-market de 28/10, com a queda da Alphabet",
-      "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    },
-    {
-      "texto": "SOX sobe 1,75% (11.684) em 28/10, com ADR da SK Hynix +13,3% após o balanço recorde; Oracle +10,6%",
+      "texto": "Marvell cai 9,7% no pré-mercado com relato de negociação avançada para comprar a Lumentum (+4,2%); Micron −3,3%, AMD −2,8%, Intel −3,7%, Nvidia −0,7%",
       "categoria": "semis",
-      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262249004-us-stock-market-close-oracle-sk-hynix-fed-hold-sox-tradingkey"
+      "fonte": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
     },
     {
-      "texto": "BTC oscila entre 80.500 e 81.700 após o Fed e fica em 81.264 (+0,53% em 24 h); DVOL em 37,29",
+      "texto": "Samsung tem lucro operacional recorde de 107,4 tri de wons (1,7% acima do consenso), mas a ação cai cerca de 5%; KOSPI fecha em −1,24% (5.937,66) após alta de quase 7% na véspera",
+      "categoria": "semis",
+      "fonte": "Seoul Economic Daily; precos.json (Yahoo/Deribit)",
+      "url": "https://en.sedaily.com/finance/2026/10/29/samsung-shares-slide-5-percent-despite-record-107-trillion"
+    },
+    {
+      "texto": "Brent cai 0,4% (US$ 114,91) após relato do WSJ de carta de Vance a Mohsen Rezaei para retomar negociações de paz; Nikkei fecha em +1,10% (64.659,47)",
+      "categoria": "geopolitica",
+      "fonte": "Free Malaysia Today (Reuters); precos.json (Yahoo/Deribit)",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/29/asian-shares-fall-after-alphabet-earnings-miss-forecasts"
+    },
+    {
+      "texto": "BTC em 80.150 (−1,59% em 24 h), perto da marca de 80 mil; DVOL em 36,15",
       "categoria": "cripto",
-      "fonte": "KuCoin; precos.json (Yahoo/Deribit)",
-      "url": "https://www.kucoin.com/news/flash/bitcoin-price-surpasses-81-500-amid-fed-s-rate-decision"
+      "fonte": "precos.json (Yahoo/Deribit)"
     }
   ],
   "pontos_sugeridos": [
     {
-      "chave": "ipo-anthropic-ia",
-      "tema": "Rali de IA reaceso (Anthropic, SK Hynix)",
-      "vies": "bull",
+      "chave": "custo-ia-big-tech",
+      "tema": "Mercado pune gasto alto com IA",
+      "vies": "bear",
       "peso": 2,
-      "porque": "SOX +1,75% com ADR da SK Hynix +13% e Oracle +10,6%; Azure +48% na Microsoft reforça a demanda por IA"
+      "porque": "Alphabet −10% com caixa negativo; Samsung cai apesar de lucro recorde; Marvell, Micron e AMD caem no pré; NQ −1%"
+    },
+    {
+      "chave": "ipo-anthropic-ia",
+      "tema": "Demanda por IA segue forte",
+      "vies": "bull",
+      "peso": 1,
+      "porque": "Lucro recorde da Samsung com chips de IA e Azure +48% na Microsoft sustentam a demanda, mas o preço já não reage"
     },
     {
       "chave": "balancos-big-tech",
       "tema": "Balanços de Alphabet, Microsoft e Amazon",
       "vies": "neutro",
       "peso": 3,
-      "porque": "Misto até agora (Alphabet −10%, Microsoft +2,5% no after); Amazon amanhã: nuvem forte com capex contido → bull, mais gasto com caixa fraco → bear",
+      "porque": "Amazon e Intel hoje após o fechamento: nuvem forte com capex contido → bull; mais gasto com caixa fraco → bear",
       "revisao": "2026-10-30"
     },
     {
@@ -94,7 +107,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 2,
-      "porque": "Fed mantém, mas dois votos por alta e Warsh diz que a inflação subiu nas últimas semanas; dezembro segue em aberto"
+      "porque": "FedWatch acima de 81% para alta em dezembro, T-note de 10 anos em 5,05% e Banco do Canadá já voltou a subir juros"
     },
     {
       "chave": "dados-macro-29-10",
@@ -108,8 +121,8 @@
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e risco de nova ofensiva contra o Irã",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Trump diz que \"tudo é possível\" sobre ataques após as eleições de meio de mandato; houthis seguem lançando mísseis contra a Arábia Saudita"
+      "peso": 1,
+      "porque": "Brent perto de US$ 115 segue pressionando a inflação, mas Irã e EUA sinalizam retomada de negociações para reabrir Hormuz"
     }
   ],
   "nota_sugerida": -1
