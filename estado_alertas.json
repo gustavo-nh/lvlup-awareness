@@ -35,6 +35,11 @@
       "em": "2026-10-30T01:49:09Z",
       "status": "enviado",
       "texto": "🔴 KOSPI −4,7% no dia (gatilho: queda > 4,0%) · 5.658,55"
+    },
+    "noticia|2026-10-29-hack-binance": {
+      "em": "2026-10-30T10:49:49Z",
+      "status": "enviado",
+      "texto": "Hack de cerca de US$ 6,3 bi na Binance"
     }
   },
   "ultima_config_valida": {
