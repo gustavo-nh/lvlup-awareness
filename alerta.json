@@ -1,13 +1,24 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-10-18T00:35:21Z",
+  "atualizado_em": "2026-10-30T10:52:00Z",
   "alertas": [
-    { "id": "2026-10-17-teste-ponta-a-ponta",
+    {
+      "id": "2026-10-29-hack-binance",
+      "gerado_em": "2026-10-30T10:52:00Z",
+      "categoria": "cripto",
+      "titulo": "Hack de cerca de US$ 6,3 bi na Binance",
+      "texto": "Binance sofre o maior roubo da história cripto (até US$ 6,3 bi), suspende depósitos e saques e diz que cobrirá as perdas; ataque ligado à Coreia do Norte. BTC chegou a ~76.460 e liquidações passam de US$ 1,5 bi.",
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+    },
+    {
+      "id": "2026-10-17-teste-ponta-a-ponta",
       "gerado_em": "2026-10-18T00:35:21Z",
       "categoria": "mercados",
       "titulo": "Teste ponta a ponta dos alertas de noticia",
       "texto": "Alerta forcado para conferir o caminho agente -> alerta.json -> GitHub Actions -> Telegram. Nenhuma acao necessaria.",
       "fonte": "Awareness",
-      "teste": true }
+      "teste": true
+    }
   ]
 }

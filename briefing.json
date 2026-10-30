@@ -1,89 +1,71 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-29T23:44:33Z",
-  "data": "2026-10-29",
-  "janela": "noite",
+  "gerado_em": "2026-10-30T10:50:00Z",
+  "data": "2026-10-30",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "PCE de setembro em linha: cheio +0,5% no mês e 3,6% em 12 meses; núcleo +0,3% e 3,1%; FedWatch com 79,6% de chance de alta em dezembro (84,2% na véspera)",
-      "categoria": "macro",
-      "fonte": "Fox Business",
-      "url": "https://www.foxbusiness.com/economy/september-2026-pce-inflation"
-    },
-    {
-      "texto": "BCE mantém a taxa de depósito em 2,5% com inflação de 3,8%; Lagarde anuncia saída em 07/02/2027, cerca de nove meses antes do fim do mandato",
+      "texto": "BoJ mantém o juro em 1,25%, eleva a projeção de inflação e reforça a disposição de seguir subindo os juros",
       "categoria": "bc",
-      "fonte": "Euronews",
-      "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+      "fonte": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
     },
     {
-      "texto": "Juro de 10 anos da França perto de 5%, com spread de cerca de 155 pontos sobre o Bund",
-      "categoria": "mercados",
-      "fonte": "Euronews",
-      "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+      "texto": "Binance segue com depósitos e saques suspensos após hack de até US$ 6,3 bi; diz que cobrirá todas as perdas; TRM Labs liga o ataque ao grupo norte-coreano TraderTraitor",
+      "categoria": "cripto",
+      "fonte": "The National",
+      "url": "https://www.thenationalnews.com/business/markets/2026/10/30/bitcoin-slides-below-77000-as-binance-hack-rattles-crypto-markets/"
     },
     {
-      "texto": "Catar apresentou ao Irã novo rascunho de acordo para encerrar a guerra; autoridade iraniana chamou de inaceitável; WSJ relata opções militares levadas a Trump",
-      "categoria": "geopolitica",
-      "fonte": "Reuters via Euronext",
-      "url": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
+      "texto": "Cerca de US$ 3 bi do hack da Binance foram congelados (Tether: US$ 1,57 bi em USDT; Circle: US$ 800 mi em USDC); Binance diz ter achado novos pontos de invasão",
+      "categoria": "cripto",
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
     },
     {
-      "texto": "Houthis dizem ter atacado refinarias sauditas (Ras Tanura, Rabigh) e Abqaiq, sem confirmação saudita; Guarda Revolucionária relata 3 petroleiros atingidos por minas perto de Hormuz",
-      "categoria": "geopolitica",
-      "fonte": "Reuters via Euronext",
-      "url": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
-    },
-    {
-      "texto": "BoJ decide por volta da meia-noite de Brasília de 30/10 (12h em Tóquio, horário estimado); PMI oficial da China às 22h30 de Brasília de 30/10 (09h30 de 31/10 em Pequim)",
-      "categoria": "agenda",
-      "fonte": "Finance Calendar",
-      "url": "https://www.financecalendar.com/events/2026-10-30/"
+      "texto": "Fed manteve os juros na reunião de 28/10 com dois dirigentes votando por alta",
+      "categoria": "bc",
+      "fonte": "CNN",
+      "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Alphabet fecha em −12,64% após receita abaixo do esperado; Nasdaq −1,4% e S&P 500 −0,3% no fechamento; NQ em −1,59% (29.091,75) e ES −0,61% (7.706,75) na sessão de 29/10",
+      "texto": "Futuros caem com Amazon (−7% no pré) e Intel (−25% no pré) reforçando o temor com gasto em IA; NQ −2,32% (28.876) e ES −1,03% (7.674) na sessão de 30/10",
       "categoria": "mercados",
-      "fonte": "StockTitan; precos.json (Yahoo/Deribit)",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+      "fonte": "Yahoo Finance; precos.json (Yahoo/Deribit)",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
     },
     {
-      "texto": "Intel cai 17,6% no after-hours com previsão de receita de US$ 15 a 16 bi no 4º tri e PC fraco ao menos até o 1º semestre de 2027",
+      "texto": "Intel cai cerca de 26% no after com guidance fraco do 4º tri e arrasta semis: AMD −8%, Broadcom −4% e Nvidia −3% fora do pregão",
       "categoria": "semis",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+      "fonte": "TipRanks",
+      "url": "https://www.tipranks.com/news/stock-market-today-oct-30-nasdaq-futures-fall-as-amazon-and-intel-earnings-raise-ai-trade-concerns"
     },
     {
-      "texto": "Amazon cai mais de 6% no after-hours: lucro por ação de US$ 1,89 (esperado 1,97) e receita de US$ 201,94 bi (esperado 202,2 bi), apesar de AWS +39,3%",
+      "texto": "KOSPI cai mais de 5% e aciona o sidecar de venda; fecha em −3,48% (5.730,74) com SK Hynix −7,08% e Samsung −3,02%; Nikkei −2,12% (63.290)",
       "categoria": "mercados",
-      "fonte": "AP via ABC News",
-      "url": "https://abcnews.com/Business/wireStory/amazons-3q-results-miss-analysts-estimates-posts-solid-137686707"
+      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262258740-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-fomc-hbm-google-amzn-tradingkey"
     },
     {
-      "texto": "Marvell fecha em −13,24% com relatos de negociação para comprar a Lumentum; SOX −1,42% (11.518,2)",
-      "categoria": "semis",
-      "fonte": "StockTitan; precos.json (Yahoo/Deribit)",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
-    },
-    {
-      "texto": "BTC perde 80 mil com US$ 356 mi em liquidações em 24 h; agora em 78.340 (−3,57% em 24 h) e DVOL em 41,67 (+11,8%)",
+      "texto": "Hack de cerca de US$ 6,3 bi na Binance, o maior roubo da história cripto, derruba o BTC até ~76.460; agora em 77.576 (−3,21% em 24 h) e DVOL em 38,82",
       "categoria": "cripto",
       "fonte": "CoinDesk; precos.json (Yahoo/Deribit)",
-      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+      "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
     },
     {
-      "texto": "Brent fecha em −0,38% (US$ 114,88) e WTI −0,76% (US$ 102) com a carta de Vance ao Irã para retomar negociações",
-      "categoria": "geopolitica",
-      "fonte": "Reuters via Euronext",
-      "url": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
+      "texto": "Liquidações cripto somam US$ 1,53 bi em 24 h, 84% em posições compradas; US$ 499 mi só em BTC",
+      "categoria": "cripto",
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
     },
     {
-      "texto": "PIB dos EUA do 3º tri (prévia) cresce 3,4% anualizado, acima dos 3,2% esperados",
-      "categoria": "macro",
-      "fonte": "Fox Business",
-      "url": "https://www.foxbusiness.com/economy/september-2026-pce-inflation"
+      "texto": "Iene sobe até 157,115 por dólar após o BoJ, apagando a maior parte da perda do mês; WTI de dezembro +2,07% (US$ 104,11)",
+      "categoria": "mercados",
+      "fonte": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
     }
   ],
   "pontos_sugeridos": [
@@ -91,44 +73,43 @@
       "chave": "custo-ia-big-tech",
       "tema": "Mercado pune gasto alto com IA",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Alphabet fecha em −12,6% e Amazon cai no after com caixa negativo por gasto em IA; NQ −1,6%"
+      "peso": 3,
+      "porque": "Amazon e Intel ampliam a venda: NQ −2,3% nos futuros, semis em queda e KOSPI aciona sidecar"
     },
     {
       "chave": "balancos-big-tech",
       "tema": "Balanços de Alphabet, Microsoft e Amazon",
       "vies": "bear",
       "peso": 2,
-      "porque": "Reclassificado: Alphabet e Amazon decepcionam e Intel cai 17,6% no after com guidance fraco"
+      "porque": "Amazon −7% e Intel −25% no pré-mercado após resultados e guidance"
+    },
+    {
+      "chave": "hack-binance",
+      "tema": "Hack bilionário na Binance",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Maior roubo cripto (~US$ 6,3 bi), saques suspensos e US$ 1,5 bi em liquidações; BTC −3,2% em 24 h"
     },
     {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 2,
-      "porque": "PCE em linha a 3,6% mantém FedWatch perto de 80% para alta em dezembro; BCE com inflação de 3,8%"
+      "porque": "Fed manteve em 28/10 com dois votos por alta; BoJ também sinaliza novas altas"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e risco de nova ofensiva contra o Irã",
       "vies": "bear",
       "peso": 1,
-      "porque": "Brent perto de US$ 115; diplomacia sem acordo, relatos de minas em Hormuz e opções militares após 03/11"
+      "porque": "WTI volta a subir 2% para perto de US$ 104 sem acordo com o Irã"
     },
     {
       "chave": "ipo-anthropic-ia",
       "tema": "Demanda por IA segue forte",
       "vies": "bull",
       "peso": 1,
-      "porque": "AWS acelera para 39,3%, o maior ritmo em quase cinco anos, mas o preço não reage"
-    },
-    {
-      "chave": "decisao-boj-30-10",
-      "tema": "Decisão do BoJ em 30/10",
-      "vies": "neutro",
-      "peso": 1,
-      "porque": "Sinal de alta de juros próxima → bear (iene e carry trade); tom paciente → bull",
-      "revisao": "2026-10-30"
+      "porque": "Tema segue vivo, mas sem fato novo e sem reação de preço nesta manhã"
     }
   ],
   "nota_sugerida": -2
