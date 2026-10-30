@@ -1,71 +1,56 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-30T10:50:00Z",
+  "gerado_em": "2026-10-30T23:44:06Z",
   "data": "2026-10-30",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "BoJ mantém o juro em 1,25%, eleva a projeção de inflação e reforça a disposição de seguir subindo os juros",
+      "texto": "Logan (Fed de Dallas) diz que o Fed ainda precisa de pelo menos duas altas de 0,25 p.p.; mercado precifica alta de mais de 0,50 p.p. até meados de 2027",
       "categoria": "bc",
-      "fonte": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
+      "fonte": "TradingKey; Reuters via Yahoo Finance",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262171-us-stock-market-today-nasdaq-drop-intel-amazon-chip-tradingkey"
     },
     {
-      "texto": "Binance segue com depósitos e saques suspensos após hack de até US$ 6,3 bi; diz que cobrirá todas as perdas; TRM Labs liga o ataque ao grupo norte-coreano TraderTraitor",
+      "texto": "Binance diz que vai retomar os saques em fases neste fim de semana, após checagens de segurança; perdas de ~US$ 6,3 bi serão cobertas pelo fundo SAFU",
       "categoria": "cripto",
-      "fonte": "The National",
-      "url": "https://www.thenationalnews.com/business/markets/2026/10/30/bitcoin-slides-below-77000-as-binance-hack-rattles-crypto-markets/"
+      "fonte": "Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/30/binance-says-it-plans-to-resume-withdrawals-this-weekend-after-63-billion-hack/"
     },
     {
-      "texto": "Cerca de US$ 3 bi do hack da Binance foram congelados (Tether: US$ 1,57 bi em USDT; Circle: US$ 800 mi em USDC); Binance diz ter achado novos pontos de invasão",
-      "categoria": "cripto",
-      "fonte": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
-    },
-    {
-      "texto": "Fed manteve os juros na reunião de 28/10 com dois dirigentes votando por alta",
-      "categoria": "bc",
-      "fonte": "CNN",
-      "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+      "texto": "Semana que vem: ISM industrial e Apple na seg (02/11), midterms nos EUA e AMD na ter (03/11), Qualcomm na qua (04/11), BoE na qui (05/11) e payroll de outubro na sex (06/11)",
+      "categoria": "agenda",
+      "fonte": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---2nd-6th-november-2026"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Futuros caem com Amazon (−7% no pré) e Intel (−25% no pré) reforçando o temor com gasto em IA; NQ −2,32% (28.876) e ES −1,03% (7.674) na sessão de 30/10",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance; precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
-    },
-    {
-      "texto": "Intel cai cerca de 26% no after com guidance fraco do 4º tri e arrasta semis: AMD −8%, Broadcom −4% e Nvidia −3% fora do pregão",
-      "categoria": "semis",
-      "fonte": "TipRanks",
-      "url": "https://www.tipranks.com/news/stock-market-today-oct-30-nasdaq-futures-fall-as-amazon-and-intel-earnings-raise-ai-trade-concerns"
-    },
-    {
-      "texto": "KOSPI cai mais de 5% e aciona o sidecar de venda; fecha em −3,48% (5.730,74) com SK Hynix −7,08% e Samsung −3,02%; Nikkei −2,12% (63.290)",
+      "texto": "Temor com gasto e queima de caixa em IA derruba Wall Street em 30/10: Nasdaq −2,86% (25.437), S&P 500 −1,82% (7.580) e Dow −1,09%; NQ −3,45% (28.543) e ES −1,8%",
       "categoria": "mercados",
       "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
-      "url": "https://www.tradingkey.com/analysis/stocks/more/262258740-japan-korea-stocks-skhy-kospi-nikkei-samsung-kioxia-ai-softbank-fomc-hbm-google-amzn-tradingkey"
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262171-us-stock-market-today-nasdaq-drop-intel-amazon-chip-tradingkey"
     },
     {
-      "texto": "Hack de cerca de US$ 6,3 bi na Binance, o maior roubo da história cripto, derruba o BTC até ~76.460; agora em 77.576 (−3,21% em 24 h) e DVOL em 38,82",
-      "categoria": "cripto",
-      "fonte": "CoinDesk; precos.json (Yahoo/Deribit)",
-      "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+      "texto": "Intel despenca 28,58% (US$ 65,76) e arrasta os chips: AMD −10%, Qualcomm −11%, Broadcom e TSMC −5%; SOX −7,2% com 29 de 30 ações em queda",
+      "categoria": "semis",
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262171-us-stock-market-today-nasdaq-drop-intel-amazon-chip-tradingkey"
     },
     {
-      "texto": "Liquidações cripto somam US$ 1,53 bi em 24 h, 84% em posições compradas; US$ 499 mi só em BTC",
-      "categoria": "cripto",
-      "fonte": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
+      "texto": "SOX marca a mínima de 3 meses em 30/10 (10.439) e fecha em 10.688,8",
+      "categoria": "marco_preco",
+      "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Iene sobe até 157,115 por dólar após o BoJ, apagando a maior parte da perda do mês; WTI de dezembro +2,07% (US$ 104,11)",
+      "texto": "VIX sobe 12,9% para 19,42 no pregão de 30/10",
       "categoria": "mercados",
-      "fonte": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
+      "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "BTC segue pressionado após o hack da Binance: 77.169 (−1,57% em 24 h); DVOL em 40,63",
+      "categoria": "cripto",
+      "fonte": "precos.json (Yahoo/Deribit)"
     }
   ],
   "pontos_sugeridos": [
@@ -74,42 +59,36 @@
       "tema": "Mercado pune gasto alto com IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "Amazon e Intel ampliam a venda: NQ −2,3% nos futuros, semis em queda e KOSPI aciona sidecar"
-    },
-    {
-      "chave": "balancos-big-tech",
-      "tema": "Balanços de Alphabet, Microsoft e Amazon",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Amazon −7% e Intel −25% no pré-mercado após resultados e guidance"
-    },
-    {
-      "chave": "hack-binance",
-      "tema": "Hack bilionário na Binance",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Maior roubo cripto (~US$ 6,3 bi), saques suspensos e US$ 1,5 bi em liquidações; BTC −3,2% em 24 h"
+      "porque": "Intel −28,6% e SOX −7,2% no dia; Nasdaq tem a maior queda desde junho"
     },
     {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 2,
-      "porque": "Fed manteve em 28/10 com dois votos por alta; BoJ também sinaliza novas altas"
+      "porque": "Logan pede ao menos duas altas; mercado precifica alta já em dezembro"
+    },
+    {
+      "chave": "hack-binance",
+      "tema": "Hack bilionário na Binance",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Saques devem voltar no fim de semana; BTC perde força, mas sem nova onda de venda"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e risco de nova ofensiva contra o Irã",
       "vies": "bear",
       "peso": 1,
-      "porque": "WTI volta a subir 2% para perto de US$ 104 sem acordo com o Irã"
+      "porque": "Tema segue vivo, sem fato novo nesta sessão"
     },
     {
-      "chave": "ipo-anthropic-ia",
-      "tema": "Demanda por IA segue forte",
-      "vies": "bull",
-      "peso": 1,
-      "porque": "Tema segue vivo, mas sem fato novo e sem reação de preço nesta manhã"
+      "chave": "midterms-eua-03-11",
+      "tema": "Eleições de meio de mandato nos EUA em 03/11",
+      "vies": "neutro",
+      "peso": 2,
+      "porque": "Resultado define o Congresso; surpresa ou contestação → bear, resultado limpo → alívio",
+      "revisao": "2026-11-03"
     }
   ],
   "nota_sugerida": -2
