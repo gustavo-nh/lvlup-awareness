@@ -1,54 +1,50 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-30T23:44:06Z",
-  "data": "2026-10-30",
-  "janela": "noite",
-  "modo": "util",
+  "gerado_em": "2026-10-31T10:44:43Z",
+  "data": "2026-10-31",
+  "janela": "manha",
+  "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Logan (Fed de Dallas) diz que o Fed ainda precisa de pelo menos duas altas de 0,25 p.p.; mercado precifica alta de mais de 0,50 p.p. até meados de 2027",
-      "categoria": "bc",
-      "fonte": "TradingKey; Reuters via Yahoo Finance",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262171-us-stock-market-today-nasdaq-drop-intel-amazon-chip-tradingkey"
+      "texto": "Times of Israel: EUA avisaram aliados do Golfo para se prepararem para nova rodada de ataques ao Irã já em 04/11, dia seguinte às eleições americanas",
+      "categoria": "geopolitica",
+      "fonte": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-october-31-2026/"
     },
     {
-      "texto": "Binance diz que vai retomar os saques em fases neste fim de semana, após checagens de segurança; perdas de ~US$ 6,3 bi serão cobertas pelo fundo SAFU",
+      "texto": "Jornal do Catar relata avanço nas conversas indiretas EUA–Irã e diz que delegação americana iria a Doha para negociação direta sobre programa nuclear e Hormuz; sem confirmação oficial",
+      "categoria": "geopolitica",
+      "fonte": "The Times of Israel (Al-Araby Al-Jadeed)",
+      "url": "https://www.timesofisrael.com/liveblog_entry/us-delegation-said-to-be-joining-direct-talks-with-iran-in-doha-after-negotiation-breakthrough/"
+    },
+    {
+      "texto": "Trump diz que a guerra com o Irã acaba logo; resposta iraniana ao rascunho de acordo mediado pelo Catar era esperada até o fim de semana; Exército iraniano adverte que novo ataque ampliaria o conflito",
+      "categoria": "geopolitica",
+      "fonte": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+    },
+    {
+      "texto": "Binance reservou mais de US$ 6,34 bi para cobrir o hack, mira retomar saques em fases ~34 h após a atualização de 30/10 e promete resultado da prova de reservas até seg (02/11)",
       "categoria": "cripto",
-      "fonte": "Forbes",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/30/binance-says-it-plans-to-resume-withdrawals-this-weekend-after-63-billion-hack/"
-    },
-    {
-      "texto": "Semana que vem: ISM industrial e Apple na seg (02/11), midterms nos EUA e AMD na ter (03/11), Qualcomm na qua (04/11), BoE na qui (05/11) e payroll de outubro na sex (06/11)",
-      "categoria": "agenda",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---2nd-6th-november-2026"
+      "fonte": "Bitcoin.com News",
+      "url": "https://news.bitcoin.com/security/binance-prepares-to-resume-withdrawals-unveils-6-3b-hack-recovery-plan/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Temor com gasto e queima de caixa em IA derruba Wall Street em 30/10: Nasdaq −2,86% (25.437), S&P 500 −1,82% (7.580) e Dow −1,09%; NQ −3,45% (28.543) e ES −1,8%",
+      "texto": "Ataques a petroleiros no Estreito de Hormuz em 29–30/10 levam o Brent a US$ 117 em 30/10; petróleo caminha para o 4º mês seguido de alta",
       "categoria": "mercados",
-      "fonte": "TradingKey; precos.json (Yahoo/Deribit)",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262171-us-stock-market-today-nasdaq-drop-intel-amazon-chip-tradingkey"
+      "fonte": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html"
     },
     {
-      "texto": "Intel despenca 28,58% (US$ 65,76) e arrasta os chips: AMD −10%, Qualcomm −11%, Broadcom e TSMC −5%; SOX −7,2% com 29 de 30 ações em queda",
-      "categoria": "semis",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262171-us-stock-market-today-nasdaq-drop-intel-amazon-chip-tradingkey"
-    },
-    {
-      "texto": "SOX marca a mínima de 3 meses em 30/10 (10.439) e fecha em 10.688,8",
-      "categoria": "marco_preco",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    },
-    {
-      "texto": "VIX sobe 12,9% para 19,42 no pregão de 30/10",
+      "texto": "Nasdaq fecha outubro com −5,3%, pior mês desde março de 2025; ouro cai cerca de 3% em 30/10, para perto de US$ 3.900, mínima de um ano",
       "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit)"
+      "fonte": "Nocta (Substack)",
+      "url": "https://noctaaa.substack.com/p/daily-brief-saturday-31-october-2026"
     },
     {
-      "texto": "BTC segue pressionado após o hack da Binance: 77.169 (−1,57% em 24 h); DVOL em 40,63",
+      "texto": "BTC de lado no sábado: 77.399,5 (−0,29% em 24 h), à espera da volta dos saques na Binance; DVOL em 40,68",
       "categoria": "cripto",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -59,28 +55,29 @@
       "tema": "Mercado pune gasto alto com IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "Intel −28,6% e SOX −7,2% no dia; Nasdaq tem a maior queda desde junho"
+      "porque": "Intel −28,6% e SOX −7,2% em 30/10; Nasdaq fecha outubro com −5,3%"
     },
     {
       "chave": "fed-hawkish",
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 2,
-      "porque": "Logan pede ao menos duas altas; mercado precifica alta já em dezembro"
+      "porque": "Mercado precifica alta em dezembro; Logan pede ao menos duas altas"
+    },
+    {
+      "chave": "petroleo-hormuz",
+      "tema": "Petróleo e risco de nova ofensiva contra o Irã",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Brent em US$ 117 após ataques a petroleiros; EUA teriam avisado o Golfo de ataques já em 04/11"
     },
     {
       "chave": "hack-binance",
       "tema": "Hack bilionário na Binance",
       "vies": "bear",
       "peso": 1,
-      "porque": "Saques devem voltar no fim de semana; BTC perde força, mas sem nova onda de venda"
-    },
-    {
-      "chave": "petroleo-hormuz",
-      "tema": "Petróleo e risco de nova ofensiva contra o Irã",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Tema segue vivo, sem fato novo nesta sessão"
+      "porque": "Saques devem voltar em fases no fim de semana; prova de reservas até 02/11",
+      "revisao": "2026-11-02"
     },
     {
       "chave": "midterms-eua-03-11",
