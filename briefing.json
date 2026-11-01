@@ -1,92 +1,48 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-31T10:44:43Z",
-  "data": "2026-10-31",
-  "janela": "manha",
-  "modo": "fim_de_semana",
+  "gerado_em": "2026-11-01T23:45:00Z",
+  "data": "2026-11-01",
+  "janela": "noite",
+  "modo": "domingo_noite",
   "fatos_relevantes": [
-    {
-      "texto": "Times of Israel: EUA avisaram aliados do Golfo para se prepararem para nova rodada de ataques ao Irã já em 04/11, dia seguinte às eleições americanas",
-      "categoria": "geopolitica",
-      "fonte": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-october-31-2026/"
-    },
-    {
-      "texto": "Jornal do Catar relata avanço nas conversas indiretas EUA–Irã e diz que delegação americana iria a Doha para negociação direta sobre programa nuclear e Hormuz; sem confirmação oficial",
-      "categoria": "geopolitica",
-      "fonte": "The Times of Israel (Al-Araby Al-Jadeed)",
-      "url": "https://www.timesofisrael.com/liveblog_entry/us-delegation-said-to-be-joining-direct-talks-with-iran-in-doha-after-negotiation-breakthrough/"
-    },
-    {
-      "texto": "Trump diz que a guerra com o Irã acaba logo; resposta iraniana ao rascunho de acordo mediado pelo Catar era esperada até o fim de semana; Exército iraniano adverte que novo ataque ampliaria o conflito",
-      "categoria": "geopolitica",
-      "fonte": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
-    },
-    {
-      "texto": "Binance reservou mais de US$ 6,34 bi para cobrir o hack, mira retomar saques em fases ~34 h após a atualização de 30/10 e promete resultado da prova de reservas até seg (02/11)",
-      "categoria": "cripto",
-      "fonte": "Bitcoin.com News",
-      "url": "https://news.bitcoin.com/security/binance-prepares-to-resume-withdrawals-unveils-6-3b-hack-recovery-plan/"
-    }
+    { "texto": "Seg 02/11: ISM industrial de outubro às 12h BRT (consenso 54,7; anterior 54,5); Apple e Palantir após o fechamento, ON Semi e Lattice também",
+      "categoria": "agenda", "fonte": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/a-big-sell-off-collides-with-more-big-tech-earnings-and-a-midterm-election-what-to-watch-this-week-110000657.html" },
+    { "texto": "Ter 03/11: eleições de meio de mandato nos EUA (435 cadeiras da Câmara e 35 do Senado); JOLTS de setembro às 12h BRT; AMD, Super Micro e Astera Labs após o fechamento",
+      "categoria": "agenda", "fonte": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/a-big-sell-off-collides-with-more-big-tech-earnings-and-a-midterm-election-what-to-watch-this-week-110000657.html" },
+    { "texto": "Qua 04/11: ADP às 10h15 BRT (consenso +70 mil) e ISM de serviços às 12h BRT; Qualcomm e Arm após o fechamento",
+      "categoria": "agenda", "fonte": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-ai-earnings-u-s-midterms-and-jobs-data-test-u-s-stocks-1641771" },
+    { "texto": "Sex 06/11: payroll de outubro às 10h30 BRT; consenso de +55 mil vagas (anterior +29 mil) e desemprego em 4,2%",
+      "categoria": "agenda", "fonte": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/a-big-sell-off-collides-with-more-big-tech-earnings-and-a-midterm-election-what-to-watch-this-week-110000657.html" },
+    { "texto": "Falas do Fed: qui 05/11 Hammack (10h50 BRT) e Barkin (11h10); sex 06/11 Musalem (11h10) e Bowman (14h15)",
+      "categoria": "agenda", "fonte": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-ai-earnings-u-s-midterms-and-jobs-data-test-u-s-stocks-1641771" },
+    { "texto": "Após o Fed manter juros em 3,75%–4% em 28/10 (10 a 2; Cook e Hammack queriam alta), o FedWatch apontava 84,6% de chance de alta de 0,25 p.p. em dezembro",
+      "categoria": "bc", "fonte": "Real Estate News", "url": "https://www.realestatenews.com/2026/10/28/divided-fed-holds-rates-steady-as-investors-bet-on-december-hike" },
+    { "texto": "Trump diz que faltam um ou dois alvos no Irã e que dá para resolver em 10 minutos; Rubio afirma que não há decisão; Khamenei ordena resposta sem limite geográfico a qualquer ameaça",
+      "categoria": "geopolitica", "fonte": "RFE/RL", "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html" },
+    { "texto": "Binance retomou no domingo os saques de BTC, ETH, BNB, XRP e outras redes e diz ter reposto cerca de 95% dos ativos do hack; prova de reservas prevista até ter 03/11",
+      "categoria": "cripto", "fonte": "crypto.news", "url": "https://crypto.news/binance-reopens-bitcoin-withdrawals-after-hack/" }
   ],
   "moveu_mercados": [
-    {
-      "texto": "Ataques a petroleiros no Estreito de Hormuz em 29–30/10 levam o Brent a US$ 117 em 30/10; petróleo caminha para o 4º mês seguido de alta",
-      "categoria": "mercados",
-      "fonte": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html"
-    },
-    {
-      "texto": "Nasdaq fecha outubro com −5,3%, pior mês desde março de 2025; ouro cai cerca de 3% em 30/10, para perto de US$ 3.900, mínima de um ano",
-      "categoria": "mercados",
-      "fonte": "Nocta (Substack)",
-      "url": "https://noctaaa.substack.com/p/daily-brief-saturday-31-october-2026"
-    },
-    {
-      "texto": "BTC de lado no sábado: 77.399,5 (−0,29% em 24 h), à espera da volta dos saques na Binance; DVOL em 40,68",
-      "categoria": "cripto",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    }
+    { "texto": "Futuros abrem a semana em leve alta na sessão de domingo: NQ em 28.622,2 (+0,31%) e ES em 7.631 (+0,22%)",
+      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)" },
+    { "texto": "BTC em 78.205 (+1,02% em 24 h) com a volta dos saques na Binance; DVOL em 40,3",
+      "categoria": "cripto", "fonte": "precos.json (Yahoo/Deribit)" },
+    { "texto": "SOX na mínima de 3 meses em 30/10 (10.439); fechou a sexta em 10.688,8 (−7,2%)",
+      "categoria": "marco_preco", "fonte": "precos.json (Yahoo/Deribit)" }
   ],
   "pontos_sugeridos": [
-    {
-      "chave": "custo-ia-big-tech",
-      "tema": "Mercado pune gasto alto com IA",
-      "vies": "bear",
-      "peso": 3,
-      "porque": "Intel −28,6% e SOX −7,2% em 30/10; Nasdaq fecha outubro com −5,3%"
-    },
-    {
-      "chave": "fed-hawkish",
-      "tema": "Fed com viés de alta de juros",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Mercado precifica alta em dezembro; Logan pede ao menos duas altas"
-    },
-    {
-      "chave": "petroleo-hormuz",
-      "tema": "Petróleo e risco de nova ofensiva contra o Irã",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Brent em US$ 117 após ataques a petroleiros; EUA teriam avisado o Golfo de ataques já em 04/11"
-    },
-    {
-      "chave": "hack-binance",
-      "tema": "Hack bilionário na Binance",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Saques devem voltar em fases no fim de semana; prova de reservas até 02/11",
-      "revisao": "2026-11-02"
-    },
-    {
-      "chave": "midterms-eua-03-11",
-      "tema": "Eleições de meio de mandato nos EUA em 03/11",
-      "vies": "neutro",
-      "peso": 2,
-      "porque": "Resultado define o Congresso; surpresa ou contestação → bear, resultado limpo → alívio",
-      "revisao": "2026-11-03"
-    }
+    { "chave": "custo-ia-big-tech", "tema": "Mercado pune gasto alto com IA", "vies": "bear", "peso": 3,
+      "porque": "SOX na mínima de 3 meses após Intel −28,6%; Apple, Palantir e AMD testam o tema já na seg e ter" },
+    { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
+      "porque": "FedWatch em 84,6% de alta em dezembro; payroll de sexta pode reforçar ou aliviar", "revisao": "2026-11-06" },
+    { "chave": "petroleo-hormuz", "tema": "Petróleo e risco de nova ofensiva contra o Irã", "vies": "bear", "peso": 2,
+      "porque": "EUA teriam avisado o Golfo de ataques já em 04/11; Irã promete resposta sem limite geográfico", "revisao": "2026-11-04" },
+    { "chave": "hack-binance", "tema": "Hack bilionário na Binance", "vies": "bull", "peso": 1,
+      "porque": "Saques retomados e cerca de 95% reposto; alívio para cripto, prova de reservas até 03/11", "revisao": "2026-11-03" },
+    { "chave": "midterms-eua-03-11", "tema": "Eleições de meio de mandato nos EUA em 03/11", "vies": "neutro", "peso": 2,
+      "porque": "Resultado define o Congresso; surpresa ou contestação → bear, resultado limpo → alívio", "revisao": "2026-11-03" },
+    { "chave": "balancos-semis-03-11", "tema": "Balanços de AMD, Qualcomm e Arm", "vies": "neutro", "peso": 2,
+      "porque": "AMD ter e Qualcomm/Arm qua após o fechamento; guidance forte de IA → bull, fraco → bear", "revisao": "2026-11-03" }
   ],
   "nota_sugerida": -2
 }
