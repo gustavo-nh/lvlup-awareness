@@ -1,19 +1,19 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-03T23:41:51Z",
-  "gerado_em_brt": "2026-11-03 20:41",
+  "gerado_em": "2026-11-04T05:57:48Z",
+  "gerado_em_brt": "2026-11-04 02:57",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 28434.0,
-      "hora_ultimo": "2026-11-03T23:31:48Z",
-      "sessao": "2026-11-03",
+      "ultimo": 28173.5,
+      "hora_ultimo": "2026-11-04T05:47:47Z",
+      "sessao": "2026-11-04",
       "fechamento_anterior": 28305.75,
-      "variacao_dia_pct": 0.45,
+      "variacao_dia_pct": -0.47,
       "max_3m": 31616.5,
-      "min_3m": 28101.75,
+      "min_3m": 27621.25,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
@@ -21,6 +21,16 @@
           "data": "2026-11-02",
           "tipo": "min_3m",
           "valor": 28101.75
+        },
+        {
+          "data": "2026-11-03",
+          "tipo": "min_3m",
+          "valor": 28038.25
+        },
+        {
+          "data": "2026-11-04",
+          "tipo": "min_3m",
+          "valor": 27621.25
         }
       ],
       "desatualizado": false,
@@ -29,16 +39,22 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 7618.75,
-      "hora_ultimo": "2026-11-03T23:31:52Z",
-      "sessao": "2026-11-03",
+      "ultimo": 7566.0,
+      "hora_ultimo": "2026-11-04T05:47:46Z",
+      "sessao": "2026-11-04",
       "fechamento_anterior": 7596.75,
-      "variacao_dia_pct": 0.29,
+      "variacao_dia_pct": -0.4,
       "max_3m": 7897.5,
-      "min_3m": 7509.25,
+      "min_3m": 7490.0,
       "ath": 7897.5,
       "ath_data": "2026-10-05",
-      "marcos_recentes": [],
+      "marcos_recentes": [
+        {
+          "data": "2026-11-04",
+          "tipo": "min_3m",
+          "valor": 7490.0
+        }
+      ],
       "desatualizado": false,
       "erro": null
     },
@@ -78,7 +94,7 @@
       "fechamento_anterior": 21.15,
       "variacao_dia_pct": -1.51,
       "max_3m": 23.93000030517578,
-      "min_3m": 13.800000190734863,
+      "min_3m": 0.0,
       "ath": 89.52999877929688,
       "ath_data": "2008-09",
       "desatualizado": false,
@@ -87,11 +103,11 @@
     "KOSPI": {
       "fonte": "yahoo",
       "simbolo": "^KS11",
-      "ultimo": 5648.79,
-      "hora_ultimo": "2026-11-03T11:05:40Z",
-      "sessao": "2026-11-03",
-      "fechamento_anterior": 5859.08,
-      "variacao_dia_pct": -3.59,
+      "ultimo": 5634.5,
+      "hora_ultimo": "2026-11-04T05:37:40Z",
+      "sessao": "2026-11-04",
+      "fechamento_anterior": 5648.79,
+      "variacao_dia_pct": -0.25,
       "max_3m": 7216.6201171875,
       "min_3m": 5305.97998046875,
       "ath": 9385.58984375,
@@ -102,13 +118,13 @@
     "NIKKEI": {
       "fonte": "yahoo",
       "simbolo": "^N225",
-      "ultimo": 63081.86,
-      "hora_ultimo": "2026-11-02T06:45:03Z",
-      "sessao": "2026-11-02",
-      "fechamento_anterior": 63290.1,
-      "variacao_dia_pct": -0.33,
+      "ultimo": 61746.56,
+      "hora_ultimo": "2026-11-04T05:42:45Z",
+      "sessao": "2026-11-04",
+      "fechamento_anterior": 63081.86,
+      "variacao_dia_pct": -2.12,
       "max_3m": 70798.6171875,
-      "min_3m": 61462.609375,
+      "min_3m": 60030.1015625,
       "ath": 72831.7265625,
       "ath_data": "2026-06-22",
       "desatualizado": false,
@@ -117,10 +133,10 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 77734.5,
-      "hora_ultimo": "2026-11-03T23:41:56Z",
-      "sessao": "2026-11-03",
-      "variacao_24h_pct": 1.29,
+      "ultimo": 77736.0,
+      "hora_ultimo": "2026-11-04T05:57:50Z",
+      "sessao": "2026-11-04",
+      "variacao_24h_pct": 1.5,
       "max_3m": 87504.5,
       "min_3m": 62235.5,
       "ath": 126307.0,
@@ -132,10 +148,10 @@
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 39.66,
-      "hora_ultimo": "2026-11-03T23:00:00Z",
-      "sessao": "2026-11-03",
-      "variacao_24h_pct": 0.92,
+      "ultimo": 38.66,
+      "hora_ultimo": "2026-11-04T05:00:00Z",
+      "sessao": "2026-11-04",
+      "variacao_24h_pct": -1.1,
       "desatualizado": false,
       "erro": null
     }
