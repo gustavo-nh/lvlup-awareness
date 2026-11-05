@@ -1,19 +1,19 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-05T10:41:36Z",
-  "gerado_em_brt": "2026-11-05 07:41",
+  "gerado_em": "2026-11-05T18:38:57Z",
+  "gerado_em_brt": "2026-11-05 15:38",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 28436.5,
-      "hora_ultimo": "2026-11-05T10:31:34Z",
+      "ultimo": 26926.0,
+      "hora_ultimo": "2026-11-05T18:28:55Z",
       "sessao": "2026-11-05",
       "fechamento_anterior": 28566.75,
-      "variacao_dia_pct": -0.46,
+      "variacao_dia_pct": -5.74,
       "max_3m": 31616.5,
-      "min_3m": 27615.75,
+      "min_3m": 26734.25,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
@@ -31,6 +31,11 @@
           "data": "2026-11-04",
           "tipo": "min_3m",
           "valor": 27615.75
+        },
+        {
+          "data": "2026-11-05",
+          "tipo": "min_3m",
+          "valor": 26734.25
         }
       ],
       "desatualizado": false,
@@ -39,13 +44,13 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 7728.25,
-      "hora_ultimo": "2026-11-05T10:31:34Z",
+      "ultimo": 7416.5,
+      "hora_ultimo": "2026-11-05T18:28:57Z",
       "sessao": "2026-11-05",
       "fechamento_anterior": 7720.5,
-      "variacao_dia_pct": 0.1,
+      "variacao_dia_pct": -3.94,
       "max_3m": 7897.5,
-      "min_3m": 7490.0,
+      "min_3m": 7391.75,
       "ath": 7897.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
@@ -53,6 +58,11 @@
           "data": "2026-11-04",
           "tipo": "min_3m",
           "valor": 7490.0
+        },
+        {
+          "data": "2026-11-05",
+          "tipo": "min_3m",
+          "valor": 7391.75
         }
       ],
       "desatualizado": false,
@@ -61,13 +71,13 @@
     "SOX": {
       "fonte": "yahoo",
       "simbolo": "^SOX",
-      "ultimo": 10268.654,
-      "hora_ultimo": "2026-11-04T22:15:59Z",
-      "sessao": "2026-11-04",
-      "fechamento_anterior": 10600.396,
-      "variacao_dia_pct": -3.13,
+      "ultimo": 9204.451,
+      "hora_ultimo": "2026-11-05T18:38:57Z",
+      "sessao": "2026-11-05",
+      "fechamento_anterior": 10268.654,
+      "variacao_dia_pct": -10.36,
       "max_3m": 13349.9599609375,
-      "min_3m": 10064.73046875,
+      "min_3m": 9051.64453125,
       "ath": 14655.2900390625,
       "ath_data": "2026-06-22",
       "marcos_recentes": [
@@ -85,6 +95,11 @@
           "data": "2026-11-04",
           "tipo": "min_3m",
           "valor": 10064.73046875
+        },
+        {
+          "data": "2026-11-05",
+          "tipo": "min_3m",
+          "valor": 9051.64453125
         }
       ],
       "desatualizado": false,
@@ -93,12 +108,12 @@
     "VIX": {
       "fonte": "yahoo",
       "simbolo": "^VIX",
-      "ultimo": 16.84,
-      "hora_ultimo": "2026-11-05T10:26:31Z",
+      "ultimo": 27.2,
+      "hora_ultimo": "2026-11-05T18:23:46Z",
       "sessao": "2026-11-05",
       "fechamento_anterior": 16.61,
-      "variacao_dia_pct": 1.38,
-      "max_3m": 23.93000030517578,
+      "variacao_dia_pct": 63.76,
+      "max_3m": 28.09000015258789,
       "min_3m": 13.800000190734863,
       "ath": 89.52999877929688,
       "ath_data": "2008-09",
@@ -109,7 +124,7 @@
       "fonte": "yahoo",
       "simbolo": "^KS11",
       "ultimo": 5383.8,
-      "hora_ultimo": "2026-11-05T06:32:40Z",
+      "hora_ultimo": "2026-11-05T11:05:40Z",
       "sessao": "2026-11-05",
       "fechamento_anterior": 5683.8,
       "variacao_dia_pct": -5.28,
@@ -138,10 +153,10 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 80328.0,
-      "hora_ultimo": "2026-11-05T10:41:40Z",
+      "ultimo": 76051.5,
+      "hora_ultimo": "2026-11-05T18:39:00Z",
       "sessao": "2026-11-05",
-      "variacao_24h_pct": 2.4,
+      "variacao_24h_pct": -5.35,
       "max_3m": 87504.5,
       "min_3m": 62481.0,
       "ath": 126307.0,
@@ -153,10 +168,10 @@
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 37.03,
-      "hora_ultimo": "2026-11-05T10:00:00Z",
+      "ultimo": 40.48,
+      "hora_ultimo": "2026-11-05T18:00:00Z",
       "sessao": "2026-11-05",
-      "variacao_24h_pct": 0.0,
+      "variacao_24h_pct": 5.75,
       "desatualizado": false,
       "erro": null
     }
