@@ -1,7 +1,16 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-10-30T10:52:00Z",
+  "atualizado_em": "2026-11-06T10:50:00Z",
   "alertas": [
+    {
+      "id": "2026-11-06-halt-kospi",
+      "gerado_em": "2026-11-06T10:50:00Z",
+      "categoria": "mercados",
+      "titulo": "KOSPI suspenso por 20 minutos após queda de 8,8%",
+      "texto": "Bolsa da Coreia suspende o pregão por 20 minutos com o KOSPI caindo 8,8% na venda global de chips; índice fecha em −6,02% (5.059,69). Nikkei −5,96% e em bear market; Taiex −4,5%.",
+      "fonte": "Euronews",
+      "url": "https://www.euronews.com/2026/11/06/global-stock-rout-deepens-as-ai-data-centre-fears-fuel-worst-us-chip-sell-off-since-2020"
+    },
     {
       "id": "2026-10-29-hack-binance",
       "gerado_em": "2026-10-30T10:52:00Z",
