@@ -1,11 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "KOSPI|variacao_dia_pct|alta|2026-10-27": {
-      "em": "2026-10-27T01:57:47Z",
-      "status": "enviado",
-      "texto": "🟢 KOSPI +4,5% no dia (gatilho: alta > 4,0%) · 5.718,00"
-    },
     "KOSPI|variacao_dia_pct|alta|2026-10-28": {
       "em": "2026-10-28T05:20:36Z",
       "status": "enviado",
@@ -70,6 +65,16 @@
       "em": "2026-11-05T18:38:57Z",
       "status": "enviado",
       "texto": "⚠️ VIX +63,8% no dia (gatilho: salto > 20,0%) · 27,20"
+    },
+    "KOSPI|variacao_dia_pct|queda|2026-11-06": {
+      "em": "2026-11-06T06:17:22Z",
+      "status": "enviado",
+      "texto": "🔴 KOSPI −5,2% no dia (gatilho: queda > 4,0%) · 5.102,72"
+    },
+    "NIKKEI|variacao_dia_pct|queda|2026-11-06": {
+      "em": "2026-11-06T06:17:22Z",
+      "status": "enviado",
+      "texto": "🔴 NIKKEI −6,3% no dia (gatilho: queda > 4,0%) · 57.229,47"
     }
   },
   "ultima_config_valida": {
