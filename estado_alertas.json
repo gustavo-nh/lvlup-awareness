@@ -75,6 +75,11 @@
       "em": "2026-11-06T06:17:22Z",
       "status": "enviado",
       "texto": "🔴 NIKKEI −6,3% no dia (gatilho: queda > 4,0%) · 57.229,47"
+    },
+    "VIX|acima|acima|2026-11-06": {
+      "em": "2026-11-06T10:40:36Z",
+      "status": "enviado",
+      "texto": "⚠️ VIX em 26,67 (gatilho: acima de 25,0)"
     }
   },
   "ultima_config_valida": {
