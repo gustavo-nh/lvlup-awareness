@@ -1,16 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "KOSPI|variacao_dia_pct|alta|2026-10-28": {
-      "em": "2026-10-28T05:20:36Z",
-      "status": "enviado",
-      "texto": "🟢 KOSPI +6,2% no dia (gatilho: alta > 4,0%) · 5.988,66"
-    },
-    "noticia|2026-10-17-teste-ponta-a-ponta": {
-      "em": "2026-10-28T05:20:39Z",
-      "status": "expirado",
-      "texto": "Teste ponta a ponta dos alertas de noticia"
-    },
     "NQ|variacao_dia_pct|queda|2026-10-29": {
       "em": "2026-10-29T21:43:17Z",
       "status": "enviado",
@@ -90,6 +80,11 @@
       "em": "2026-11-06T14:55:42Z",
       "status": "enviado",
       "texto": "🟢 SOX +5,7% no dia (gatilho: alta > 4,0%) · 9.524,15"
+    },
+    "noticia|2026-10-17-teste-ponta-a-ponta": {
+      "em": "2026-11-07T06:59:08Z",
+      "status": "expirado",
+      "texto": "Teste ponta a ponta dos alertas de noticia"
     }
   },
   "ultima_config_valida": {
