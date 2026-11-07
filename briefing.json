@@ -1,36 +1,34 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-07T10:44:23Z",
+  "gerado_em": "2026-11-07T23:42:57Z",
   "data": "2026-11-07",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "fim_de_semana",
   "fatos_relevantes": [
-    { "texto": "Trump confirma 'ataques menores' dos EUA contra a defesa aérea do Irã na ilha de Qeshm (Ormuz) na sexta (06/11); Irã diz ter derrubado um drone MQ-9 e Trump fala em progresso nas negociações",
-      "categoria": "geopolitica", "fonte": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island" },
-    { "texto": "Tesouro dos EUA sanciona empresas de câmbio que negociavam rials iranianos, em ação coordenada com o Canadá (06/11)",
+    { "texto": "Guarda Revolucionária do Irã diz ter suspendido o limite autoimposto de alcance de mísseis (antes 1.200 milhas), segundo o general Hossein Mohebbi (07/11)",
       "categoria": "geopolitica", "fonte": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/" },
-    { "texto": "ETFs de BTC à vista têm saída de US$ 411,9 mi em 06/11 (IBIT −US$ 403 mi) e de US$ 1,28 bi na semana de 02 a 06/11, segundo a Farside",
-      "categoria": "cripto", "fonte": "crypto.news", "url": "https://crypto.news/bitcoin-ether-etfs-weekly-outflows-blackrock-november/" }
+    { "texto": "Petroleiro a leste de Ormuz atinge mina naval e pega fogo no sábado (07/11)",
+      "categoria": "geopolitica", "fonte": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/" },
+    { "texto": "CENTCOM diz ter inutilizado com munição de precisão o navio comercial M/V Huda no Golfo de Omã após avisos; EUA criam força-tarefa para cortar rotas terrestres do Irã (07/11)",
+      "categoria": "geopolitica", "fonte": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/" },
+    { "texto": "Com a saída de US$ 1,28 bi na semana, ETFs de BTC à vista passam a ter saída líquida de cerca de US$ 914 mi em 2026; ETFs de ETH perdem US$ 365 mi, 6ª semana negativa",
+      "categoria": "cripto", "fonte": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984" }
   ],
   "moveu_mercados": [
-    { "texto": "S&P 500 fecha a semana com −2,7%, a pior desde as tarifas de abril de 2025, na venda global de ações de IA e data centers",
-      "categoria": "mercados", "fonte": "AP", "url": "https://www.timesfreepress.com/news/2026/nov/06/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for-the-week/" },
-    { "texto": "NQ e ES fizeram mínima de 3 meses em 06/11 (26.366,5 e 7.322,25) antes de fechar em alta",
-      "categoria": "marco_preco", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" },
-    { "texto": "BTC perto de 75,9 mil (−0,32% em 24 h) após cair abaixo de 75 mil na sexta pela primeira vez em mais de dois meses",
-      "categoria": "cripto", "fonte": "CryptoPotato", "url": "https://finwire.io/news/crypto-news/zec-and-cc-lead-altcoin-swings-as-btc-settles-at-76k-despite-us-iran-attacks-weekend-watch" }
+    { "texto": "BTC estável no sábado perto de 75,7 mil (−0,25% em 24 h); DVOL em 40,2",
+      "categoria": "cripto", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" }
   ],
   "pontos_sugeridos": [
     { "chave": "regulacao-ia-data-centers", "tema": "Risco regulatório para data centers e semis", "vies": "bear", "peso": 2,
-      "porque": "S&P tem a pior semana desde abril de 2025 e NQ/ES marcaram mínima de 3 meses em 06/11, apesar do repique de sexta" },
+      "porque": "S&P teve a pior semana desde abril de 2025 e NQ/ES marcaram mínima de 3 meses em 06/11, apesar do repique de sexta" },
     { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 1,
       "porque": "Payroll forte reforçou apostas de alta em dezembro; próxima decisão em 09/12", "revisao": "2026-12-09" },
     { "chave": "cpi-10-11", "tema": "CPI de outubro em 10/11", "vies": "neutro", "peso": 2,
       "porque": "Sai às 10h30 de Brasília; inflação acima do esperado → bear (sela alta em dezembro), abaixo → bull", "revisao": "2026-11-10" },
     { "chave": "petroleo-hormuz", "tema": "Petróleo e negociações EUA-Irã", "vies": "neutro", "peso": 2,
-      "porque": "Novos ataques dos EUA em Qeshm junto com fala de progresso nas negociações; acordo → bull, retomada de combates → bear" },
+      "porque": "Sábado com mina em petroleiro, navio inutilizado pelos EUA e IRGC sem limite de mísseis; acordo → bull, escalada → bear" },
     { "chave": "saida-etfs-btc", "tema": "Saída de ETFs de BTC", "vies": "bear", "peso": 1,
-      "porque": "Saída de US$ 1,28 bi na semana; BTC estável em 24 h perto de 75,9 mil" }
+      "porque": "Saldo de 2026 virou negativo (≈US$ 914 mi) após a pior semana desde junho" }
   ],
   "nota_sugerida": -1
 }
