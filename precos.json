@@ -1,7 +1,7 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-08T10:42:43Z",
-  "gerado_em_brt": "2026-11-08 07:42",
+  "gerado_em": "2026-11-08T16:58:49Z",
+  "gerado_em_brt": "2026-11-08 13:58",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
@@ -158,10 +158,10 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 75784.5,
-      "hora_ultimo": "2026-11-08T10:42:46Z",
+      "ultimo": 75692.5,
+      "hora_ultimo": "2026-11-08T16:58:53Z",
       "sessao": "2026-11-08",
-      "variacao_24h_pct": -0.16,
+      "variacao_24h_pct": 0.04,
       "max_3m": 87504.5,
       "min_3m": 62481.0,
       "ath": 126307.0,
@@ -173,10 +173,10 @@
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 40.31,
-      "hora_ultimo": "2026-11-08T10:00:00Z",
+      "ultimo": 40.57,
+      "hora_ultimo": "2026-11-08T16:00:00Z",
       "sessao": "2026-11-08",
-      "variacao_24h_pct": 2.65,
+      "variacao_24h_pct": 1.43,
       "desatualizado": false,
       "erro": null
     }
