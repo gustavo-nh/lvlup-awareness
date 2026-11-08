@@ -1,27 +1,22 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-08T21:01:56Z",
-  "gerado_em_brt": "2026-11-08 18:01",
+  "gerado_em": "2026-11-08T23:41:21Z",
+  "gerado_em_brt": "2026-11-08 20:41",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 27085.25,
-      "hora_ultimo": "2026-11-06T21:59:59Z",
-      "sessao": "2026-11-06",
+      "ultimo": 27126.0,
+      "hora_ultimo": "2026-11-08T23:31:20Z",
+      "sessao": "2026-11-08",
       "fechamento_anterior": 27085.25,
-      "variacao_dia_pct": 0.0,
+      "variacao_dia_pct": 0.15,
       "max_3m": 31616.5,
       "min_3m": 26366.5,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
-        {
-          "data": "2026-11-02",
-          "tipo": "min_3m",
-          "valor": 28101.75
-        },
         {
           "data": "2026-11-03",
           "tipo": "min_3m",
@@ -49,11 +44,11 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 7402.0,
-      "hora_ultimo": "2026-11-06T21:59:59Z",
-      "sessao": "2026-11-06",
+      "ultimo": 7410.5,
+      "hora_ultimo": "2026-11-08T23:31:18Z",
+      "sessao": "2026-11-08",
       "fechamento_anterior": 7402.0,
-      "variacao_dia_pct": 0.0,
+      "variacao_dia_pct": 0.11,
       "max_3m": 7897.5,
       "min_3m": 7322.25,
       "ath": 7897.5,
@@ -158,10 +153,10 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 75668.5,
-      "hora_ultimo": "2026-11-08T21:01:59Z",
+      "ultimo": 75066.0,
+      "hora_ultimo": "2026-11-08T23:41:23Z",
       "sessao": "2026-11-08",
-      "variacao_24h_pct": 0.04,
+      "variacao_24h_pct": -0.87,
       "max_3m": 87504.5,
       "min_3m": 62481.0,
       "ath": 126307.0,
@@ -173,10 +168,10 @@
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 41.01,
-      "hora_ultimo": "2026-11-08T21:00:00Z",
+      "ultimo": 40.97,
+      "hora_ultimo": "2026-11-08T23:00:00Z",
       "sessao": "2026-11-08",
-      "variacao_24h_pct": 2.01,
+      "variacao_24h_pct": 1.92,
       "desatualizado": false,
       "erro": null
     }

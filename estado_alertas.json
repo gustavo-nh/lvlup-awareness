@@ -1,11 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "NQ|variacao_dia_pct|queda|2026-10-29": {
-      "em": "2026-10-29T21:43:17Z",
-      "status": "enviado",
-      "texto": "🔴 NQ −2,5% no dia (gatilho: queda > 2,5%) · 29.218,25"
-    },
     "KOSPI|variacao_dia_pct|queda|2026-10-30": {
       "em": "2026-10-30T01:49:09Z",
       "status": "enviado",
