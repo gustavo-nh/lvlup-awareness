@@ -1,21 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "noticia|2026-10-29-hack-binance": {
-      "em": "2026-10-30T10:49:49Z",
-      "status": "enviado",
-      "texto": "Hack de cerca de US$ 6,3 bi na Binance"
-    },
-    "NQ|variacao_dia_pct|queda|2026-10-30": {
-      "em": "2026-10-30T14:00:27Z",
-      "status": "enviado",
-      "texto": "🔴 NQ −2,8% no dia (gatilho: queda > 2,5%) · 28.743,50"
-    },
-    "SOX|variacao_dia_pct|queda|2026-10-30": {
-      "em": "2026-10-30T14:00:27Z",
-      "status": "enviado",
-      "texto": "🔴 SOX −5,2% no dia (gatilho: queda > 4,0%) · 10.915,25"
-    },
     "KOSPI|variacao_dia_pct|queda|2026-11-05": {
       "em": "2026-11-05T10:40:57Z",
       "status": "enviado",
@@ -75,6 +60,21 @@
       "em": "2026-11-07T06:59:08Z",
       "status": "expirado",
       "texto": "Teste ponta a ponta dos alertas de noticia"
+    },
+    "NQ|variacao_dia_pct|alta|2026-11-09": {
+      "em": "2026-11-09T18:39:08Z",
+      "status": "enviado",
+      "texto": "🟢 NQ +3,1% no dia (gatilho: alta > 2,5%) · 27.925,50"
+    },
+    "SOX|variacao_dia_pct|alta|2026-11-09": {
+      "em": "2026-11-09T18:39:08Z",
+      "status": "enviado",
+      "texto": "🟢 SOX +6,4% no dia (gatilho: alta > 4,0%) · 9.989,95"
+    },
+    "noticia|2026-10-29-hack-binance": {
+      "em": "2026-11-09T18:39:12Z",
+      "status": "expirado",
+      "texto": "Hack de cerca de US$ 6,3 bi na Binance"
     }
   },
   "ultima_config_valida": {
