@@ -1,44 +1,44 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-09T23:45:16Z",
-  "data": "2026-11-09",
-  "janela": "noite",
+  "gerado_em": "2026-11-10T10:43:16Z",
+  "data": "2026-11-10",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
-    { "texto": "Barkin (Fed de Richmond) diz que o risco está do lado da inflação e que a direção da política é relativamente clara, mas que o Fed deve agir com cuidado",
-      "categoria": "bc", "fonte": "Reuters (via Yahoo Finance)", "url": "https://finance.yahoo.com/economy/policy/articles/fed-move-policy-care-responds-170534763.html" },
-    { "texto": "Goolsbee (Fed de Chicago) vê inflação de serviços voltando a subir e data centers com cara de superaquecimento; mercado precifica 84% de chance de alta em dezembro",
-      "categoria": "bc", "fonte": "investingLive", "url": "https://investinglive.com/central-banks/fed-s-goolsbee-starting-to-see-inflation-kicking-up-in-services/" },
-    { "texto": "Vitórias democratas nas eleições de meio de mandato e a culpa dos eleitores pela alta da conta de luz podem trazer restrições a data centers de IA",
-      "categoria": "geopolitica", "fonte": "AP (via WHDH)", "url": "https://whdh.com/news/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/" }
+    { "texto": "CPI de outubro sai hoje (10/11) às 10h30 de Brasília (08h30 em Washington); consenso de +0,3% no mês (setembro: +0,6%) e núcleo +0,2% (setembro: +0,3%)",
+      "categoria": "agenda", "fonte": "FinancialJuice", "url": "https://features.financialjuice.com/2026/11/09/us-cpi-prep-november-10th/" },
+    { "texto": "Sem taxa anual oficial neste CPI: a paralisação do governo em 2025 deixou sem a base de comparação, segundo a prévia; o foco fica na variação mensal",
+      "categoria": "macro", "fonte": "FinancialJuice", "url": "https://features.financialjuice.com/2026/11/09/us-cpi-prep-november-10th/" },
+    { "texto": "Futuros de juros precificam alta do Fed em dezembro; MUFG projeta núcleo de +0,23% e diz que um núcleo de 0,1% reduziria as chances de alta",
+      "categoria": "bc", "fonte": "MUFG Research", "url": "https://www.mufgresearch.com/macro/us-inflation-update-november-10-2026" },
+    { "texto": "ETFs de BTC à vista nos EUA têm saída de US$ 201 mi em 09/11; IBIT na 7ª sessão seguida de resgates, somando US$ 1,66 bi desde 30/10",
+      "categoria": "cripto", "fonte": "Cointelegraph", "url": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows" }
   ],
   "moveu_mercados": [
-    { "texto": "Wall Street recupera boa parte da perda da semana passada: S&P 500 +2,3% (7.549,94), melhor dia desde abril; Nasdaq +2,7% (25.253,14) e Dow +2,2% (52.389,75)",
-      "categoria": "mercados", "fonte": "AP (via WHDH)", "url": "https://whdh.com/news/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/" },
-    { "texto": "Semis lideram o repique: SOX +6,85% (10.033,9) na sessão de 09/11; AMD +13,3% e CoreWeave +5,6% após a queda da semana passada",
-      "categoria": "semis", "fonte": "AP (via WHDH)", "url": "https://whdh.com/news/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/" },
-    { "texto": "Nvidia fecha em −4,3% contra a alta do mercado, com o conselho investigando a relação de Jensen Huang com executiva apontada pela inteligência dos EUA como informante da China",
-      "categoria": "semis", "fonte": "AP (via WHDH)", "url": "https://whdh.com/news/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/" },
-    { "texto": "Brent cai 5,8% a US$ 92,57 (vinha de mais de US$ 112 no início do mês) após Trump ver retomada de ataques ao Irã como altamente improvável se as negociações avançarem",
-      "categoria": "geopolitica", "fonte": "AP (via WHDH)", "url": "https://whdh.com/news/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/" },
-    { "texto": "VIX recua 22,3% a 19,92 no fechamento de 09/11; NQ em 28.028,75 e ES em 7.577,5 na sessão noturna (20h43 de Brasília)",
+    { "texto": "KOSPI sobe 4,39% a 5.239,13 após três quedas seguidas, com sidecar de compra; Samsung +4,74% e SK hynix +6,69% na sessão de 10/11",
+      "categoria": "mercados", "fonte": "Seoul Economic Daily", "url": "https://en.sedaily.com/market/2026/11/10/samsung-sk-hynix-lead-kospi-44-percent-rebound-past-5200" },
+    { "texto": "Nikkei sobe 2,87% a 60.459,58 na sessão de 10/11, acompanhando o repique de tecnologia em Wall Street",
       "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" },
-    { "texto": "BTC não acompanha o rali: caiu abaixo de 74.000 pela manhã e fechou domingo abaixo da média de 50 semanas; às 20h43 de Brasília estava em 75.149 (+0,15% em 24 h)",
-      "categoria": "cripto", "fonte": "The Block", "url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102" }
+    { "texto": "STOXX 600 +0,67% a 660,96 (06h41 de Brasília), perto do recorde; bancos +2,6% com petróleo mais barato antes do CPI",
+      "categoria": "mercados", "fonte": "Reuters (via Investing.com)", "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345" },
+    { "texto": "Brent cai mais de 2%, a cerca de US$ 90, depois que Trump disse que vai segurar novos bombardeios ao Irã",
+      "categoria": "geopolitica", "fonte": "Reuters (via Investing.com)", "url": "https://www.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-5014345" },
+    { "texto": "Futuros de lado antes do CPI: NQ 27.929,25 (−0,3%) e ES 7.576,75 (+0,03%) às 07h31 de Brasília; VIX 19,89; BTC 74.122 (+0,13% em 24 h)",
+      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" }
   ],
   "pontos_sugeridos": [
     { "chave": "repique-semis", "tema": "Repique de semis e IA", "vies": "bull", "peso": 2,
-      "porque": "SOX +6,85% e S&P no melhor dia desde abril, recuperando boa parte do sell-off da semana passada" },
-    { "chave": "nvidia-investigacao-huang", "tema": "Investigação sobre o CEO da Nvidia", "vies": "bear", "peso": 2,
-      "porque": "NVDA fecha em −4,3% na contramão do rali, a uma semana do balanço de 17/11", "revisao": "2026-11-17" },
+      "porque": "Após SOX +6,85% em 09/11, KOSPI +4,39% com Samsung e SK hynix e Nikkei +2,87% estendem o repique na Ásia" },
+    { "chave": "nvidia-investigacao-huang", "tema": "Investigação sobre o CEO da Nvidia", "vies": "bear", "peso": 1,
+      "porque": "Sem desdobramento novo desde a queda de 4,3% em 09/11; tema segue aberto até o balanço de 17/11", "revisao": "2026-11-17" },
     { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 2,
-      "porque": "Barkin e Goolsbee reforçam o risco inflacionário; mercado em 84% de alta na reunião de 08-09/12", "revisao": "2026-12-09" },
+      "porque": "Futuros de juros precificam alta na reunião de 08-09/12 após falas de Barkin e Goolsbee", "revisao": "2026-12-09" },
     { "chave": "cpi-10-11", "tema": "CPI de outubro em 10/11", "vies": "neutro", "peso": 3,
-      "porque": "Sai amanhã às 10h30 de Brasília, último CPI antes do Fed; acima do esperado → bear (sela alta), abaixo → bull", "revisao": "2026-11-10" },
+      "porque": "Sai hoje às 10h30 de Brasília, último CPI antes do Fed; núcleo acima de 0,2% → bear (sela alta), 0,1% → bull", "revisao": "2026-11-10" },
     { "chave": "petroleo-hormuz", "tema": "Petróleo e negociações EUA-Irã", "vies": "bull", "peso": 1,
-      "porque": "Brent cai 5,8% com Trump vendo retomada de ataques improvável; Rubio ainda chama demandas iranianas de ultrajantes" },
+      "porque": "Brent perto de US$ 90 com Trump segurando novos ataques ao Irã" },
     { "chave": "saida-etfs-btc", "tema": "Saída de ETFs de BTC", "vies": "bear", "peso": 1,
-      "porque": "Saída de US$ 1,28 bi na semana passada; BTC abaixo da média de 50 semanas e descolado do rali das ações" }
+      "porque": "Terceiro dia seguido de saídas (US$ 201 mi em 09/11); BTC perto de 74.000 e descolado do rali das ações" }
   ],
-  "nota_sugerida": -1
+  "nota_sugerida": 0
 }
