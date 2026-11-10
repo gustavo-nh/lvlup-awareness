@@ -1,27 +1,22 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-10T01:57:22Z",
-  "gerado_em_brt": "2026-11-09 22:57",
+  "gerado_em": "2026-11-10T09:36:38Z",
+  "gerado_em_brt": "2026-11-10 06:36",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 27989.25,
-      "hora_ultimo": "2026-11-10T01:47:16Z",
-      "sessao": "2026-11-09",
+      "ultimo": 27955.75,
+      "hora_ultimo": "2026-11-10T09:26:35Z",
+      "sessao": "2026-11-10",
       "fechamento_anterior": 28014.5,
-      "variacao_dia_pct": -0.09,
+      "variacao_dia_pct": -0.21,
       "max_3m": 31616.5,
       "min_3m": 26366.5,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
-        {
-          "data": "2026-11-03",
-          "tipo": "min_3m",
-          "valor": 28038.25
-        },
         {
           "data": "2026-11-04",
           "tipo": "min_3m",
@@ -44,11 +39,11 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 7579.75,
-      "hora_ultimo": "2026-11-10T01:47:14Z",
-      "sessao": "2026-11-09",
+      "ultimo": 7580.0,
+      "hora_ultimo": "2026-11-10T09:26:34Z",
+      "sessao": "2026-11-10",
       "fechamento_anterior": 7574.25,
-      "variacao_dia_pct": 0.07,
+      "variacao_dia_pct": 0.08,
       "max_3m": 7897.5,
       "min_3m": 7322.25,
       "ath": 7897.5,
@@ -103,11 +98,11 @@
     "VIX": {
       "fonte": "yahoo",
       "simbolo": "^VIX",
-      "ultimo": 19.92,
-      "hora_ultimo": "2026-11-09T21:15:01Z",
-      "sessao": "2026-11-09",
-      "fechamento_anterior": 25.64,
-      "variacao_dia_pct": -22.31,
+      "ultimo": 20.04,
+      "hora_ultimo": "2026-11-10T09:21:31Z",
+      "sessao": "2026-11-10",
+      "fechamento_anterior": 19.92,
+      "variacao_dia_pct": 0.6,
       "max_3m": 28.360000610351562,
       "min_3m": 13.800000190734863,
       "ath": 89.52999877929688,
@@ -118,11 +113,11 @@
     "KOSPI": {
       "fonte": "yahoo",
       "simbolo": "^KS11",
-      "ultimo": 5202.18,
-      "hora_ultimo": "2026-11-10T01:37:20Z",
+      "ultimo": 5239.13,
+      "hora_ultimo": "2026-11-10T06:32:50Z",
       "sessao": "2026-11-10",
       "fechamento_anterior": 5018.85,
-      "variacao_dia_pct": 3.65,
+      "variacao_dia_pct": 4.39,
       "max_3m": 7216.6201171875,
       "min_3m": 4911.27978515625,
       "ath": 9385.58984375,
@@ -133,11 +128,11 @@
     "NIKKEI": {
       "fonte": "yahoo",
       "simbolo": "^N225",
-      "ultimo": 60455.56,
-      "hora_ultimo": "2026-11-10T01:42:20Z",
+      "ultimo": 60459.58,
+      "hora_ultimo": "2026-11-10T06:45:03Z",
       "sessao": "2026-11-10",
       "fechamento_anterior": 58775.5,
-      "variacao_dia_pct": 2.86,
+      "variacao_dia_pct": 2.87,
       "max_3m": 70798.6171875,
       "min_3m": 56745.80859375,
       "ath": 72831.7265625,
@@ -157,8 +152,8 @@
       "ath": 126307.0,
       "ath_data": "2025-10-06",
       "marcos_recentes": [],
-      "desatualizado": false,
-      "erro": null
+      "desatualizado": true,
+      "erro": "https://www.deribit.com/api/v2/public/ticker -> HTTP Error 503: Service Unavailable"
     },
     "DVOL": {
       "fonte": "deribit",
@@ -167,9 +162,12 @@
       "hora_ultimo": "2026-11-10T01:00:00Z",
       "sessao": "2026-11-09",
       "variacao_24h_pct": -1.86,
-      "desatualizado": false,
-      "erro": null
+      "desatualizado": true,
+      "erro": "https://www.deribit.com/api/v2/public/get_volatility_index_data -> HTTP Error 503: Service Unavailable"
     }
   },
-  "erros": []
+  "erros": [
+    "BTC: https://www.deribit.com/api/v2/public/ticker -> HTTP Error 503: Service Unavailable",
+    "DVOL: https://www.deribit.com/api/v2/public/get_volatility_index_data -> HTTP Error 503: Service Unavailable"
+  ]
 }
