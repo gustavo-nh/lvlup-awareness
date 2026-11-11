@@ -24,5 +24,6 @@
     { "chave": "balancos-semis-21-10", "tema": "Balanços de TXN e Lam", "vies": "neutro", "peso": 2,
       "porque": "Guidance forte alivia o sell-off (bull); fraco confirma (bear)", "revisao": "2026-10-22" }
   ],
-  "nota_sugerida": -2
+  "nota_sugerida": -2,
+  "escala_nota": 7
 }

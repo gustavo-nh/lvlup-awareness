@@ -13,7 +13,7 @@ CATEGORIAS = {"bc", "macro", "mercados", "semis", "cripto", "geopolitica", "marc
 JANELAS = {"manha", "noite"}
 MODOS = {"util", "fim_de_semana", "domingo_noite"}
 CAMPOS_TOPO = {"versao", "gerado_em", "data", "janela", "modo", "fatos_relevantes",
-               "moveu_mercados", "pontos_sugeridos", "nota_sugerida"}
+               "moveu_mercados", "pontos_sugeridos", "nota_sugerida", "escala_nota"}
 RE_DATA = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 RE_UTC = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?Z$")
 RE_CHAVE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
@@ -53,6 +53,8 @@ def validar(b, data=None, janela=None):
 
     if b.get("versao") != 1:
         erros.append("versao: precisa ser 1")
+    if b.get("escala_nota") != 7 or isinstance(b.get("escala_nota"), bool):
+        erros.append("escala_nota: obrigatorio e igual a 7 (escala de 7 niveis desde 11/11/2026)")
     if not isinstance(b.get("gerado_em"), str) or not RE_UTC.match(b["gerado_em"]):
         erros.append("gerado_em: precisa ser ISO 8601 em UTC (ex.: 2026-10-20T11:04:00Z)")
     if not isinstance(b.get("data"), str) or not RE_DATA.match(b["data"]):
@@ -125,10 +127,12 @@ def validar(b, data=None, janela=None):
             placar += p["peso"] * (1 if p["vies"] == "bull" else -1)
 
     nota = b.get("nota_sugerida")
-    if not isinstance(nota, int) or isinstance(nota, bool) or not -2 <= nota <= 2:
-        erros.append("nota_sugerida: inteiro de -2 a 2")
+    if not isinstance(nota, int) or isinstance(nota, bool) or not -3 <= nota <= 3:
+        erros.append("nota_sugerida: inteiro de -3 a 3")
     else:
-        esperado = -2 if placar <= -5 else -1 if placar <= -2 else 0 if placar <= 1 else 1 if placar <= 4 else 2
+        # faixas padrao da escala de 7 (dashboard v122)
+        esperado = (-3 if placar <= -7 else -2 if placar <= -4 else -1 if placar <= -2 else
+                    3 if placar >= 7 else 2 if placar >= 4 else 1 if placar >= 2 else 0)
         if nota != esperado:
             avisos.append(f"nota_sugerida {nota} difere da faixa do placar dos pontos ({placar} -> {esperado})")
     return erros, avisos

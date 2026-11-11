@@ -40,5 +40,6 @@
     { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 2,
       "porque": "Brent a US$ 110 reforça a pressão inflacionária e o risco de alta de juros" }
   ],
-  "nota_sugerida": -2
+  "nota_sugerida": -3,
+  "escala_nota": 7
 }

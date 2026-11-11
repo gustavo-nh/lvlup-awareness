@@ -26,5 +26,6 @@
     { "chave": "petroleo-hormuz", "tema": "Petróleo e Hormuz", "vies": "bear", "peso": 3,
       "porque": "Ataques em recorde e planos de ataque dos EUA ao Irã elevam o risco para o petróleo na reabertura" }
   ],
-  "nota_sugerida": -2
+  "nota_sugerida": -3,
+  "escala_nota": 7
 }
