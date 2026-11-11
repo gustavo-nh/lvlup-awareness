@@ -1,42 +1,41 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-11T10:43:39Z",
+  "gerado_em": "2026-11-11T23:43:56Z",
   "data": "2026-11-11",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
-    { "texto": "Paulson (Fed da Filadélfia) diz que novas altas de juros graduais são apropriadas diante da inflação alta",
-      "categoria": "bc", "fonte": "FXStreet", "url": "https://www.fxstreet.com/news/feds-paulson-further-gradual-rate-hikes-appropriate-given-high-inflation-202611110137" },
-    { "texto": "IPO da Anthropic: bancos avaliam valuation de US$ 1,5 tri ou mais, acima da faixa de US$ 70–78 por ação do registro, segundo o FT",
-      "categoria": "mercados", "fonte": "Investing.com", "url": "https://www.investing.com/news/economy-news/coreweave-earnings-openais-revenue-reportedly-spikes--whats-moving-markets-5018081" },
-    { "texto": "Mercado de títulos dos EUA fechado hoje (11/11) pelo Veterans Day, com bolsas abertas; juro de 2 anos teve em 10/11 a maior alta em 19 meses",
-      "categoria": "agenda", "fonte": "Investing.com", "url": "https://www.investing.com/news/economy-news/coreweave-earnings-openais-revenue-reportedly-spikes--whats-moving-markets-5018081" }
+    { "texto": "Goolsbee (Fed de Chicago) chama o CPI de outubro de 'quase perturbador' enquanto o Fed avalia novas altas de juros",
+      "categoria": "bc", "fonte": "CNBC", "url": "https://cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html" },
+    { "texto": "FedWatch vê cerca de 90% de chance de alta em 9/12 e mais de 64% para uma segunda alta em janeiro; Logan (Fed de Dallas) defende mais duas altas de 0,25 pp",
+      "categoria": "bc", "fonte": "BNN Bloomberg (AP)", "url": "https://bnnbloomberg.ca/business/international/2026/11/11/as-higher-prices-seep-into-broader-economy-us-fed-officials-consider-faster-hikes" },
+    { "texto": "Nvidia divulga o balanço do 3º tri em 17/11; três presidentes de comissões da Câmara pediram um briefing fechado com Huang",
+      "categoria": "semis", "fonte": "investingLive", "url": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/" }
   ],
   "moveu_mercados": [
-    { "texto": "CoreWeave tem receita de US$ 3,66 bi no 3º tri e prevê US$ 13–13,3 bi no ano; ação sobe mais de 18% no after-hours e reanima o trade de IA",
-      "categoria": "semis", "fonte": "Investing.com", "url": "https://www.investing.com/news/economy-news/coreweave-earnings-openais-revenue-reportedly-spikes--whats-moving-markets-5018081" },
-    { "texto": "Futuros sobem de madrugada: NQ 28.324,5 (+1,76%) e ES 7.603,75 (+0,79%) às 07h31 de Brasília; VIX 18,66 (−4,11%)",
-      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" },
-    { "texto": "KOSPI fecha em alta de 2,6% (5.375,36) em 11/11, com Samsung +3,57% e SK hynix +5,36%; estrangeiros compram 655 bi de wons; Nikkei +1,31%",
-      "categoria": "mercados", "fonte": "Korea JoongAng Daily", "url": "https://www.koreajoongangdaily.com/business/kospi-jumps-26-as-tech-stocks-rally/12967946" },
-    { "texto": "Nvidia sobe cerca de 4% no pré-mercado após cair 5,4% em 10/11, apesar do escrutínio sobre Jensen Huang",
-      "categoria": "semis", "fonte": "CNBC", "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html" },
-    { "texto": "Brent sobe 0,5% a US$ 91,92 às 05h50 de Brasília, depois de ter ficado abaixo de US$ 90 na terça; WTI −0,1% a US$ 85,93",
-      "categoria": "mercados", "fonte": "Investing.com", "url": "https://www.investing.com/news/economy-news/coreweave-earnings-openais-revenue-reportedly-spikes--whats-moving-markets-5018081" }
+    { "texto": "Nvidia cai cerca de 4,5% no after-hours (perto de US$ 166) após o WSJ dizer que o conselho se prepara para destituir o CEO Jensen Huang; NQ −0,68% (28.278,75) às 20h31 de Brasília",
+      "categoria": "semis", "fonte": "investingLive", "url": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/" },
+    { "texto": "Wall Street fecha em alta em 11/11: Nasdaq +1,60% (25.466,19), S&P 500 +1,31% (7.619,38) e Dow +0,49%; Apple renova recorde",
+      "categoria": "mercados", "fonte": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026" },
+    { "texto": "Chips lideram em 11/11 com a demanda por infraestrutura de IA: Intel +7,52%, AMD +7,32% e Nvidia +2,92%",
+      "categoria": "semis", "fonte": "The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/" },
+    { "texto": "SOX fecha 11/11 em +5,66% (10.564,11) e VIX cai 10,1% (17,49); BTC estável em 73.768 (+0,03% em 24 h)",
+      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" }
   ],
   "pontos_sugeridos": [
     { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 3,
-      "porque": "Alta em dezembro precificada após CPI quente; Waller abre porta para 50 pb e Paulson defende altas graduais", "revisao": "2026-12-09" },
+      "porque": "Alta em dezembro com ~90% no FedWatch e segunda alta em janeiro acima de 64%; Goolsbee e Logan reforçam o tom", "revisao": "2026-12-09" },
     { "chave": "rali-ia-coreweave", "tema": "Retomada do trade de IA", "vies": "bull", "peso": 2,
-      "porque": "Resultado e guidance da CoreWeave puxam NQ +1,8% e chips na Ásia (SK hynix +5,4%)" },
-    { "chave": "nvidia-investigacao-huang", "tema": "Investigação sobre o CEO da Nvidia", "vies": "bear", "peso": 1,
-      "porque": "Tema segue aberto, mas NVDA repica no pré-mercado; peso reduzido" },
+      "porque": "CoreWeave puxou SOX +5,66% e Nasdaq +1,6% em 11/11, com AMD e Intel acima de 7%" },
+    { "chave": "nvidia-investigacao-huang", "tema": "Crise de governança na Nvidia", "vies": "bear", "peso": 2,
+      "porque": "WSJ diz que conselho prepara saída de Huang; NVDA cai ~4,5% no after-hours e leva NQ ao vermelho antes do balanço de 17/11", "revisao": "2026-11-17" },
     { "chave": "petroleo-hormuz", "tema": "Petróleo e negociações EUA-Irã", "vies": "bull", "peso": 1,
-      "porque": "Brent perto de US$ 90, no menor nível desde agosto, com expectativa de acordo com o Irã" },
+      "porque": "WTI segue perto de US$ 87, longe das máximas, sem novidade nas negociações com o Irã" },
     { "chave": "fraqueza-btc", "tema": "BTC na mínima desde agosto", "vies": "bear", "peso": 1,
-      "porque": "BTC estável perto de 74.000 (−0,18% em 24 h) e não acompanha o repique das ações" },
+      "porque": "BTC parado perto de 73.800 (+0,03% em 24 h) e não acompanha o rali das ações" },
     { "chave": "ppi-13-11", "tema": "PPI de outubro em 13/11", "vies": "neutro", "peso": 1,
       "porque": "Próximo dado de inflação antes do Fed; PPI acima de 0,4% reforça a tese de 50 pb → bear, abaixo alivia → bull", "revisao": "2026-11-13" }
   ],
-  "nota_sugerida": -1
+  "nota_sugerida": -1,
+  "escala_nota": 7
 }
