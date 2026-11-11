@@ -58,7 +58,7 @@ Para os ativos de `marcos.ativos`, olhe `marcos_recentes` (tipos `ath`, `max_Nm`
 - `peso`: 1 = relevante; 2 = importante e já mexendo com preço; 3 = dominante, pode mudar o regime.
 - Mantenha temas que continuam vivos mesmo sem notícia nova (ajuste o peso se perderam força); tire os resolvidos.
 - `porque`: uma linha. `revisao` (opcional): data para reavaliar, se houver evento claro (ex.: dia da decisão do Fed).
-- `nota_sugerida`: placar = soma de peso × (+1 bull, −1 bear); **pontos neutros não entram**. Faixas: ≤ −5 → −2; −4 a −2 → −1; −1 a +1 → 0; +2 a +4 → +1; ≥ +5 → +2.
+- `nota_sugerida` (escala de 7, de −3 a +3): placar = soma de peso × (+1 bull, −1 bear); **pontos neutros não entram**. Faixas: ≤ −7 → −3; −6 a −4 → −2; −3 a −2 → −1; −1 a +1 → 0; +2 a +3 → +1; +4 a +6 → +2; ≥ +7 → +3. **Sempre inclua `"escala_nota": 7`** (sem ele o validador reprova).
 
 ### Regras de qualidade
 - **Só fatos encontrados nas buscas desta execução**, com `fonte` (nome do veículo) e `url` real da notícia. Nunca invente número, data, citação ou link. Na dúvida, deixe de fora.
@@ -88,7 +88,8 @@ Para os ativos de `marcos.ativos`, olhe `marcos_recentes` (tipos `ath`, `max_Nm`
       "porque": "Alta x manutenção em aberto; tom hawkish ou alta → bear, sinal de pausa → bull",
       "revisao": "2026-10-28" }
   ],
-  "nota_sugerida": -1
+  "nota_sugerida": -1,
+  "escala_nota": 7
 }
 ```
 `gerado_em` em UTC (`date -u +%Y-%m-%dT%H:%M:%SZ`). Categorias: `bc`, `macro`, `mercados`, `semis`, `cripto`, `geopolitica`, `marco_preco`, `agenda`.
