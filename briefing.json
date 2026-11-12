@@ -1,41 +1,132 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-11T23:43:56Z",
-  "data": "2026-11-11",
-  "janela": "noite",
+  "gerado_em": "2026-11-12T10:44:25Z",
+  "data": "2026-11-12",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
-    { "texto": "Goolsbee (Fed de Chicago) chama o CPI de outubro de 'quase perturbador' enquanto o Fed avalia novas altas de juros",
-      "categoria": "bc", "fonte": "CNBC", "url": "https://cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html" },
-    { "texto": "FedWatch vê cerca de 90% de chance de alta em 9/12 e mais de 64% para uma segunda alta em janeiro; Logan (Fed de Dallas) defende mais duas altas de 0,25 pp",
-      "categoria": "bc", "fonte": "BNN Bloomberg (AP)", "url": "https://bnnbloomberg.ca/business/international/2026/11/11/as-higher-prices-seep-into-broader-economy-us-fed-officials-consider-faster-hikes" },
-    { "texto": "Nvidia divulga o balanço do 3º tri em 17/11; três presidentes de comissões da Câmara pediram um briefing fechado com Huang",
-      "categoria": "semis", "fonte": "investingLive", "url": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/" }
+    {
+      "texto": "Conselho da Nvidia se reuniu na noite de 11/11 (EUA) para decidir o futuro de Huang, segundo a Reuters; NYT relata segundo relacionamento, com a VP Kimberly Powell, subordinada a ele",
+      "categoria": "semis",
+      "fonte": "Euronews",
+      "url": "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang"
+    },
+    {
+      "texto": "FT cita a CFO Colette Kress como opção interina mais simples e Ian Buck (data center) como alternativa; sucessão ainda indefinida",
+      "categoria": "semis",
+      "fonte": "Decrypt",
+      "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair"
+    },
+    {
+      "texto": "Departamento de Comércio prepara regra para impedir que empresas chinesas de IA usem chips avançados via data centers no exterior, segundo The Information; proposta em revisão",
+      "categoria": "geopolitica",
+      "fonte": "Investing.com",
+      "url": "https://au.investing.com/news/stock-market-news/us-europe-chip-stocks-dip-as-nvidia-board-reportedly-weighs-ousting-huang-4764329"
+    },
+    {
+      "texto": "Mercado precifica mais de 25 pb de alta na reunião do Fed de 9/12 e cerca de 60 pb de aperto até março de 2027, após CPI forte e falas de Waller",
+      "categoria": "bc",
+      "fonte": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026"
+    },
+    {
+      "texto": "Hoje (12/11), em Brasília: seguro-desemprego às 10h30; falas de Hammack 11h, Barr 12h, Goolsbee 13h15, Daly 15h10, Schmid 15h30 e Williams 20h30; leilão de Treasuries de 30 anos às 14h",
+      "categoria": "agenda",
+      "fonte": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026"
+    },
+    {
+      "texto": "PPI de outubro sai sexta (13/11) às 10h30 de Brasília; Continuum projeta +0,4% no mês (núcleo +0,3%), após +1,3% em setembro",
+      "categoria": "agenda",
+      "fonte": "Continuum Economics",
+      "url": "https://continuumeconomics.com/a/342ddb8e/preview-due-november-13-us-october-ppi-firm-if-less-so-than-in-september"
+    },
+    {
+      "texto": "Cisco e Applied Materials divulgam balanço hoje (12/11)",
+      "categoria": "agenda",
+      "fonte": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026"
+    }
   ],
   "moveu_mercados": [
-    { "texto": "Nvidia cai cerca de 4,5% no after-hours (perto de US$ 166) após o WSJ dizer que o conselho se prepara para destituir o CEO Jensen Huang; NQ −0,68% (28.278,75) às 20h31 de Brasília",
-      "categoria": "semis", "fonte": "investingLive", "url": "https://investinglive.com/stock-market-update/nasdaq-futures-drop-0-8-as-wsj-says-nvidia-board-is-preparing-to-oust-ceo-huang/" },
-    { "texto": "Wall Street fecha em alta em 11/11: Nasdaq +1,60% (25.466,19), S&P 500 +1,31% (7.619,38) e Dow +0,49%; Apple renova recorde",
-      "categoria": "mercados", "fonte": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026" },
-    { "texto": "Chips lideram em 11/11 com a demanda por infraestrutura de IA: Intel +7,52%, AMD +7,32% e Nvidia +2,92%",
-      "categoria": "semis", "fonte": "The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/" },
-    { "texto": "SOX fecha 11/11 em +5,66% (10.564,11) e VIX cai 10,1% (17,49); BTC estável em 73.768 (+0,03% em 24 h)",
-      "categoria": "mercados", "fonte": "precos.json (Yahoo/Deribit)", "url": "https://github.com/gustavo-nh/lvlup-awareness/blob/main/precos.json" }
+    {
+      "texto": "Nvidia cai 5,9% no pré-mercado (US$ 163,43) após recuar 8,6% no after-hours com relatos de que o conselho prepara a saída de Huang; fechou 11/11 em +2,9% (US$ 173,73)",
+      "categoria": "semis",
+      "fonte": "Decrypt",
+      "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair"
+    },
+    {
+      "texto": "Ásia recua com a crise na Nvidia na manhã de 12/11: Taiex −2,6%, Hang Seng −1,2%, Nikkei −0,7% (60.798,84) e Kospi −0,2%",
+      "categoria": "mercados",
+      "fonte": "AP",
+      "url": "https://www.click2houston.com/business/2026/11/12/asian-shares-mostly-slip-as-nvidias-troubles-weigh-on-ai-stocks-despite-a-rally-on-wall-st/"
+    },
+    {
+      "texto": "Chips no pré-mercado: ADR da SK Hynix −3,2%, Micron −2,7% e ASML cerca de −2%; Broadcom e AMD sobem mais de 3%",
+      "categoria": "semis",
+      "fonte": "Investing.com",
+      "url": "https://au.investing.com/news/stock-market-news/us-europe-chip-stocks-dip-as-nvidia-board-reportedly-weighs-ousting-huang-4764329"
+    },
+    {
+      "texto": "Treasuries reabrem após o feriado: juro de 2 anos sobe 3 pb a 4,77% e o de 10 anos fica em 4,99%",
+      "categoria": "mercados",
+      "fonte": "Saxo",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026"
+    },
+    {
+      "texto": "ETFs de BTC à vista têm saída de US$ 299,9 mi em 11/11, quinta sessão seguida (cerca de US$ 1,44 bi no período); BTC perto de 73.573, −8,3% em 7 dias",
+      "categoria": "cripto",
+      "fonte": "crypto.news",
+      "url": "https://crypto.news/blackrock-leads-300-million-bitcoin-etf-outflows-as-btc-struggles-near-73k"
+    }
   ],
   "pontos_sugeridos": [
-    { "chave": "fed-hawkish", "tema": "Fed com viés de alta de juros", "vies": "bear", "peso": 3,
-      "porque": "Alta em dezembro com ~90% no FedWatch e segunda alta em janeiro acima de 64%; Goolsbee e Logan reforçam o tom", "revisao": "2026-12-09" },
-    { "chave": "rali-ia-coreweave", "tema": "Retomada do trade de IA", "vies": "bull", "peso": 2,
-      "porque": "CoreWeave puxou SOX +5,66% e Nasdaq +1,6% em 11/11, com AMD e Intel acima de 7%" },
-    { "chave": "nvidia-investigacao-huang", "tema": "Crise de governança na Nvidia", "vies": "bear", "peso": 2,
-      "porque": "WSJ diz que conselho prepara saída de Huang; NVDA cai ~4,5% no after-hours e leva NQ ao vermelho antes do balanço de 17/11", "revisao": "2026-11-17" },
-    { "chave": "petroleo-hormuz", "tema": "Petróleo e negociações EUA-Irã", "vies": "bull", "peso": 1,
-      "porque": "WTI segue perto de US$ 87, longe das máximas, sem novidade nas negociações com o Irã" },
-    { "chave": "fraqueza-btc", "tema": "BTC na mínima desde agosto", "vies": "bear", "peso": 1,
-      "porque": "BTC parado perto de 73.800 (+0,03% em 24 h) e não acompanha o rali das ações" },
-    { "chave": "ppi-13-11", "tema": "PPI de outubro em 13/11", "vies": "neutro", "peso": 1,
-      "porque": "Próximo dado de inflação antes do Fed; PPI acima de 0,4% reforça a tese de 50 pb → bear, abaixo alivia → bull", "revisao": "2026-11-13" }
+    {
+      "chave": "fed-hawkish",
+      "tema": "Fed com viés de alta de juros",
+      "vies": "bear",
+      "peso": 3,
+      "porque": "Mais de 25 pb precificados para 9/12 e ~60 pb até março; 2 anos a 4,77% e 10 anos perto de 5%",
+      "revisao": "2026-12-09"
+    },
+    {
+      "chave": "nvidia-investigacao-huang",
+      "tema": "Crise de governança na Nvidia",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Conselho decide o futuro de Huang; NVDA −5,9% no pré-mercado e Taiex −2,6%, a cinco dias do balanço de 17/11",
+      "revisao": "2026-11-17"
+    },
+    {
+      "chave": "rali-ia-coreweave",
+      "tema": "Retomada do trade de IA",
+      "vies": "bull",
+      "peso": 1,
+      "porque": "SOX +5,66% em 11/11 com CoreWeave, mas a crise da Nvidia já devolve parte no pré-mercado; AMD e Broadcom seguem em alta"
+    },
+    {
+      "chave": "petroleo-hormuz",
+      "tema": "Petróleo e negociações EUA-Irã",
+      "vies": "bull",
+      "peso": 1,
+      "porque": "Brent perto da mínima de dois meses (~US$ 92) e WTI perto de US$ 86, sem novidade nas negociações com o Irã"
+    },
+    {
+      "chave": "fraqueza-btc",
+      "tema": "BTC na mínima desde agosto",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Quinta sessão seguida de saídas dos ETFs e BTC perto de 73.500, sem acompanhar as ações"
+    },
+    {
+      "chave": "ppi-13-11",
+      "tema": "PPI de outubro em 13/11",
+      "vies": "neutro",
+      "peso": 2,
+      "porque": "Último dado de inflação da semana antes do Fed; acima de 0,4% reforça altas maiores → bear, abaixo alivia → bull",
+      "revisao": "2026-11-13"
+    }
   ],
-  "nota_sugerida": -1,
+  "nota_sugerida": -2,
   "escala_nota": 7
 }
