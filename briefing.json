@@ -1,77 +1,47 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-12T23:48:29Z",
-  "data": "2026-11-12",
-  "janela": "noite",
+  "gerado_em": "2026-11-13T10:43:47Z",
+  "data": "2026-11-13",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Daly (Fed de São Francisco) diz que mais altas de juros provavelmente serão necessárias: 'temos um problema de inflação', e a alta dos yields é 'bem-vinda'",
-      "categoria": "bc",
-      "fonte": "Bloomberg",
-      "url": "https://bloomberg.com/news/articles/2026-11-12/fed-s-daly-says-more-rate-hikes-likely-needed-to-cool-inflation"
-    },
-    {
-      "texto": "Hammack (Fed de Cleveland) defende levar os juros a nível restritivo com altas menores e mais frequentes; diz que a inflação vai 'na direção errada'. Alta de 25 pb em 9/12 é amplamente esperada",
-      "categoria": "bc",
-      "fonte": "Reuters/Investing.com",
-      "url": "https://www.investing.com/news/economy-news/feds-hammack-signals-support-for-gradual-ratehike-path-5022530"
-    },
-    {
-      "texto": "Nvidia mantém a divulgação do balanço em 17/11, já com a CFO Colette Kress como CEO interina; conselho avaliará nomes internos e externos para o cargo",
+      "texto": "PPI de outubro sai hoje (13/11) às 10h30 de Brasília, com o mercado já elevando as chances de alta de juros na reunião do Fed de dezembro após o CPI acima do esperado",
       "categoria": "agenda",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+      "fonte": "CoinCentral",
+      "url": "https://coincentral.com/why-is-crypto-dropping-today-november-13-2026/"
     },
     {
-      "texto": "Pedidos de seguro-desemprego somam 200 mil na semana até 7/11, alta de 9 mil sobre a semana anterior",
-      "categoria": "macro",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+      "texto": "ETFs de BTC à vista seguem com resgates: IBIT soma mais de US$ 2 bi de saídas em nove sessões até 11/11 e o conjunto dos ETFs, cerca de US$ 1,44 bi em cinco sessões",
+      "categoria": "cripto",
+      "fonte": "CryptoTicker",
+      "url": "https://cryptoticker.io/en/crypto-news-bitcoin-crash-liquidations-etf-outflows-november-13-2026/"
     },
     {
-      "texto": "PPI de outubro sai amanhã (13/11) às 10h30 de Brasília; último dado de inflação antes da decisão do Fed de 9/12",
-      "categoria": "agenda",
-      "fonte": "Continuum Economics",
-      "url": "https://continuumeconomics.com/a/342ddb8e/preview-due-november-13-us-october-ppi-firm-if-less-so-than-in-september"
+      "texto": "Petróleo caminha para a segunda queda semanal com Trump mantendo o bloqueio ao Irã; Brent sobe 0,5% a US$ 96,31 e WTI fica em US$ 88,69 na manhã de sexta na Ásia",
+      "categoria": "geopolitica",
+      "fonte": "CNBC/AP",
+      "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Jensen Huang renuncia ao comando da Nvidia (anúncio às 10h48 de Brasília); Kress assume interinamente e NVDA fecha em −4,34% (US$ 166,19), após mínima de −14,35% na abertura",
-      "categoria": "semis",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
-    },
-    {
-      "texto": "Wall Street fecha em baixa com a Nvidia: QQQ −0,32%, SPY −0,35% e IWM −1,64%; SOX −0,54% e VIX sobe 6,9% a 18,70",
-      "categoria": "mercados",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
-    },
-    {
-      "texto": "Rotação dentro de chips: AMD +5,86% e Broadcom +5,54%, enquanto CoreWeave cai 6,86% e Super Micro 11,30%",
-      "categoria": "semis",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
-    },
-    {
-      "texto": "Petróleo sobe depois que Trump disse que os EUA não precisam de acordo com o Irã ('temos o estreito deles')",
-      "categoria": "geopolitica",
-      "fonte": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
-    },
-    {
-      "texto": "BTC vai à mínima de 12 semanas com a saída de Huang abalando os mercados; perto de 71.180 (−3,5% em 24 h)",
+      "texto": "BTC perde 69.000 e vai à mínima desde agosto (perto de 68.400); liquidações de US$ 1,47 bi em 24 h, 89% em posições compradas. No Deribit, 69.261 (−5,7% em 24 h)",
       "categoria": "cripto",
-      "fonte": "The Block",
-      "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
+      "fonte": "CoinCentral",
+      "url": "https://coincentral.com/why-is-crypto-dropping-today-november-13-2026/"
     },
     {
-      "texto": "Cisco (receita de US$ 18,5 bi, +24%, previsão anual elevada) e Applied Materials (receita recorde de US$ 10,41 bi, +53%) sobem cerca de 1,5% no after-hours",
-      "categoria": "semis",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+      "texto": "Ásia mista com a saída de Huang da Nvidia: Kospi −1,0% (5.290,53), SK Hynix −3% e SoftBank −5,1%; Hang Seng −1,6%, enquanto Nikkei sobe 0,5% e Taiex 1,4%",
+      "categoria": "mercados",
+      "fonte": "AP/Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/news/asian-shares-decline-investors-assess-074159461.html"
+    },
+    {
+      "texto": "Futuros dos EUA mistos à espera do PPI: Nasdaq −0,17%, S&P +0,08% e Dow +0,11% às 06h52 de Brasília",
+      "categoria": "mercados",
+      "fonte": "TokenPost",
+      "url": "https://www.tokenpost.com/news/investing/56531"
     }
   ],
   "pontos_sugeridos": [
@@ -80,7 +50,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Daly vê mais altas necessárias e Hammack quer juro restritivo; alta em 9/12 dada como certa e 10 anos perto de 5%",
+      "porque": "Diretores defendem mais altas e o mercado eleva as chances de alta em dezembro após o CPI forte",
       "revisao": "2026-12-09"
     },
     {
@@ -88,29 +58,29 @@
       "tema": "Crise de governança na Nvidia",
       "vies": "bear",
       "peso": 2,
-      "porque": "Huang renunciou e Kress é interina; NVDA −4,34% e balanço mantido em 17/11 sem CEO definitivo",
+      "porque": "Saída de Huang pesa em SK Hynix e SoftBank na Ásia; balanço em 17/11 com CEO interina",
       "revisao": "2026-11-17"
     },
     {
       "chave": "petroleo-hormuz",
-      "tema": "Petróleo e negociações EUA-Irã",
+      "tema": "Petróleo e bloqueio ao Irã",
       "vies": "bear",
       "peso": 1,
-      "porque": "Trump diz não precisar de acordo com o Irã e o petróleo volta a subir, pressionando a inflação"
+      "porque": "Trump mantém o bloqueio ao Irã e o Brent segue perto de US$ 96, mesmo a caminho de queda semanal"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC na mínima desde agosto",
       "vies": "bear",
-      "peso": 1,
-      "porque": "BTC na mínima de 12 semanas perto de 71.000, com saídas seguidas dos ETFs"
+      "peso": 2,
+      "porque": "BTC abaixo de 69.000 com US$ 1,47 bi em liquidações e resgates seguidos nos ETFs"
     },
     {
       "chave": "ppi-13-11",
       "tema": "PPI de outubro em 13/11",
       "vies": "neutro",
       "peso": 2,
-      "porque": "Último dado de inflação da semana antes do Fed; acima de 0,4% reforça altas maiores → bear, abaixo alivia → bull",
+      "porque": "Último dado de inflação da semana; acima do consenso reforça alta em dezembro → bear, abaixo alivia → bull",
       "revisao": "2026-11-13"
     }
   ],
