@@ -85,6 +85,11 @@
       "em": "2026-11-11T21:12:12Z",
       "status": "enviado",
       "texto": "🟢 SOX +5,7% no dia (gatilho: alta > 4,0%) · 10.564,11"
+    },
+    "SOX|variacao_dia_pct|queda|2026-11-13": {
+      "em": "2026-11-13T15:16:27Z",
+      "status": "enviado",
+      "texto": "🔴 SOX −4,7% no dia (gatilho: queda > 4,0%) · 10.015,74"
     }
   },
   "ultima_config_valida": {
