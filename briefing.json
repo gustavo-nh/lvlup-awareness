@@ -1,59 +1,35 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-13T23:43:49Z",
-  "data": "2026-11-13",
-  "janela": "noite",
-  "modo": "util",
+  "gerado_em": "2026-11-14T10:42:47Z",
+  "data": "2026-11-14",
+  "janela": "manha",
+  "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Goolsbee (Fed de Chicago) diz que o Fed tem trabalho a fazer para recuperar a credibilidade e que a inflação recente vai na direção errada; mercado precifica alta de 0,25 p.p. em 08–09/12",
-      "categoria": "bc",
-      "fonte": "TheStreet",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+      "texto": "Trump se reúne com Xi e Putin na quinta (19/11) em Shenzhen, à margem da APEC, para tratar de redução de armas nucleares e da guerra com o Irã; Casa Branca não espera acordo",
+      "categoria": "geopolitica",
+      "fonte": "Reuters/TimesLIVE",
+      "url": "https://www.timeslive.co.za/news/world/2026-11-14-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-thursday-white-house-says/"
     },
     {
-      "texto": "PPI de outubro sobe 0,3% no mês, abaixo dos 0,4% esperados, mas a alta em 12 meses chega a 6,5%, a maior desde novembro de 2022",
-      "categoria": "macro",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-      "texto": "Nvidia divulga o balanço do 3º trimestre na terça (17/11) após o fechamento, com a CFO Colette Kress como CEO interina; HSBC rebaixa a ação para manutenção e corta o alvo de US$ 365 para US$ 170",
-      "categoria": "agenda",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-      "texto": "ETFs de BTC à vista acumulam US$ 643,6 mi de resgates na semana até 12/11, após US$ 1,28 bi na semana anterior; índice de medo e ganância cai a 20",
+      "texto": "Oferta de stablecoins cai US$ 14,2 bi em 30 dias e ETFs de BTC à vista somam US$ 1,6 bi de resgates em 20 sessões; índice de medo e ganância vai a 13",
       "categoria": "cripto",
-      "fonte": "KuCoin/CoinDesk",
-      "url": "https://www.kucoin.com/news/flash/bitcoin-falls-below-68-000-as-fear-grips-crypto-market"
+      "fonte": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/15c3ec53-f7aa-4459-8772-fbb73c961588"
+    },
+    {
+      "texto": "AIE estima a produção do Irã em 1,86 mi de barris/dia em outubro, 46% abaixo do nível pré-guerra, com o bloqueio dos EUA mantido",
+      "categoria": "geopolitica",
+      "fonte": "Iran International",
+      "url": "https://www.iranintl.com/en/liveblog/202611143682"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Semis ampliam a queda com a crise na Nvidia: AMD −8,75%, Nvidia −2,0% (abaixo de US$ 4 tri em valor de mercado); SOX −3,4% e NQ −1,6% na sessão de 13/11",
-      "categoria": "semis",
-      "fonte": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/"
-    },
-    {
-      "texto": "Wall Street fecha sem direção: S&P 500 −0,4% (7.561,67), Nasdaq −0,9% (25.136,27) e Dow +0,1%; ainda assim, primeira semana de alta desde o início de outubro (S&P +2,5%)",
-      "categoria": "mercados",
-      "fonte": "AP/KRMG",
-      "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"
-    },
-    {
-      "texto": "Treasury de 10 anos chega a 5,17% na sexta, maior nível desde outubro, pressionando ações de tecnologia",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-      "texto": "BTC renova a mínima desde agosto abaixo de 68.000 com US$ 1,62 bi em liquidações em 24 h, 90% de compradas; no Deribit, 68.147 (−4,2% em 24 h)",
+      "texto": "BTC cai a ~66.900 no sábado, menor nível desde meados de agosto, com US$ 1,3–1,6 bi em liquidações (maioria compradas); no Deribit, 67.195 (−3,0% em 24 h)",
       "categoria": "cripto",
-      "fonte": "Bitcoin.com",
-      "url": "https://news.bitcoin.com/market-updates/bitcoin-price-crashes-below-68k-as-crypto-liquidations-hit-1-6b/"
+      "fonte": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/15c3ec53-f7aa-4459-8772-fbb73c961588"
     }
   ],
   "pontos_sugeridos": [
@@ -82,17 +58,25 @@
     },
     {
       "chave": "fraqueza-btc",
-      "tema": "BTC na mínima desde agosto",
+      "tema": "BTC na mínima desde meados de agosto",
       "vies": "bear",
       "peso": 2,
-      "porque": "BTC abaixo de 68.000 com liquidações acima de US$ 1,6 bi e resgates seguidos nos ETFs"
+      "porque": "BTC cai a ~66.900 no sábado, quase −12% na semana, com liquidações acima de US$ 1,3 bi e saída de stablecoins e ETFs"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e bloqueio ao Irã",
       "vies": "bear",
       "peso": 1,
-      "porque": "Bloqueio ao Irã segue e Trump diz não querer acordo; petróleo ficou estável na sexta após o salto de quinta"
+      "porque": "Bloqueio ao Irã segue; produção iraniana em outubro 46% abaixo do pré-guerra, segundo a AIE"
+    },
+    {
+      "chave": "cupula-trump-xi-putin",
+      "tema": "Cúpula Trump-Xi-Putin em 19/11",
+      "vies": "neutro",
+      "peso": 1,
+      "porque": "Irã e armas nucleares na pauta, sem acordo esperado; sinal de distensão no Irã → bull, escalada ou atrito comercial → bear",
+      "revisao": "2026-11-19"
     }
   ],
   "nota_sugerida": -3,
