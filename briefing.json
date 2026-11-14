@@ -1,35 +1,53 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-14T10:42:47Z",
+  "gerado_em": "2026-11-14T23:42:28Z",
   "data": "2026-11-14",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Trump se reúne com Xi e Putin na quinta (19/11) em Shenzhen, à margem da APEC, para tratar de redução de armas nucleares e da guerra com o Irã; Casa Branca não espera acordo",
+      "texto": "Trump disse a assessores que pode suspender ataques ao Irã se não houver novas provocações de Teerã ou dos houthis, segundo três fontes; decisão ainda não foi tomada",
       "categoria": "geopolitica",
-      "fonte": "Reuters/TimesLIVE",
-      "url": "https://www.timeslive.co.za/news/world/2026-11-14-trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-thursday-white-house-says/"
+      "fonte": "The New Arab",
+      "url": "https://www.newarab.com/news/trump-says-may-hold-iran-attacks-barring-new-provocations"
     },
     {
-      "texto": "Oferta de stablecoins cai US$ 14,2 bi em 30 dias e ETFs de BTC à vista somam US$ 1,6 bi de resgates em 20 sessões; índice de medo e ganância vai a 13",
-      "categoria": "cripto",
-      "fonte": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/15c3ec53-f7aa-4459-8772-fbb73c961588"
+      "texto": "Marinha do Irã e Guarda Revolucionária afirmam que três petroleiros atingiram minas perto do Estreito de Hormuz neste sábado (14/11); alegação ainda sem confirmação independente",
+      "categoria": "geopolitica",
+      "fonte": "The New Arab",
+      "url": "https://www.newarab.com/news/trump-says-may-hold-iran-attacks-barring-new-provocations"
     },
     {
-      "texto": "AIE estima a produção do Irã em 1,86 mi de barris/dia em outubro, 46% abaixo do nível pré-guerra, com o bloqueio dos EUA mantido",
-      "categoria": "geopolitica",
-      "fonte": "Iran International",
-      "url": "https://www.iranintl.com/en/liveblog/202611143682"
+      "texto": "Nvidia, com a CFO Nicole Kress como CEO interina, mantém o balanço na terça (17/11); Huang aceitou depor no Congresso, provavelmente antes do Thanksgiving",
+      "categoria": "semis",
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html"
+    },
+    {
+      "texto": "Agenda: fluxos dos ETFs de BTC na segunda (16/11), ata do Fed na quarta (18/11) e saída da Strategy dos índices MSCI no fim de novembro; futuros reabrem domingo às 20h de Brasília",
+      "categoria": "agenda",
+      "fonte": "Trending Topics",
+      "url": "https://www.trendingtopics.eu/bitcoin-65000-dollars-liquidations/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "BTC cai a ~66.900 no sábado, menor nível desde meados de agosto, com US$ 1,3–1,6 bi em liquidações (maioria compradas); no Deribit, 67.195 (−3,0% em 24 h)",
+      "texto": "BTC aprofunda a queda no sábado e vai a 63.380 no Deribit (−7,0% em 24 h), perdendo a média de 200 semanas; DVOL sobe 21% para 48,3",
       "categoria": "cripto",
-      "fonte": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/15c3ec53-f7aa-4459-8772-fbb73c961588"
+      "fonte": "precos.json (Yahoo/Deribit)",
+      "url": "https://www.trendingtopics.eu/bitcoin-65000-dollars-liquidations/"
+    },
+    {
+      "texto": "Liquidações somam cerca de US$ 1,0 bi em 24 h (93% compradas) e ETFs de BTC à vista têm US$ 1,07 bi de resgates na semana; IBIT com 11 sessões seguidas de saída",
+      "categoria": "cripto",
+      "fonte": "Trending Topics",
+      "url": "https://www.trendingtopics.eu/bitcoin-65000-dollars-liquidations/"
+    },
+    {
+      "texto": "Venda descrita como forçada: mais de US$ 500 mi liquidados só no sábado, 94% em compradas, sem grandes depósitos em exchanges; ETH a ~1.820",
+      "categoria": "cripto",
+      "fonte": "KuCoin/CryptoPotato",
+      "url": "https://www.kucoin.com/news/flash/bitcoin-plunges-to-65k-amid-leverage-liquidations-and-stablecoin-wipeout"
     }
   ],
   "pontos_sugeridos": [
@@ -38,7 +56,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Mercado precifica alta em dezembro, Goolsbee endurece o tom e o Treasury de 10 anos vai a 5,17%",
+      "porque": "Futuros dão alta em dezembro como quase certa e Waller apoia ao menos 0,25 p.p.; ata do Fed sai na quarta (18/11)",
       "revisao": "2026-12-09"
     },
     {
@@ -46,7 +64,7 @@
       "tema": "Crise de governança na Nvidia",
       "vies": "bear",
       "peso": 2,
-      "porque": "Saída de Huang e rebaixamento do HSBC espalham a venda pelos semis (AMD −8,75%, SOX −3,4%)"
+      "porque": "Kress assume interinamente, sucessão em aberto e Huang deve depor no Congresso; investigação do DOJ segue"
     },
     {
       "chave": "balanco-nvidia-17-11",
@@ -61,14 +79,14 @@
       "tema": "BTC na mínima desde meados de agosto",
       "vies": "bear",
       "peso": 2,
-      "porque": "BTC cai a ~66.900 no sábado, quase −12% na semana, com liquidações acima de US$ 1,3 bi e saída de stablecoins e ETFs"
+      "porque": "BTC a 63.380 (−7% em 24 h), abaixo da média de 200 semanas, com liquidações de compradas e resgates seguidos nos ETFs"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Petróleo e bloqueio ao Irã",
       "vies": "bear",
       "peso": 1,
-      "porque": "Bloqueio ao Irã segue; produção iraniana em outubro 46% abaixo do pré-guerra, segundo a AIE"
+      "porque": "Irã alega petroleiros atingidos por minas perto de Hormuz; sinal de Trump de pausar ataques alivia em parte"
     },
     {
       "chave": "cupula-trump-xi-putin",
