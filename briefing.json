@@ -1,53 +1,70 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-15T10:43:10Z",
+  "gerado_em": "2026-11-15T23:48:13Z",
   "data": "2026-11-15",
-  "janela": "manha",
-  "modo": "fim_de_semana",
+  "janela": "noite",
+  "modo": "domingo_noite",
   "fatos_relevantes": [
     {
-      "texto": "Guarda Revolucionária diz ter lançado seis drones contra radar dos EUA na base de Riffa, no Bahrein, na madrugada de domingo (15/11); Bahrein diz ter interceptado os ataques",
-      "categoria": "geopolitica",
-      "fonte": "Iran International",
-      "url": "https://www.iranintl.com/en/liveblog/202611143682"
+      "texto": "Seg 16/11: Warsh faz a abertura da conferência do Fed de San Francisco às 14h de Brasília (12h em Nova York); Barr fala de IA e estabilidade financeira às 7h",
+      "categoria": "bc",
+      "fonte": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
     },
     {
-      "texto": "Irã afirma que dois petroleiros bateram em minas e pegaram fogo perto de Hormuz no sábado (14/11) e que o estreito segue fechado; alegações sem confirmação independente",
-      "categoria": "geopolitica",
-      "fonte": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+      "texto": "Semana cheia de Fed: Williams (seg, ter, qua), Musalem e Waller (ter), Kashkari (qua), Jefferson, Goolsbee e Barkin (qui) e Cook (sex)",
+      "categoria": "bc",
+      "fonte": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
     },
     {
-      "texto": "Kremlin confirma encontro trilateral Putin-Xi-Trump em 19/11 em Shenzhen, à margem da APEC (18 e 19/11)",
-      "categoria": "geopolitica",
-      "fonte": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
-    },
-    {
-      "texto": "Nvidia divulga o 3º tri fiscal na terça (17/11) após o fechamento, call às 19h de Brasília; guidance de US$ 108 bi (±2%) e consenso de ~US$ 109 bi; Colette Kress é CEO interina",
-      "categoria": "semis",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
-    },
-    {
-      "texto": "Agenda: varejo de outubro na terça (17/11) às 10h30 de Brasília, ata do Fed na quarta (18/11) às 16h e Walmart na quinta (19/11); futuros reabrem hoje às 20h de Brasília",
+      "texto": "Ter 17/11: varejo de outubro às 10h30 e produção industrial às 11h15 de Brasília; seg 16/11 sai o Empire State às 10h30",
       "categoria": "agenda",
-      "fonte": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+      "fonte": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+    },
+    {
+      "texto": "Qua 18/11: ata da reunião de 27–28/10 do Fed às 16h de Brasília; housing starts às 10h30",
+      "categoria": "agenda",
+      "fonte": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+    },
+    {
+      "texto": "Nvidia divulga o 3º tri fiscal na terça (17/11) após o fechamento, primeiro balanço com Colette Kress como CEO interina",
+      "categoria": "semis",
+      "fonte": "Nvidia RI",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+    },
+    {
+      "texto": "Qui 19/11: pedidos de seguro-desemprego e Philly Fed às 10h30 de Brasília; IPO da Anthropic também é esperado nesta semana",
+      "categoria": "agenda",
+      "fonte": "Kiplinger",
+      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+    },
+    {
+      "texto": "Guarda Revolucionária diz que superpetroleiro com mais de 2 milhões de barris afundou após bater em mina perto de Hormuz; não há confirmação independente",
+      "categoria": "geopolitica",
+      "fonte": "Middle East Eye",
+      "url": "https://middleeasteye.net/live-blog/live-blog-update/two-oil-tankers-ablaze-after-striking-naval-mines-strait-hormuz"
+    },
+    {
+      "texto": "Militares dos EUA contestam as minas e dizem ter liberado as rotas principais de Hormuz; tráfego segue cerca de 65% abaixo do pré-guerra (UKMTO)",
+      "categoria": "geopolitica",
+      "fonte": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "BTC marcou a mínima de 3 meses em 14/11 (61.802 no Deribit) e volta a 65.534 neste domingo (−2,5% em 24 h); DVOL em 45,2",
-      "categoria": "marco_preco",
-      "fonte": "precos.json (Yahoo/Deribit)",
-      "url": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026"
+      "texto": "Futuros reabrem em leve alta antes do balanço da Nvidia (NQ 28.188,75, +0,55%; ES 7.603,25, +0,27%)",
+      "categoria": "mercados",
+      "fonte": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
     },
     {
-      "texto": "Liquidações passam de US$ 2 bi em 24 h, majoritariamente de compradas; candle semanal do BTC abriu em 74.757 e índice de medo e ganância está em 10",
+      "texto": "BTC volta a 65.316 no Deribit (+3,1% em 24 h) depois da mínima de 3 meses de sábado (61.802); DVOL cai para 44,1",
       "categoria": "cripto",
-      "fonte": "CryptoTicker",
-      "url": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026"
+      "fonte": "precos.json (Yahoo/Deribit)"
     }
   ],
   "pontos_sugeridos": [
@@ -56,15 +73,15 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Futuros precificam alta de 0,25 p.p. em dezembro como certa; ata do Fed sai na quarta (18/11)",
-      "revisao": "2026-12-09"
+      "porque": "Alta em dezembro tida como certa; Warsh fala na segunda e ata sai na quarta (18/11)",
+      "revisao": "2026-11-18"
     },
     {
       "chave": "nvidia-investigacao-huang",
       "tema": "Crise de governança na Nvidia",
       "vies": "bear",
       "peso": 2,
-      "porque": "Kress interina, sucessão em aberto e Huang pressionado a depor no Congresso antes do Thanksgiving"
+      "porque": "Investigação sobre Huang segue aberta e Kress responde como CEO interina no balanço de terça"
     },
     {
       "chave": "balanco-nvidia-17-11",
@@ -79,14 +96,14 @@
       "tema": "BTC perto da mínima de 3 meses",
       "vies": "bear",
       "peso": 2,
-      "porque": "Mínima de 61.802 no sábado, liquidações acima de US$ 2 bi e resgates seguidos nos ETFs; repique para 65.534 no domingo"
+      "porque": "Repique para 65.316 no domingo, mas ainda perto da mínima de 61.802 de sábado"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Escalada Irã-EUA no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Irã diz ter atacado radar dos EUA no Bahrein e mantém Hormuz fechado; risco na reabertura dos futuros"
+      "porque": "Irã alega petroleiros atingidos e um afundado; EUA negam minas nas rotas principais"
     },
     {
       "chave": "cupula-trump-xi-putin",
