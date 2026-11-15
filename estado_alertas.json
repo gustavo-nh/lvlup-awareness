@@ -90,6 +90,11 @@
       "em": "2026-11-13T15:16:27Z",
       "status": "enviado",
       "texto": "🔴 SOX −4,7% no dia (gatilho: queda > 4,0%) · 10.015,74"
+    },
+    "BTC|variacao_24h_pct|queda|2026-11-14": {
+      "em": "2026-11-15T01:43:05Z",
+      "status": "enviado",
+      "texto": "🔴 BTC −8,7% em 24 h (gatilho: queda > 7,0%) · 62.352,00"
     }
   },
   "ultima_config_valida": {
