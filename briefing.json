@@ -1,70 +1,76 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-15T23:48:13Z",
-  "data": "2026-11-15",
-  "janela": "noite",
-  "modo": "domingo_noite",
+  "gerado_em": "2026-11-16T10:43:37Z",
+  "data": "2026-11-16",
+  "janela": "manha",
+  "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Seg 16/11: Warsh faz a abertura da conferência do Fed de San Francisco às 14h de Brasília (12h em Nova York); Barr fala de IA e estabilidade financeira às 7h",
-      "categoria": "bc",
-      "fonte": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
-    },
-    {
-      "texto": "Semana cheia de Fed: Williams (seg, ter, qua), Musalem e Waller (ter), Kashkari (qua), Jefferson, Goolsbee e Barkin (qui) e Cook (sex)",
-      "categoria": "bc",
-      "fonte": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
-    },
-    {
-      "texto": "Ter 17/11: varejo de outubro às 10h30 e produção industrial às 11h15 de Brasília; seg 16/11 sai o Empire State às 10h30",
+      "texto": "Hoje (16/11): Warsh abre a conferência do Fed de San Francisco às 14h de Brasília (12h em Nova York); Barr participa de painel sobre IA e risco sistêmico em Milão",
       "categoria": "agenda",
-      "fonte": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+      "fonte": "CryptoTicker",
+      "url": "https://cryptoticker.io/en/bitcoin-price-warsh-speech-productivity-jobs-november-16-2026"
     },
     {
-      "texto": "Qua 18/11: ata da reunião de 27–28/10 do Fed às 16h de Brasília; housing starts às 10h30",
+      "texto": "Nvidia divulga o 3º tri fiscal amanhã (17/11) após o fechamento; consenso LSEG de US$ 109 bi de receita e lucro 90% maior",
       "categoria": "agenda",
-      "fonte": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+      "fonte": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-fall-nvidia-earnings-013536353.html"
     },
     {
-      "texto": "Nvidia divulga o 3º tri fiscal na terça (17/11) após o fechamento, primeiro balanço com Colette Kress como CEO interina",
+      "texto": "Comentários de Bessent sobre vendas da Nvidia à China e defesa de um CEO de fora para a empresa aparecem entre os motivos da venda de chips na Coreia",
       "categoria": "semis",
-      "fonte": "Nvidia RI",
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+      "fonte": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/market/2026/11/16/ai-jitters-drag-samsung-down-5-percent-sk-hynix-7-percent"
     },
     {
-      "texto": "Qui 19/11: pedidos de seguro-desemprego e Philly Fed às 10h30 de Brasília; IPO da Anthropic também é esperado nesta semana",
-      "categoria": "agenda",
-      "fonte": "Kiplinger",
-      "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+      "texto": "Tribunal dos EUA rejeita pedidos para arquivar ação coletiva por conluio de preços de DRAM, que atinge Samsung e SK Hynix",
+      "categoria": "semis",
+      "fonte": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/market/2026/11/16/ai-jitters-drag-samsung-down-5-percent-sk-hynix-7-percent"
     },
     {
-      "texto": "Guarda Revolucionária diz que superpetroleiro com mais de 2 milhões de barris afundou após bater em mina perto de Hormuz; não há confirmação independente",
+      "texto": "Guarda Revolucionária diz ter lançado seis drones contra base de helicópteros dos EUA em Al-Riffa (Bahrein) no domingo (15/11); Bahrein diz ter interceptado todos",
       "categoria": "geopolitica",
-      "fonte": "Middle East Eye",
-      "url": "https://middleeasteye.net/live-blog/live-blog-update/two-oil-tankers-ablaze-after-striking-naval-mines-strait-hormuz"
+      "fonte": "SOFX",
+      "url": "https://www.sofx.com/iran-hits-u-s-base-in-bahrain-with-drones-for-second-time-in-three-days/"
     },
     {
-      "texto": "Militares dos EUA contestam as minas e dizem ter liberado as rotas principais de Hormuz; tráfego segue cerca de 65% abaixo do pré-guerra (UKMTO)",
+      "texto": "Vice-chanceler iraniano Gharibabadi diz que Teerã propôs plano de dois dias para encerrar as hostilidades e reabrir Hormuz; Brent a US$ 96,28 (+0,46%) nesta manhã",
       "categoria": "geopolitica",
       "fonte": "FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/"
+      "url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Futuros reabrem em leve alta antes do balanço da Nvidia (NQ 28.188,75, +0,55%; ES 7.603,25, +0,27%)",
+      "texto": "KOSPI cai 3,59% (5.100,5) com SK Hynix −7,61% e Samsung −4,85%; estrangeiros vendem 1,48 tri de wones",
       "categoria": "mercados",
-      "fonte": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+      "fonte": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/market/2026/11/16/ai-jitters-drag-samsung-down-5-percent-sk-hynix-7-percent"
     },
     {
-      "texto": "BTC volta a 65.316 no Deribit (+3,1% em 24 h) depois da mínima de 3 meses de sábado (61.802); DVOL cai para 44,1",
-      "categoria": "cripto",
+      "texto": "BofA diz que o preço spot de NAND caiu quase 20% desde outubro e corta expectativas para o produto; memórias lideram a queda na Ásia",
+      "categoria": "semis",
+      "fonte": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/0865c6d4-9c16-4d62-8a8b-ec76e4b5ab6a"
+    },
+    {
+      "texto": "Nikkei recua 2,42% (59.662) na sessão de 16/11",
+      "categoria": "mercados",
       "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "Futuros devolvem a alta da reabertura antes da Nvidia (NQ 27.779,25, −0,91%; ES 7.560, −0,30%); Treasury de 10 anos a 5,14%",
+      "categoria": "mercados",
+      "fonte": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-as-markets-brace-for-nvidia-earnings-anthropic-ipo-fed-minutes-smmt-nbis-help-mstr-in-focus/cNb7ePKR9Xb"
+    },
+    {
+      "texto": "ETFs de cripto têm saída semanal de US$ 1,52 bi, US$ 1,07 bi em BTC; BTC a 64.546 no Deribit (−1,5% em 24 h)",
+      "categoria": "cripto",
+      "fonte": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/crypto-etf-outflows-reach-1-52b-as-bitcoin-leads-withdrawals"
     }
   ],
   "pontos_sugeridos": [
@@ -73,15 +79,8 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Alta em dezembro tida como certa; Warsh fala na segunda e ata sai na quarta (18/11)",
+      "porque": "Alta em dezembro tida como certa; Warsh fala hoje às 14h e a ata sai na quarta (18/11)",
       "revisao": "2026-11-18"
-    },
-    {
-      "chave": "nvidia-investigacao-huang",
-      "tema": "Crise de governança na Nvidia",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Investigação sobre Huang segue aberta e Kress responde como CEO interina no balanço de terça"
     },
     {
       "chave": "balanco-nvidia-17-11",
@@ -92,26 +91,33 @@
       "revisao": "2026-11-17"
     },
     {
+      "chave": "nvidia-investigacao-huang",
+      "tema": "Crise de governança na Nvidia",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Investigação sobre Huang segue aberta e Bessent defende CEO de fora; pesou nos chips asiáticos",
+      "revisao": "2026-11-17"
+    },
+    {
+      "chave": "selloff-memoria-asia",
+      "tema": "Sell-off de memórias na Ásia",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "NAND spot em queda, ação de conluio de DRAM avança e estrangeiros vendem forte; KOSPI −3,59%"
+    },
+    {
       "chave": "fraqueza-btc",
       "tema": "BTC perto da mínima de 3 meses",
       "vies": "bear",
       "peso": 2,
-      "porque": "Repique para 65.316 no domingo, mas ainda perto da mínima de 61.802 de sábado"
+      "porque": "BTC a 64.546, perto da mínima de 61.802 de sábado, com saídas seguidas dos ETFs"
     },
     {
       "chave": "petroleo-hormuz",
       "tema": "Escalada Irã-EUA no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Irã alega petroleiros atingidos e um afundado; EUA negam minas nas rotas principais"
-    },
-    {
-      "chave": "cupula-trump-xi-putin",
-      "tema": "Cúpula Trump-Xi-Putin em 19/11",
-      "vies": "neutro",
-      "peso": 1,
-      "porque": "Irã na pauta em Shenzhen; sinal de distensão no Golfo → bull, escalada ou atrito comercial → bear",
-      "revisao": "2026-11-19"
+      "porque": "Drones contra base dos EUA no Bahrein e alegações de minas; Irã acena com plano para reabrir Hormuz"
     }
   ],
   "nota_sugerida": -3,
