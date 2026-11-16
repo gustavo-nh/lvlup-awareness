@@ -1,76 +1,82 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-16T10:43:37Z",
+  "gerado_em": "2026-11-16T23:43:23Z",
   "data": "2026-11-16",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Hoje (16/11): Warsh abre a conferência do Fed de San Francisco às 14h de Brasília (12h em Nova York); Barr participa de painel sobre IA e risco sistêmico em Milão",
-      "categoria": "agenda",
-      "fonte": "CryptoTicker",
-      "url": "https://cryptoticker.io/en/bitcoin-price-warsh-speech-productivity-jobs-november-16-2026"
-    },
-    {
-      "texto": "Nvidia divulga o 3º tri fiscal amanhã (17/11) após o fechamento; consenso LSEG de US$ 109 bi de receita e lucro 90% maior",
-      "categoria": "agenda",
-      "fonte": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-fall-nvidia-earnings-013536353.html"
-    },
-    {
-      "texto": "Comentários de Bessent sobre vendas da Nvidia à China e defesa de um CEO de fora para a empresa aparecem entre os motivos da venda de chips na Coreia",
+      "texto": "BIS publica regra interina: licença para data centers que atendam empresas da China e de países D:5, e para exportar chips avançados a Indonésia, Malásia, Singapura, Tailândia e Brasil",
       "categoria": "semis",
+      "fonte": "The Next Web",
+      "url": "https://thenextweb.com/news/us-remote-access-ai-chips-rule-china-singapore-malaysia"
+    },
+    {
+      "texto": "Warsh diz que o Fed estuda cenários de IA e que, se a produtividade decepcionar, ações cairiam e o desemprego subiria; não comentou a reunião de 8-9/12",
+      "categoria": "bc",
       "fonte": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/market/2026/11/16/ai-jitters-drag-samsung-down-5-percent-sk-hynix-7-percent"
+      "url": "https://en.sedaily.com/world/2026/11/17/feds-warsh-warns-of-stock-slump-slower-growth-if-ai"
     },
     {
-      "texto": "Tribunal dos EUA rejeita pedidos para arquivar ação coletiva por conluio de preços de DRAM, que atinge Samsung e SK Hynix",
-      "categoria": "semis",
-      "fonte": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/market/2026/11/16/ai-jitters-drag-samsung-down-5-percent-sk-hynix-7-percent"
+      "texto": "Amanhã (17/11) às 10h30 de Brasília (8h30 em Nova York): vendas no varejo dos EUA de outubro; consenso 0%, anterior +0,8%",
+      "categoria": "agenda",
+      "fonte": "Forex Fundamentals",
+      "url": "https://forexfundamentals.com/economic-calendar/us-retail-sales/2026-11-17"
     },
     {
-      "texto": "Guarda Revolucionária diz ter lançado seis drones contra base de helicópteros dos EUA em Al-Riffa (Bahrein) no domingo (15/11); Bahrein diz ter interceptado todos",
+      "texto": "Nvidia divulga o 3º tri fiscal amanhã (17/11) após o fechamento, com a CEO interina Colette Kress no call; a empresa projetou receita de cerca de US$ 108 bi",
+      "categoria": "agenda",
+      "fonte": "Cointelegraph",
+      "url": "https://cryptonews.net/news/bitcoin/33757903/"
+    },
+    {
+      "texto": "Ata da reunião do Fed de 27-28/10 sai na quarta (18/11); mercado precifica integralmente alta de 0,25 p.p. em dezembro",
+      "categoria": "agenda",
+      "fonte": "Cointelegraph",
+      "url": "https://cryptonews.net/news/bitcoin/33757903/"
+    },
+    {
+      "texto": "Trump se reúne com Xi Jinping na quinta (19/11) em Shenzhen, logo após a nova restrição a chips",
       "categoria": "geopolitica",
-      "fonte": "SOFX",
-      "url": "https://www.sofx.com/iran-hits-u-s-base-in-bahrain-with-drones-for-second-time-in-three-days/"
-    },
-    {
-      "texto": "Vice-chanceler iraniano Gharibabadi diz que Teerã propôs plano de dois dias para encerrar as hostilidades e reabrir Hormuz; Brent a US$ 96,28 (+0,46%) nesta manhã",
-      "categoria": "geopolitica",
-      "fonte": "FinanceFeeds",
-      "url": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/"
+      "fonte": "The Next Web",
+      "url": "https://thenextweb.com/news/us-remote-access-ai-chips-rule-china-singapore-malaysia"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "KOSPI cai 3,59% (5.100,5) com SK Hynix −7,61% e Samsung −4,85%; estrangeiros vendem 1,48 tri de wones",
+      "texto": "Wall Street cai pela 3ª sessão: Nasdaq −2,5% (24.509,76), S&P 500 −1,92% (7.416,59) e Dow −1,4% (51.608,17)",
       "categoria": "mercados",
-      "fonte": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/market/2026/11/16/ai-jitters-drag-samsung-down-5-percent-sk-hynix-7-percent"
+      "fonte": "AP",
+      "url": "https://www.thenewpulsefm.com/2026/11/16/the-closing-bell-stocks-tumble-on-wall-street-as-nvidia-leads-another-sell-off-in-technology-companies/"
     },
     {
-      "texto": "BofA diz que o preço spot de NAND caiu quase 20% desde outubro e corta expectativas para o produto; memórias lideram a queda na Ásia",
+      "texto": "SOX despenca 5,28% (9.610,7) após a regra dos EUA contra acesso remoto a chips de IA; AMD −5,6% e Broadcom −3,9%",
       "categoria": "semis",
-      "fonte": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/0865c6d4-9c16-4d62-8a8b-ec76e4b5ab6a"
+      "fonte": "AP",
+      "url": "https://www.thenewpulsefm.com/2026/11/16/the-closing-bell-stocks-tumble-on-wall-street-as-nvidia-leads-another-sell-off-in-technology-companies/"
     },
     {
-      "texto": "Nikkei recua 2,42% (59.662) na sessão de 16/11",
-      "categoria": "mercados",
+      "texto": "Nvidia cai 4,1% (US$ 156,14) na véspera do balanço; já perdeu US$ 735 bi em valor de mercado desde o escândalo de Huang",
+      "categoria": "semis",
+      "fonte": "AP",
+      "url": "https://www.thenewpulsefm.com/2026/11/16/the-closing-bell-stocks-tumble-on-wall-street-as-nvidia-leads-another-sell-off-in-technology-companies/"
+    },
+    {
+      "texto": "VIX salta 18,7% e fecha a 22,91 na sessão de 16/11",
+      "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Futuros devolvem a alta da reabertura antes da Nvidia (NQ 27.779,25, −0,91%; ES 7.560, −0,30%); Treasury de 10 anos a 5,14%",
+      "texto": "Brent recua 3,5% a US$ 92,44 com incerteza sobre a guerra com o Irã; Treasury de 10 anos cede a 5,13% (de 5,15%)",
       "categoria": "mercados",
-      "fonte": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-as-markets-brace-for-nvidia-earnings-anthropic-ipo-fed-minutes-smmt-nbis-help-mstr-in-focus/cNb7ePKR9Xb"
+      "fonte": "AP",
+      "url": "https://www.thenewpulsefm.com/2026/11/16/the-closing-bell-stocks-tumble-on-wall-street-as-nvidia-leads-another-sell-off-in-technology-companies/"
     },
     {
-      "texto": "ETFs de cripto têm saída semanal de US$ 1,52 bi, US$ 1,07 bi em BTC; BTC a 64.546 no Deribit (−1,5% em 24 h)",
+      "texto": "BTC tocou 61.950 na Bitstamp, mínima de 4 meses, abaixo da média de 200 semanas (68.186); open interest −9,1%; agora 64.810 no Deribit (−0,8% em 24 h)",
       "categoria": "cripto",
-      "fonte": "KuCoin News",
-      "url": "https://www.kucoin.com/news/flash/crypto-etf-outflows-reach-1-52b-as-bitcoin-leads-withdrawals"
+      "fonte": "Cointelegraph",
+      "url": "https://cryptonews.net/news/bitcoin/33757903/"
     }
   ],
   "pontos_sugeridos": [
@@ -79,7 +85,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Alta em dezembro tida como certa; Warsh fala hoje às 14h e a ata sai na quarta (18/11)",
+      "porque": "Alta de 0,25 p.p. em dezembro totalmente precificada; Warsh não deu sinal e a ata sai na quarta (18/11)",
       "revisao": "2026-11-18"
     },
     {
@@ -91,33 +97,34 @@
       "revisao": "2026-11-17"
     },
     {
+      "chave": "restricao-acesso-remoto-chips",
+      "tema": "Novas restrições dos EUA a chips de IA",
+      "vies": "bear",
+      "peso": 2,
+      "porque": "Regra contra acesso remoto e licença para 5 países derrubou o SOX 5,28%; Trump encontra Xi na quinta",
+      "revisao": "2026-11-19"
+    },
+    {
       "chave": "nvidia-investigacao-huang",
       "tema": "Crise de governança na Nvidia",
       "vies": "bear",
       "peso": 2,
-      "porque": "Investigação sobre Huang segue aberta e Bessent defende CEO de fora; pesou nos chips asiáticos",
+      "porque": "Nvidia já perdeu US$ 735 bi desde o escândalo; CEO interina conduz o call de amanhã",
       "revisao": "2026-11-17"
     },
     {
       "chave": "selloff-memoria-asia",
       "tema": "Sell-off de memórias na Ásia",
       "vies": "bear",
-      "peso": 2,
-      "porque": "NAND spot em queda, ação de conluio de DRAM avança e estrangeiros vendem forte; KOSPI −3,59%"
+      "peso": 1,
+      "porque": "KOSPI −3,59% hoje; Ásia reabre após o tombo de semis nos EUA"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC perto da mínima de 3 meses",
       "vies": "bear",
       "peso": 2,
-      "porque": "BTC a 64.546, perto da mínima de 61.802 de sábado, com saídas seguidas dos ETFs"
-    },
-    {
-      "chave": "petroleo-hormuz",
-      "tema": "Escalada Irã-EUA no Golfo",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Drones contra base dos EUA no Bahrein e alegações de minas; Irã acena com plano para reabrir Hormuz"
+      "porque": "BTC abaixo da média de 200 semanas, open interest em queda e saídas seguidas dos ETFs"
     }
   ],
   "nota_sugerida": -3,
