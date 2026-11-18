@@ -1,62 +1,62 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-18T10:43:11Z",
+  "gerado_em": "2026-11-18T23:43:17Z",
   "data": "2026-11-18",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "John Williams (Fed de Nova York) disse em 17/11 que o Fed provavelmente precisará subir os juros de novo, mas sem ritmo agressivo; mercado precifica quase 100% de alta de 0,25 p.p. em dezembro",
-      "categoria": "bc",
-      "fonte": "Reuters",
-      "url": "https://www.investing.com/news/economy-news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-5035347"
-    },
-    {
-      "texto": "Ata do FOMC de 28/10 sai hoje (18/11) às 16h de Brasília (14h em Nova York)",
+      "texto": "Anthropic precificou o IPO a US$ 83 por ação, acima da faixa de US$ 70–78, com oferta ampliada; estreia na Nasdaq (ANT) prevista para amanhã (19/11)",
       "categoria": "agenda",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/primer-fomc-minutes-due-wednesday-1900gmt1400est"
+      "fonte": "Korea Times (Reuters)",
+      "url": "https://www.koreatimes.co.kr/world/20261119/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says"
     },
     {
-      "texto": "IPO da Anthropic é precificado hoje (18/11), com estreia na Nasdaq na quinta (19/11); relatos falam em preço acima da faixa de US$ 70–78 e valor de até US$ 1,4 tri",
+      "texto": "ETFs de BTC à vista tiveram saída líquida de US$ 30,4 mi em 17/11, após US$ 1,91 bi de resgates em sete sessões seguidas (05 a 13/11)",
+      "categoria": "cripto",
+      "fonte": "crypto.news (Farside)",
+      "url": "https://crypto.news/bitcoin-price-stuck-below-65000-as-etf-outflows-and-bearish-signals-persist/"
+    },
+    {
+      "texto": "Próxima reunião do Fed em 08 e 09/12; ata indica que dois membros admitem alta maior que 0,25 p.p. se a inflação vier desfavorável",
       "categoria": "agenda",
-      "fonte": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/economy/others/20261118/kospi-retakes-5000-after-nvidia-earnings-results-spur-chip-rally"
-    },
-    {
-      "texto": "Xinhua confirma encontro de Xi com Trump e Putin em Shenzhen na quinta (19/11, data local)",
-      "categoria": "geopolitica",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/china-confirms-that-chinese-president-xi-is-to-meet-us-president-trump-and-russian-president-putin-in-shenzhen-on-thursday-according-to-xinhua"
-    },
-    {
-      "texto": "Presidente do conselho da Nvidia, Harvey Jones, descartou na teleconferência de resultados a volta de Jensen Huang ao cargo de CEO",
-      "categoria": "semis",
-      "fonte": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/economy/others/20261118/kospi-retakes-5000-after-nvidia-earnings-results-spur-chip-rally"
+      "fonte": "Yahoo Finance (IBTimes)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-561-points-nvidia-214805724.html"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Nvidia projeta receita de US$ 130 bi (±3%) no 4º tri fiscal, acima do consenso LSEG de US$ 125,25 bi; ação sobe 3,7% no pré-mercado, com AMD +3%, Micron +3,4% e Broadcom +2,5%",
-      "categoria": "semis",
-      "fonte": "Reuters",
-      "url": "https://www.investing.com/news/economy-news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-5035347"
+      "texto": "Ata do FOMC de outubro: quase todos os membros veem novas altas de juros se a economia evoluir como esperado; Dow −1,11% (50.198,17) e S&P 500 −0,23% (7.323,63), 5ª queda seguida",
+      "categoria": "bc",
+      "fonte": "Yahoo Finance (IBTimes)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-561-points-nvidia-214805724.html"
     },
     {
-      "texto": "Futuros em alta na sessão de 18/11: NQ +1,06% (27.363,75) e ES +0,58% (7.401,5); VIX recua 6,9%, a 23,7",
+      "texto": "Nvidia reverteu a alta do pré-mercado e fechou em −2,9% em 18/11, apesar do guidance acima do consenso; Nasdaq +0,42% (24.429,88) e SOX +0,1%",
+      "categoria": "semis",
+      "fonte": "Yahoo Finance (IBTimes)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-561-points-nvidia-214805724.html"
+    },
+    {
+      "texto": "Dólar na máxima de 19 meses após a ata; ouro −3,51% (US$ 3.728,60) e Treasury de 10 anos a 5,10% (−2 bps)",
       "categoria": "mercados",
+      "fonte": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
+    },
+    {
+      "texto": "UnitedHealth −10,21% e Humana −12,98% após proposta federal de ampliar auditorias do Medicare Advantage, pesando no Dow",
+      "categoria": "mercados",
+      "fonte": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
+    },
+    {
+      "texto": "BTC a 62.949,5 (−3,22% em 24 h), perto da mínima de 3 meses de 14/11 (61.802); DVOL +5,87%, a 45,8",
+      "categoria": "cripto",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "KOSPI volta acima de 5.000 em 18/11: +1,99% (5.067,44), com SK hynix +4,19% e Samsung +2,31% após o balanço da Nvidia; Nikkei +0,28%",
+      "texto": "Futuros na sessão de 18/11: NQ +0,74% (27.388,75) e ES +0,33% (7.364,75); VIX fecha em 24,56 (−3,53%)",
       "categoria": "mercados",
-      "fonte": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/economy/others/20261118/kospi-retakes-5000-after-nvidia-earnings-results-spur-chip-rally"
-    },
-    {
-      "texto": "ES marcou mínima de 3 meses em 17/11 (7.308)",
-      "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
   ],
@@ -66,22 +66,15 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Williams vê nova alta como provável; alta de dezembro quase toda precificada; ata do FOMC hoje às 16h de Brasília",
-      "revisao": "2026-11-18"
-    },
-    {
-      "chave": "balanco-nvidia-17-11",
-      "tema": "Balanço da Nvidia em 17/11",
-      "vies": "bull",
-      "peso": 2,
-      "porque": "Guidance de US$ 130 bi acima do consenso; NVDA +3,7% no pré-mercado, NQ +1,06% e KOSPI +1,99%"
+      "porque": "Ata confirma que quase todos veem novas altas e dois admitem alta maior que 0,25 p.p.; dólar na máxima de 19 meses",
+      "revisao": "2026-12-09"
     },
     {
       "chave": "ipo-anthropic",
       "tema": "IPO da Anthropic",
       "vies": "neutro",
       "peso": 2,
-      "porque": "Precificação hoje e estreia na Nasdaq em 19/11; demanda forte e estreia firme → bull, preço fraco ou estreia ruim → bear",
+      "porque": "Precificado a US$ 83, acima da faixa; estreia amanhã (19/11): estreia firme → bull, estreia fraca ou drenagem de liquidez → bear",
       "revisao": "2026-11-19"
     },
     {
@@ -89,14 +82,14 @@
       "tema": "Sequência de quedas em Wall Street",
       "vies": "bear",
       "peso": 1,
-      "porque": "4 quedas seguidas e ES na mínima de 3 meses em 17/11; perde força com futuros em alta e VIX abaixo de 25"
+      "porque": "S&P 500 na 5ª queda seguida, a maior sequência desde junho; Nasdaq e futuros em leve alta limitam o tema"
     },
     {
       "chave": "restricao-acesso-remoto-chips",
       "tema": "Novas restrições dos EUA a chips de IA",
       "vies": "bear",
       "peso": 1,
-      "porque": "Regra do BIS e plano de bloquear equipamento chinês de data center; encontro Xi-Trump-Putin em Shenzhen na quinta",
+      "porque": "Regra do BIS segue no radar; encontro Xi-Trump-Putin em Shenzhen amanhã (19/11) pode mexer no tema",
       "revisao": "2026-11-19"
     },
     {
@@ -104,9 +97,9 @@
       "tema": "BTC perto da mínima de 3 meses",
       "vies": "bear",
       "peso": 2,
-      "porque": "BTC a 64.226, estável em 24 h (−0,01%) e sem acompanhar a alta dos futuros; mínima de 61.802 em 14/11"
+      "porque": "BTC −3,22% em 24 h, a 62.949,5, perto da mínima de 61.802 de 14/11; resgates nos ETFs continuam"
     }
   ],
-  "nota_sugerida": -2,
+  "nota_sugerida": -3,
   "escala_nota": 7
 }
