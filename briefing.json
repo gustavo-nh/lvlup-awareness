@@ -1,62 +1,78 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-18T23:43:17Z",
-  "data": "2026-11-18",
-  "janela": "noite",
+  "gerado_em": "2026-11-19T10:44:03Z",
+  "data": "2026-11-19",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Anthropic precificou o IPO a US$ 83 por ação, acima da faixa de US$ 70–78, com oferta ampliada; estreia na Nasdaq (ANT) prevista para amanhã (19/11)",
+      "texto": "Anthropic estreia hoje (19/11) na Nasdaq (ANT) após precificar a US$ 83, acima da faixa de US$ 70–78; oferta de US$ 81 bi, a maior da história, com valor de cerca de US$ 1,5 tri",
       "categoria": "agenda",
-      "fonte": "Korea Times (Reuters)",
-      "url": "https://www.koreatimes.co.kr/world/20261119/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says"
+      "fonte": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
     },
     {
-      "texto": "ETFs de BTC à vista tiveram saída líquida de US$ 30,4 mi em 17/11, após US$ 1,91 bi de resgates em sete sessões seguidas (05 a 13/11)",
-      "categoria": "cripto",
-      "fonte": "crypto.news (Farside)",
-      "url": "https://crypto.news/bitcoin-price-stuck-below-65000-as-etf-outflows-and-bearish-signals-persist/"
+      "texto": "Irã voltou a atacar: drones contra a base aérea de Ali Al Salem (Kuwait) e alvos no Bahrein em 18/11, interceptados; Trump envia terceiro porta-aviões após dois meses sem ataques",
+      "categoria": "geopolitica",
+      "fonte": "AP (via Boston Globe)",
+      "url": "https://www.bostonglobe.com/2026/11/18/business/us-iran-gulf-attacks-kuwait/"
     },
     {
-      "texto": "Próxima reunião do Fed em 08 e 09/12; ata indica que dois membros admitem alta maior que 0,25 p.p. se a inflação vier desfavorável",
+      "texto": "Cúpula Xi-Trump-Putin em Shenzhen terminou após cerca de 1h20 sem declaração conjunta; Putin citou a Ucrânia e analistas não esperam acordos relevantes",
+      "categoria": "geopolitica",
+      "fonte": "UNN (Reuters)",
+      "url": "https://unn.ua/en/news/the-trilateral-meeting-between-trump-xi-and-putin-has-ended"
+    },
+    {
+      "texto": "Mercado precifica alta de 0,25 p.p. do Fed em dezembro como quase certa e cerca de 8% de chance de 0,50 p.p. (LSEG)",
+      "categoria": "bc",
+      "fonte": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+    },
+    {
+      "texto": "Hoje (19/11) às 10h30 de Brasília: pedidos de seguro-desemprego (consenso 197 mil; anterior 200 mil) e Philly Fed de novembro (consenso 23,2; anterior 20,9); Walmart antes da abertura",
       "categoria": "agenda",
-      "fonte": "Yahoo Finance (IBTimes)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-561-points-nvidia-214805724.html"
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html"
+    },
+    {
+      "texto": "Falas hoje (19/11) de Hammack, Goolsbee e Paulson (Fed) e de Lagarde (BCE)",
+      "categoria": "agenda",
+      "fonte": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-release-16th---20th-november-2026"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Ata do FOMC de outubro: quase todos os membros veem novas altas de juros se a economia evoluir como esperado; Dow −1,11% (50.198,17) e S&P 500 −0,23% (7.323,63), 5ª queda seguida",
-      "categoria": "bc",
-      "fonte": "Yahoo Finance (IBTimes)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-561-points-nvidia-214805724.html"
-    },
-    {
-      "texto": "Nvidia reverteu a alta do pré-mercado e fechou em −2,9% em 18/11, apesar do guidance acima do consenso; Nasdaq +0,42% (24.429,88) e SOX +0,1%",
-      "categoria": "semis",
-      "fonte": "Yahoo Finance (IBTimes)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-561-points-nvidia-214805724.html"
-    },
-    {
-      "texto": "Dólar na máxima de 19 meses após a ata; ouro −3,51% (US$ 3.728,60) e Treasury de 10 anos a 5,10% (−2 bps)",
+      "texto": "Futuros sobem com a expectativa pela estreia da Anthropic: NQ +2,05% (27.743,25) e ES +1,15% (7.424,75) na sessão de 19/11; VIX cai 10,22%, a 22,05",
       "categoria": "mercados",
-      "fonte": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
-    },
-    {
-      "texto": "UnitedHealth −10,21% e Humana −12,98% após proposta federal de ampliar auditorias do Medicare Advantage, pesando no Dow",
-      "categoria": "mercados",
-      "fonte": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"
-    },
-    {
-      "texto": "BTC a 62.949,5 (−3,22% em 24 h), perto da mínima de 3 meses de 14/11 (61.802); DVOL +5,87%, a 45,8",
-      "categoria": "cripto",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Futuros na sessão de 18/11: NQ +0,74% (27.388,75) e ES +0,33% (7.364,75); VIX fecha em 24,56 (−3,53%)",
+      "texto": "Taiex despencou 4,4% (−1.768 pontos, a 38.426,89), 7ª maior queda em pontos da história; TSMC −3,45%, MediaTek −5,58%, venda de estrangeiros em IA e chips",
+      "categoria": "semis",
+      "fonte": "Focus Taiwan (CNA)",
+      "url": "https://focustaiwan.tw/business/202611190016"
+    },
+    {
+      "texto": "Resto da Ásia em alta em 19/11: KOSPI +1,39% (5.137,89) e Nikkei +0,71% (59.444,21)",
       "categoria": "mercados",
+      "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "Na Europa, ASML, Infineon e Siemens Energy sobem cerca de 3%; Treasury de 10 anos recua a 5,07%",
+      "categoria": "semis",
+      "fonte": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+    },
+    {
+      "texto": "ES fez mínima de 3 meses em 18/11 (7.305,25), após nova mínima em 17/11 (7.308)",
+      "categoria": "marco_preco",
+      "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "BTC a 63.767 (−0,71% em 24 h), ainda acima da mínima de 3 meses de 14/11 (61.802); DVOL a 46,1 (+3,85%)",
+      "categoria": "cripto",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
   ],
@@ -66,7 +82,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Ata confirma que quase todos veem novas altas e dois admitem alta maior que 0,25 p.p.; dólar na máxima de 19 meses",
+      "porque": "Alta de 0,25 p.p. em dezembro quase certa e chance de 0,50 p.p. no radar; Treasury de 10 anos acima de 5%",
       "revisao": "2026-12-09"
     },
     {
@@ -74,30 +90,36 @@
       "tema": "IPO da Anthropic",
       "vies": "neutro",
       "peso": 2,
-      "porque": "Precificado a US$ 83, acima da faixa; estreia amanhã (19/11): estreia firme → bull, estreia fraca ou drenagem de liquidez → bear",
+      "porque": "Estreia hoje após oferta recorde de US$ 81 bi; futuros já sobem: estreia firme → bull, estreia fraca ou drenagem de liquidez → bear",
       "revisao": "2026-11-19"
     },
     {
-      "chave": "sequencia-quedas-wall-street",
-      "tema": "Sequência de quedas em Wall Street",
+      "chave": "selloff-semis-asia",
+      "tema": "Sell-off de semis na Ásia",
       "vies": "bear",
-      "peso": 1,
-      "porque": "S&P 500 na 5ª queda seguida, a maior sequência desde junho; Nasdaq e futuros em leve alta limitam o tema"
+      "peso": 2,
+      "porque": "Taiex −4,4% com TSMC abaixo da média de 240 dias e venda forte de estrangeiros, mesmo após o balanço da Nvidia"
     },
     {
       "chave": "restricao-acesso-remoto-chips",
       "tema": "Novas restrições dos EUA a chips de IA",
       "vies": "bear",
       "peso": 1,
-      "porque": "Regra do BIS segue no radar; encontro Xi-Trump-Putin em Shenzhen amanhã (19/11) pode mexer no tema",
-      "revisao": "2026-11-19"
+      "porque": "Controles de exportação de 15/11 seguem pesando no setor; cúpula de Shenzhen terminou sem acordo anunciado"
+    },
+    {
+      "chave": "escalada-ira-golfo",
+      "tema": "Nova escalada do Irã no Golfo",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "Ataques ao Kuwait e ao Bahrein após dois meses de trégua e reforço militar dos EUA elevam o risco de retomada da guerra"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC perto da mínima de 3 meses",
       "vies": "bear",
-      "peso": 2,
-      "porque": "BTC −3,22% em 24 h, a 62.949,5, perto da mínima de 61.802 de 14/11; resgates nos ETFs continuam"
+      "peso": 1,
+      "porque": "BTC estabilizou em 63.767, mas segue perto da mínima de 61.802 de 14/11"
     }
   ],
   "nota_sugerida": -3,
