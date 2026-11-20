@@ -65,6 +65,21 @@
       "em": "2026-11-20T10:41:00Z",
       "status": "enviado",
       "texto": "⚠️ VIX em 29,26 (gatilho: acima de 25,0)"
+    },
+    "NQ|variacao_dia_pct|queda|2026-11-20": {
+      "em": "2026-11-20T19:56:39Z",
+      "status": "enviado",
+      "texto": "🔴 NQ −4,7% no dia (gatilho: queda > 2,5%) · 25.364,25"
+    },
+    "ES|variacao_dia_pct|queda|2026-11-20": {
+      "em": "2026-11-20T19:56:39Z",
+      "status": "enviado",
+      "texto": "🔴 ES −2,9% no dia (gatilho: queda > 2,5%) · 6.985,50"
+    },
+    "SOX|variacao_dia_pct|queda|2026-11-20": {
+      "em": "2026-11-20T19:56:39Z",
+      "status": "enviado",
+      "texto": "🔴 SOX −9,2% no dia (gatilho: queda > 4,0%) · 8.557,66"
     }
   },
   "ultima_config_valida": {
