@@ -1,26 +1,26 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-20T02:57:19Z",
-  "gerado_em_brt": "2026-11-19 23:57",
+  "gerado_em": "2026-11-20T10:41:00Z",
+  "gerado_em_brt": "2026-11-20 07:41",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 26393.75,
-      "hora_ultimo": "2026-11-20T02:47:17Z",
-      "sessao": "2026-11-19",
+      "ultimo": 26287.25,
+      "hora_ultimo": "2026-11-20T10:30:57Z",
+      "sessao": "2026-11-20",
       "fechamento_anterior": 26600.25,
-      "variacao_dia_pct": -0.78,
+      "variacao_dia_pct": -1.18,
       "max_3m": 31616.5,
-      "min_3m": 26354.0,
+      "min_3m": 26137.25,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
         {
-          "data": "2026-11-19",
+          "data": "2026-11-20",
           "tipo": "min_3m",
-          "valor": 26354.0
+          "valor": 26137.25
         }
       ],
       "desatualizado": false,
@@ -29,13 +29,13 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 7172.5,
-      "hora_ultimo": "2026-11-20T02:47:16Z",
-      "sessao": "2026-11-19",
+      "ultimo": 7165.25,
+      "hora_ultimo": "2026-11-20T10:30:58Z",
+      "sessao": "2026-11-20",
       "fechamento_anterior": 7197.25,
-      "variacao_dia_pct": -0.34,
+      "variacao_dia_pct": -0.44,
       "max_3m": 7897.5,
-      "min_3m": 7166.75,
+      "min_3m": 7138.75,
       "ath": 7897.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
@@ -52,7 +52,12 @@
         {
           "data": "2026-11-19",
           "tipo": "min_3m",
-          "valor": 7166.75
+          "valor": 7167.75
+        },
+        {
+          "data": "2026-11-20",
+          "tipo": "min_3m",
+          "valor": 7138.75
         }
       ],
       "desatualizado": false,
@@ -77,12 +82,12 @@
     "VIX": {
       "fonte": "yahoo",
       "simbolo": "^VIX",
-      "ultimo": 28.44,
-      "hora_ultimo": "2026-11-19T21:15:01Z",
-      "sessao": "2026-11-19",
-      "fechamento_anterior": 24.56,
-      "variacao_dia_pct": 15.8,
-      "max_3m": 29.1299991607666,
+      "ultimo": 29.26,
+      "hora_ultimo": "2026-11-20T10:25:46Z",
+      "sessao": "2026-11-20",
+      "fechamento_anterior": 28.44,
+      "variacao_dia_pct": 2.88,
+      "max_3m": 30.040000915527344,
       "min_3m": 13.800000190734863,
       "ath": 89.52999877929688,
       "ath_data": "2008-09",
@@ -92,13 +97,13 @@
     "KOSPI": {
       "fonte": "yahoo",
       "simbolo": "^KS11",
-      "ultimo": 4901.89,
-      "hora_ultimo": "2026-11-20T02:37:10Z",
+      "ultimo": 4869.96,
+      "hora_ultimo": "2026-11-20T06:32:50Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 5137.89,
-      "variacao_dia_pct": -4.59,
+      "variacao_dia_pct": -5.21,
       "max_3m": 7171.52001953125,
-      "min_3m": 4889.56982421875,
+      "min_3m": 4831.68994140625,
       "ath": 9385.58984375,
       "ath_data": "2026-06-19",
       "desatualizado": false,
@@ -107,13 +112,13 @@
     "NIKKEI": {
       "fonte": "yahoo",
       "simbolo": "^N225",
-      "ultimo": 56775.04,
-      "hora_ultimo": "2026-11-20T02:35:03Z",
+      "ultimo": 56436.65,
+      "hora_ultimo": "2026-11-20T06:45:03Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 59444.21,
-      "variacao_dia_pct": -4.49,
+      "variacao_dia_pct": -5.06,
       "max_3m": 70798.6171875,
-      "min_3m": 56594.94140625,
+      "min_3m": 56436.6484375,
       "ath": 72831.7265625,
       "ath_data": "2026-06-22",
       "desatualizado": false,
@@ -122,10 +127,10 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 61995.5,
-      "hora_ultimo": "2026-11-20T02:57:22Z",
-      "sessao": "2026-11-19",
-      "variacao_24h_pct": -0.88,
+      "ultimo": 62145.0,
+      "hora_ultimo": "2026-11-20T10:41:02Z",
+      "sessao": "2026-11-20",
+      "variacao_24h_pct": -2.54,
       "max_3m": 87504.5,
       "min_3m": 61204.0,
       "ath": 126307.0,
@@ -143,10 +148,10 @@
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 45.86,
-      "hora_ultimo": "2026-11-20T02:00:00Z",
-      "sessao": "2026-11-19",
-      "variacao_24h_pct": -2.51,
+      "ultimo": 49.0,
+      "hora_ultimo": "2026-11-20T10:00:00Z",
+      "sessao": "2026-11-20",
+      "variacao_24h_pct": 6.11,
       "desatualizado": false,
       "erro": null
     }
