@@ -1,26 +1,26 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-20T10:41:00Z",
-  "gerado_em_brt": "2026-11-20 07:41",
+  "gerado_em": "2026-11-20T11:16:24Z",
+  "gerado_em_brt": "2026-11-20 08:16",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 26287.25,
-      "hora_ultimo": "2026-11-20T10:30:57Z",
+      "ultimo": 26271.5,
+      "hora_ultimo": "2026-11-20T11:06:20Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 26600.25,
-      "variacao_dia_pct": -1.18,
+      "variacao_dia_pct": -1.24,
       "max_3m": 31616.5,
-      "min_3m": 26137.25,
+      "min_3m": 26139.0,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
         {
           "data": "2026-11-20",
           "tipo": "min_3m",
-          "valor": 26137.25
+          "valor": 26139.0
         }
       ],
       "desatualizado": false,
@@ -29,8 +29,8 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 7165.25,
-      "hora_ultimo": "2026-11-20T10:30:58Z",
+      "ultimo": 7165.5,
+      "hora_ultimo": "2026-11-20T11:06:21Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 7197.25,
       "variacao_dia_pct": -0.44,
@@ -82,11 +82,11 @@
     "VIX": {
       "fonte": "yahoo",
       "simbolo": "^VIX",
-      "ultimo": 29.26,
-      "hora_ultimo": "2026-11-20T10:25:46Z",
+      "ultimo": 28.86,
+      "hora_ultimo": "2026-11-20T11:01:16Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 28.44,
-      "variacao_dia_pct": 2.88,
+      "variacao_dia_pct": 1.48,
       "max_3m": 30.040000915527344,
       "min_3m": 13.800000190734863,
       "ath": 89.52999877929688,
@@ -127,10 +127,10 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 62145.0,
-      "hora_ultimo": "2026-11-20T10:41:02Z",
+      "ultimo": 61754.5,
+      "hora_ultimo": "2026-11-20T11:16:27Z",
       "sessao": "2026-11-20",
-      "variacao_24h_pct": -2.54,
+      "variacao_24h_pct": -3.05,
       "max_3m": 87504.5,
       "min_3m": 61204.0,
       "ath": 126307.0,
@@ -148,10 +148,10 @@
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 49.0,
-      "hora_ultimo": "2026-11-20T10:00:00Z",
+      "ultimo": 49.06,
+      "hora_ultimo": "2026-11-20T11:00:00Z",
       "sessao": "2026-11-20",
-      "variacao_24h_pct": 6.11,
+      "variacao_24h_pct": 6.77,
       "desatualizado": false,
       "erro": null
     }
