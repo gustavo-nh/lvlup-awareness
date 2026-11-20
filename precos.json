@@ -1,26 +1,26 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-20T19:56:39Z",
-  "gerado_em_brt": "2026-11-20 16:56",
+  "gerado_em": "2026-11-20T23:40:47Z",
+  "gerado_em_brt": "2026-11-20 20:40",
   "marcos_meses": 3,
   "ativos": {
     "NQ": {
       "fonte": "yahoo",
       "simbolo": "NQ=F",
-      "ultimo": 25364.25,
-      "hora_ultimo": "2026-11-20T19:46:39Z",
+      "ultimo": 25291.0,
+      "hora_ultimo": "2026-11-20T21:59:59Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 26600.25,
-      "variacao_dia_pct": -4.65,
+      "variacao_dia_pct": -4.92,
       "max_3m": 31616.5,
-      "min_3m": 25242.25,
+      "min_3m": 24976.5,
       "ath": 31616.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
         {
           "data": "2026-11-20",
           "tipo": "min_3m",
-          "valor": 25242.25
+          "valor": 24976.5
         }
       ],
       "desatualizado": false,
@@ -29,13 +29,13 @@
     "ES": {
       "fonte": "yahoo",
       "simbolo": "ES=F",
-      "ultimo": 6985.5,
-      "hora_ultimo": "2026-11-20T19:46:39Z",
+      "ultimo": 6966.75,
+      "hora_ultimo": "2026-11-20T21:59:58Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 7197.25,
-      "variacao_dia_pct": -2.94,
+      "variacao_dia_pct": -3.2,
       "max_3m": 7897.5,
-      "min_3m": 6960.0,
+      "min_3m": 6898.0,
       "ath": 7897.5,
       "ath_data": "2026-10-05",
       "marcos_recentes": [
@@ -57,7 +57,7 @@
         {
           "data": "2026-11-20",
           "tipo": "min_3m",
-          "valor": 6960.0
+          "valor": 6898.0
         }
       ],
       "desatualizado": false,
@@ -66,20 +66,20 @@
     "SOX": {
       "fonte": "yahoo",
       "simbolo": "^SOX",
-      "ultimo": 8557.662,
-      "hora_ultimo": "2026-11-20T19:56:37Z",
+      "ultimo": 8408.591,
+      "hora_ultimo": "2026-11-20T22:15:59Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 9419.723,
-      "variacao_dia_pct": -9.15,
+      "variacao_dia_pct": -10.73,
       "max_3m": 13349.9599609375,
-      "min_3m": 8474.5029296875,
+      "min_3m": 8342.2138671875,
       "ath": 14655.2900390625,
       "ath_data": "2026-06-22",
       "marcos_recentes": [
         {
           "data": "2026-11-20",
           "tipo": "min_3m",
-          "valor": 8474.5029296875
+          "valor": 8342.2138671875
         }
       ],
       "desatualizado": false,
@@ -88,12 +88,12 @@
     "VIX": {
       "fonte": "yahoo",
       "simbolo": "^VIX",
-      "ultimo": 33.87,
-      "hora_ultimo": "2026-11-20T19:41:31Z",
+      "ultimo": 35.89,
+      "hora_ultimo": "2026-11-20T21:15:01Z",
       "sessao": "2026-11-20",
       "fechamento_anterior": 28.44,
-      "variacao_dia_pct": 19.09,
-      "max_3m": 35.09000015258789,
+      "variacao_dia_pct": 26.2,
+      "max_3m": 40.029998779296875,
       "min_3m": 13.800000190734863,
       "ath": 89.52999877929688,
       "ath_data": "2008-09",
@@ -121,7 +121,7 @@
       "ultimo": 56436.65,
       "hora_ultimo": "2026-11-20T06:45:03Z",
       "sessao": "2026-11-20",
-      "fechamento_anterior": 59444.21,
+      "fechamento_anterior": 59444.2,
       "variacao_dia_pct": -5.06,
       "max_3m": 70798.6171875,
       "min_3m": 56745.80859375,
@@ -133,12 +133,12 @@
     "BTC": {
       "fonte": "deribit",
       "simbolo": "BTC-PERPETUAL",
-      "ultimo": 61754.5,
-      "hora_ultimo": "2026-11-20T11:16:27Z",
+      "ultimo": 58897.0,
+      "hora_ultimo": "2026-11-20T23:40:49Z",
       "sessao": "2026-11-20",
-      "variacao_24h_pct": -3.05,
+      "variacao_24h_pct": -4.57,
       "max_3m": 87504.5,
-      "min_3m": 61204.0,
+      "min_3m": 57887.5,
       "ath": 126307.0,
       "ath_data": "2025-10-06",
       "marcos_recentes": [
@@ -146,24 +146,26 @@
           "data": "2026-11-19",
           "tipo": "min_3m",
           "valor": 61204.0
+        },
+        {
+          "data": "2026-11-20",
+          "tipo": "min_3m",
+          "valor": 57887.5
         }
       ],
-      "desatualizado": true,
-      "erro": "https://www.deribit.com/api/v2/public/ticker -> HTTP Error 502: Bad Gateway"
+      "desatualizado": false,
+      "erro": null
     },
     "DVOL": {
       "fonte": "deribit",
       "simbolo": "BTC-DVOL",
-      "ultimo": 49.06,
-      "hora_ultimo": "2026-11-20T11:00:00Z",
+      "ultimo": 52.62,
+      "hora_ultimo": "2026-11-20T23:00:00Z",
       "sessao": "2026-11-20",
-      "variacao_24h_pct": 6.77,
-      "desatualizado": true,
-      "erro": "https://www.deribit.com/api/v2/public/get_volatility_index_data -> HTTP Error 502: Bad Gateway"
+      "variacao_24h_pct": 14.69,
+      "desatualizado": false,
+      "erro": null
     }
   },
-  "erros": [
-    "BTC: https://www.deribit.com/api/v2/public/ticker -> HTTP Error 502: Bad Gateway",
-    "DVOL: https://www.deribit.com/api/v2/public/get_volatility_index_data -> HTTP Error 502: Bad Gateway"
-  ]
+  "erros": []
 }
