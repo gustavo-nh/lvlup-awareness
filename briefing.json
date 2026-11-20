@@ -1,86 +1,87 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-20T10:43:18Z",
+  "gerado_em": "2026-11-20T23:44:41Z",
   "data": "2026-11-20",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "CME FedWatch aponta 93,9% de chance de alta de 0,25 pp na decisão do Fed de 09/12; Anna Paulson (Fed da Filadélfia) disse que o Fed precisará subir os juros de novo",
+      "texto": "Lisa Cook (diretora do Fed) disse no Chile que esperar para subir juros arrisca deixar o Fed atrás da curva e que preferia alta já em outubro",
       "categoria": "bc",
-      "fonte": "Trading and Investment News (FXEmpire)",
-      "url": "https://www.tradingandinvestmentnews.co.uk/asian-stocks-crash-bitcoin-61300/"
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
     },
     {
-      "texto": "CPI do Japão subiu a 2,3% em outubro (de 2,1%), maior nível desde novembro de 2025, o que reforça a expectativa de nova alta de juros do BoJ",
+      "texto": "Mercado precifica mais de 95% de chance de alta de juros na reunião do Fed de 09/12",
       "categoria": "bc",
       "fonte": "IBTimes",
-      "url": "https://www.ibtimes.com.au/nikkei-225-falls-ai-stock-selloff-softbank-chipmakers-1878993"
+      "url": "https://www.ibtimes.com/us-stocks-ai-selloff-nasdaq-market-decline-3810038"
     },
     {
-      "texto": "ETFs de bitcoin à vista nos EUA acumulam saídas líquidas de cerca de US$ 2,9 bi em novembro até 18/11 (SoSoValue)",
-      "categoria": "cripto",
-      "fonte": "Trading and Investment News (Decrypt)",
-      "url": "https://www.tradingandinvestmentnews.co.uk/asian-stocks-crash-bitcoin-61300/"
+      "texto": "Reuters informou que a fiscalização da SEC está examinando práticas contábeis da Nvidia, após reportagem anterior do WSJ",
+      "categoria": "semis",
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
     },
     {
-      "texto": "Hoje (20/11) sai a leitura final do sentimento do consumidor da U. Michigan de novembro (consenso 53,3; anterior 51) e a expectativa de inflação em 1 ano (anterior 4,3%)",
-      "categoria": "agenda",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+      "texto": "Sentimento do consumidor da U. Michigan (final de novembro) subiu a 51,5, de 48,0 em outubro, levemente acima do esperado",
+      "categoria": "macro",
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
     },
     {
-      "texto": "Bolsa de Tóquio fecha na segunda (23/11) por feriado nacional e reabre na terça (24/11)",
-      "categoria": "agenda",
-      "fonte": "IBTimes",
-      "url": "https://www.ibtimes.com.au/nikkei-225-falls-ai-stock-selloff-softbank-chipmakers-1878993"
+      "texto": "Brent subiu 0,6% a US$ 92,57 com tensão no Estreito de Hormuz ligada à guerra dos EUA com o Irã",
+      "categoria": "geopolitica",
+      "fonte": "AP (KPBS)",
+      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Pior sessão na Ásia com venda de IA e chips: KOSPI −5,21% (4.869,96), KOSDAQ −5,71% e Taiex −6,63% (35.877,63); Samsung −7,01% e SK Hynix −5,92%",
+      "texto": "S&P 500 −3,7% (6.910,39), Nasdaq −5,3% (22.617,73), negativo no ano, e Dow −1,9% (48.147,33); S&P e Dow em correção e S&P com 7 quedas seguidas",
       "categoria": "mercados",
-      "fonte": "AJU Press",
-      "url": "https://www.ajupress.com/view/20261120161654316"
+      "fonte": "AP (KPBS)",
+      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
     },
     {
-      "texto": "KOSPI acionou sidecar (suspensão de 5 min das ordens de programa) às 11h54 de Seul e KOSDAQ às 13h28, a primeira dupla ativação desde 06/11",
-      "categoria": "mercados",
-      "fonte": "AJU Press",
-      "url": "https://www.ajupress.com/view/20261120161654316"
-    },
-    {
-      "texto": "Nikkei −5,06% (56.436,65), menor nível desde abril e queda semanal acima de 7%; SoftBank caiu mais de 16% e Advantest −10,5%",
+      "texto": "Índice de semis da Filadélfia −10,7%; Nvidia −13,8% (nona queda em 10 sessões), Micron −13,9%, AMD −13,3% e Broadcom −12,1%",
       "categoria": "semis",
-      "fonte": "IBTimes",
-      "url": "https://www.ibtimes.com.au/nikkei-225-falls-ai-stock-selloff-softbank-chipmakers-1878993"
+      "fonte": "AP (KPBS)",
+      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
     },
     {
-      "texto": "Anthropic (ANT) recuou cerca de 5% no after-hours, abaixo da mínima de quinta; futuros americanos seguem em queda com receio sobre gastos em IA",
+      "texto": "TSMC (ADR) −9,3% e ETF de Taiwan (EWT) −10,9%; Intuit −12,8% após cortar previsão e vender a Mailchimp",
+      "categoria": "semis",
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
+    },
+    {
+      "texto": "Anthropic (ANT) caiu 9,1% a US$ 88,30 no 2º pregão, ainda acima do preço do IPO (US$ 83) e cerca de 23% abaixo do pico de quinta",
       "categoria": "mercados",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-anthropic-094420820.html"
+      "fonte": "AP (KPBS)",
+      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
     },
     {
-      "texto": "Futuros em queda na sessão de 20/11: NQ a 26.287,25 (−1,18%) e ES a 7.165,25 (−0,44%); VIX a 29,26 (+2,88%), acima de 25",
+      "texto": "Treasury de 10 anos recuou a 4,93% (de 5,04% na quinta) com a fuga para segurança",
       "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit)"
+      "fonte": "AP (KPBS)",
+      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
     },
     {
-      "texto": "NQ fez mínima de 3 meses em 20/11 (26.137,25) e ES renovou a mínima de 3 meses pelo quarto dia seguido (7.138,75)",
+      "texto": "Sessão de 20/11: NQ −4,92% (25.291) e ES −3,2% (6.966,75), ambos na mínima de 3 meses (24.976,5 e 6.898); SOX na mínima de 3 meses (8.342,2)",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "BTC fez mínima de 3 meses em 19/11 (61.204) e está a 62.145 (−2,54% em 24 h); DVOL a 49",
+      "texto": "VIX a 35,89 (+26,2% no dia), acima de 25; BTC na mínima de 3 meses em 20/11 (57.887,5), a 58.897 (−4,57% em 24 h); DVOL a 52,6",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     },
     {
-      "texto": "Mais de US$ 175 mi em posições compradas alavancadas em cripto foram liquidadas em 4 h com o BTC na mínima desde 03/07; índice de medo e ganância em 12",
+      "texto": "BTC caiu abaixo de US$ 60 mil pela primeira vez desde o início de julho; ETF de bitcoin da BlackRock teve saída recorde de US$ 541,1 mi",
       "categoria": "cripto",
-      "fonte": "Trading and Investment News",
-      "url": "https://www.tradingandinvestmentnews.co.uk/asian-stocks-crash-bitcoin-61300/"
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
     }
   ],
   "pontos_sugeridos": [
@@ -89,7 +90,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "FedWatch precifica 93,9% de alta em 09/12 e Paulson defende novas altas; BoJ também sob pressão com CPI japonês em alta",
+      "porque": "Mais de 95% de chance de alta em 09/12 e Cook defende não esperar para subir juros",
       "revisao": "2026-12-09"
     },
     {
@@ -97,35 +98,28 @@
       "tema": "Sell-off de semis e IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "KOSPI −5,21%, Taiex −6,63% e Nikkei −5,06% com sidecar na Coreia; NQ na mínima de 3 meses no pré-mercado"
-    },
-    {
-      "chave": "ipo-anthropic",
-      "tema": "IPO da Anthropic",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Ação recua cerca de 5% no after-hours e não reanimou o setor de IA"
+      "porque": "SOX −10,7% após a queda de mais de 5% na Ásia; Nasdaq zera o ano e NQ, ES e SOX na mínima de 3 meses"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC na mínima de 3 meses",
       "vies": "bear",
       "peso": 2,
-      "porque": "Nova mínima de 3 meses (61.204), liquidações de compradas e saídas de ETFs de cerca de US$ 2,9 bi no mês"
+      "porque": "BTC abaixo de US$ 60 mil, nova mínima de 3 meses e saída recorde no ETF da BlackRock"
     },
     {
-      "chave": "restricao-acesso-remoto-chips",
-      "tema": "Novas restrições dos EUA a chips de IA",
+      "chave": "ipo-anthropic",
+      "tema": "IPO da Anthropic",
       "vies": "bear",
       "peso": 1,
-      "porque": "Controles de exportação seguem citados entre as causas da venda de chips na Ásia"
+      "porque": "Ação cai 9,1% no segundo pregão e não segurou o setor de IA"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Risco de retomada da guerra segue no radar, embora o petróleo caminhe para a terceira semana de queda"
+      "porque": "Tensão em Hormuz segue sustentando o Brent acima de US$ 92"
     }
   ],
   "nota_sugerida": -3,
