@@ -1,56 +1,62 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-21T10:43:13Z",
+  "gerado_em": "2026-11-21T23:43:14Z",
   "data": "2026-11-21",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Petroleiro saindo do Estreito de Hormuz foi atingido por projétil desconhecido a 8 milhas náuticas de Khasab (Omã) na sexta (20/11), com incêndio a bordo, segundo a UKMTO",
-      "categoria": "geopolitica",
-      "fonte": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/us-israel-war-on-iran-saudi-faces-houthi-missiles-trump-delays-iran-decision-1.500754425"
-    },
-    {
-      "texto": "Negociação EUA-Irã travada no estoque de urânio enriquecido; Irã só reabre Hormuz se Washington cumprir suas condições, com Catar e Paquistão como mediadores",
-      "categoria": "geopolitica",
-      "fonte": "ANI (WebIndia123)",
-      "url": "https://news.webindia123.com/news/Articles/World/20261121/4522699.html"
-    },
-    {
-      "texto": "Coalizão liderada pela Arábia Saudita diz ter interceptado três mísseis balísticos dos houthis contra Riad na madrugada",
+      "texto": "UKMTO relatou no sábado (21/11) dois petroleiros atingidos perto de Khasab (Omã), sem vítimas; Irã diz que outro navio pegou fogo após bater em mina; cerca de 25 incidentes em uma semana",
       "categoria": "geopolitica",
       "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+      "url": "https://aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
     },
     {
-      "texto": "Índice de Medo e Ganância do cripto caiu a 5/100, igualando a mínima histórica (8 na véspera e 14 uma semana antes)",
-      "categoria": "cripto",
-      "fonte": "Incrypted",
-      "url": "https://incrypted.com/en/bitcoin-fell-to-nearly-55-000-liquidations-topped-2-5b-and-fear-index-hit-all-time-low/"
+      "texto": "Guarda Revolucionária diz ter derrubado um drone MQ-9 dos EUA sobre Hormuz e um MQ-1 sobre Qeshm no sábado; sem comentário imediato dos EUA",
+      "categoria": "geopolitica",
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
     },
     {
-      "texto": "Strategy (MSTR) tem 850.849 BTC com custo médio de US$ 75.452, cerca de US$ 14 bi abaixo do valor pago; ação na mínima de 52 semanas",
-      "categoria": "cripto",
-      "fonte": "Coindoo",
-      "url": "https://coindoo.com/bitcoin-price-sinks-to-55k-as-its-2026-floor-gives-way/"
+      "texto": "Chanceler Araghchi lista sete condições para reabrir Hormuz (fim da guerra, sanções e bloqueio) e descarta enviar urânio a 60% ao exterior; Tesouro dos EUA sanciona quatro iranianos",
+      "categoria": "geopolitica",
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
     },
     {
-      "texto": "ETFs de bitcoin à vista nos EUA acumulam saídas de cerca de US$ 3,47 bi em novembro",
+      "texto": "ETFs de bitcoin à vista nos EUA tiveram saques líquidos de cerca de US$ 1,1 bi na última semana",
       "categoria": "cripto",
-      "fonte": "Coindoo",
-      "url": "https://coindoo.com/bitcoin-price-sinks-to-55k-as-its-2026-floor-gives-way/"
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+    },
+    {
+      "texto": "Quarta (25/11) às 10h30 de Brasília (08h30 em Nova York): PCE de outubro, 2ª leitura do PIB do 3º tri, bens duráveis e pedidos de seguro-desemprego; Livro Bege às 16h",
+      "categoria": "agenda",
+      "fonte": "Nacionale",
+      "url": "https://www.nacionale.com/en/articles/what-could-move-stock-market-next-week-thanksgiving-pce-gdp-dell-earnings-november-23"
+    },
+    {
+      "texto": "Balanços: Analog Devices na terça (24/11) antes da abertura; Dell e HP na terça após o fechamento; HPE na segunda (23/11) após o fechamento",
+      "categoria": "agenda",
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
+    },
+    {
+      "texto": "Bolsas dos EUA fechadas na quinta (26/11, Thanksgiving) e fechamento antecipado na sexta (27/11) às 15h de Brasília (13h em Nova York)",
+      "categoria": "agenda",
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "BTC chegou a US$ 55.130 no sábado (21/11), menor nível desde setembro de 2024, rompendo a mínima de 2026; liquidações de US$ 2,53 bi em 24 h, US$ 2,27 bi em compradas",
+      "texto": "BTC subiu cerca de 9% desde a mínima de US$ 55.130 e voltou acima de US$ 60.000; liquidações de US$ 1,8 bi em 24 h, US$ 1,3 bi em compradas",
       "categoria": "cripto",
-      "fonte": "Coindoo",
-      "url": "https://coindoo.com/bitcoin-price-sinks-to-55k-as-its-2026-floor-gives-way/"
+      "fonte": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
     },
     {
-      "texto": "BTC renovou a mínima de 3 meses (55.000 na Deribit) e está a 57.764,5 (−7,06% em 24 h); DVOL a 58 (+18,4% em 24 h)",
+      "texto": "BTC a 60.124,5 (+2,08% em 24 h) após a mínima de 3 meses de 55.000 na Deribit em 20/11; DVOL a 58,1",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -61,7 +67,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Mercado segue precificando mais de 95% de chance de alta em 09/12",
+      "porque": "Mercado segue precificando alta na reunião de 08-09/12",
       "revisao": "2026-12-09"
     },
     {
@@ -75,15 +81,23 @@
       "chave": "fraqueza-btc",
       "tema": "BTC na mínima de 3 meses",
       "vies": "bear",
-      "peso": 3,
-      "porque": "BTC na mínima desde set/2024, US$ 2,5 bi em liquidações e medo no piso histórico"
+      "peso": 2,
+      "porque": "Repique de ~9% desde a mínima, mas ETFs seguem com saques e o fluxo depende da reabertura das ações"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Petroleiro atingido em Hormuz, mísseis contra Riad e negociação EUA-Irã travada"
+      "porque": "Mais petroleiros atingidos em Hormuz, drones dos EUA abatidos e negociação travada"
+    },
+    {
+      "chave": "pce-25-11",
+      "tema": "PCE e PIB em 25/11",
+      "vies": "neutro",
+      "peso": 2,
+      "porque": "Inflação pesa na aposta de alta do Fed; PCE acima do esperado → bear, abaixo → bull",
+      "revisao": "2026-11-25"
     }
   ],
   "nota_sugerida": -3,
