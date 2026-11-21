@@ -1,87 +1,58 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-20T23:44:41Z",
-  "data": "2026-11-20",
-  "janela": "noite",
-  "modo": "util",
+  "gerado_em": "2026-11-21T10:43:13Z",
+  "data": "2026-11-21",
+  "janela": "manha",
+  "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Lisa Cook (diretora do Fed) disse no Chile que esperar para subir juros arrisca deixar o Fed atrás da curva e que preferia alta já em outubro",
-      "categoria": "bc",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
-    },
-    {
-      "texto": "Mercado precifica mais de 95% de chance de alta de juros na reunião do Fed de 09/12",
-      "categoria": "bc",
-      "fonte": "IBTimes",
-      "url": "https://www.ibtimes.com/us-stocks-ai-selloff-nasdaq-market-decline-3810038"
-    },
-    {
-      "texto": "Reuters informou que a fiscalização da SEC está examinando práticas contábeis da Nvidia, após reportagem anterior do WSJ",
-      "categoria": "semis",
-      "fonte": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
-    },
-    {
-      "texto": "Sentimento do consumidor da U. Michigan (final de novembro) subiu a 51,5, de 48,0 em outubro, levemente acima do esperado",
-      "categoria": "macro",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
-    },
-    {
-      "texto": "Brent subiu 0,6% a US$ 92,57 com tensão no Estreito de Hormuz ligada à guerra dos EUA com o Irã",
+      "texto": "Petroleiro saindo do Estreito de Hormuz foi atingido por projétil desconhecido a 8 milhas náuticas de Khasab (Omã) na sexta (20/11), com incêndio a bordo, segundo a UKMTO",
       "categoria": "geopolitica",
-      "fonte": "AP (KPBS)",
-      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/us-israel-war-on-iran-saudi-faces-houthi-missiles-trump-delays-iran-decision-1.500754425"
+    },
+    {
+      "texto": "Negociação EUA-Irã travada no estoque de urânio enriquecido; Irã só reabre Hormuz se Washington cumprir suas condições, com Catar e Paquistão como mediadores",
+      "categoria": "geopolitica",
+      "fonte": "ANI (WebIndia123)",
+      "url": "https://news.webindia123.com/news/Articles/World/20261121/4522699.html"
+    },
+    {
+      "texto": "Coalizão liderada pela Arábia Saudita diz ter interceptado três mísseis balísticos dos houthis contra Riad na madrugada",
+      "categoria": "geopolitica",
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles"
+    },
+    {
+      "texto": "Índice de Medo e Ganância do cripto caiu a 5/100, igualando a mínima histórica (8 na véspera e 14 uma semana antes)",
+      "categoria": "cripto",
+      "fonte": "Incrypted",
+      "url": "https://incrypted.com/en/bitcoin-fell-to-nearly-55-000-liquidations-topped-2-5b-and-fear-index-hit-all-time-low/"
+    },
+    {
+      "texto": "Strategy (MSTR) tem 850.849 BTC com custo médio de US$ 75.452, cerca de US$ 14 bi abaixo do valor pago; ação na mínima de 52 semanas",
+      "categoria": "cripto",
+      "fonte": "Coindoo",
+      "url": "https://coindoo.com/bitcoin-price-sinks-to-55k-as-its-2026-floor-gives-way/"
+    },
+    {
+      "texto": "ETFs de bitcoin à vista nos EUA acumulam saídas de cerca de US$ 3,47 bi em novembro",
+      "categoria": "cripto",
+      "fonte": "Coindoo",
+      "url": "https://coindoo.com/bitcoin-price-sinks-to-55k-as-its-2026-floor-gives-way/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "S&P 500 −3,7% (6.910,39), Nasdaq −5,3% (22.617,73), negativo no ano, e Dow −1,9% (48.147,33); S&P e Dow em correção e S&P com 7 quedas seguidas",
-      "categoria": "mercados",
-      "fonte": "AP (KPBS)",
-      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
-    },
-    {
-      "texto": "Índice de semis da Filadélfia −10,7%; Nvidia −13,8% (nona queda em 10 sessões), Micron −13,9%, AMD −13,3% e Broadcom −12,1%",
-      "categoria": "semis",
-      "fonte": "AP (KPBS)",
-      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
-    },
-    {
-      "texto": "TSMC (ADR) −9,3% e ETF de Taiwan (EWT) −10,9%; Intuit −12,8% após cortar previsão e vender a Mailchimp",
-      "categoria": "semis",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
-    },
-    {
-      "texto": "Anthropic (ANT) caiu 9,1% a US$ 88,30 no 2º pregão, ainda acima do preço do IPO (US$ 83) e cerca de 23% abaixo do pico de quinta",
-      "categoria": "mercados",
-      "fonte": "AP (KPBS)",
-      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
-    },
-    {
-      "texto": "Treasury de 10 anos recuou a 4,93% (de 5,04% na quinta) com a fuga para segurança",
-      "categoria": "mercados",
-      "fonte": "AP (KPBS)",
-      "url": "https://www.kpbs.org/news/economy/2026/11/20/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year"
-    },
-    {
-      "texto": "Sessão de 20/11: NQ −4,92% (25.291) e ES −3,2% (6.966,75), ambos na mínima de 3 meses (24.976,5 e 6.898); SOX na mínima de 3 meses (8.342,2)",
-      "categoria": "marco_preco",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    },
-    {
-      "texto": "VIX a 35,89 (+26,2% no dia), acima de 25; BTC na mínima de 3 meses em 20/11 (57.887,5), a 58.897 (−4,57% em 24 h); DVOL a 52,6",
-      "categoria": "marco_preco",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    },
-    {
-      "texto": "BTC caiu abaixo de US$ 60 mil pela primeira vez desde o início de julho; ETF de bitcoin da BlackRock teve saída recorde de US$ 541,1 mi",
+      "texto": "BTC chegou a US$ 55.130 no sábado (21/11), menor nível desde setembro de 2024, rompendo a mínima de 2026; liquidações de US$ 2,53 bi em 24 h, US$ 2,27 bi em compradas",
       "categoria": "cripto",
-      "fonte": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
+      "fonte": "Coindoo",
+      "url": "https://coindoo.com/bitcoin-price-sinks-to-55k-as-its-2026-floor-gives-way/"
+    },
+    {
+      "texto": "BTC renovou a mínima de 3 meses (55.000 na Deribit) e está a 57.764,5 (−7,06% em 24 h); DVOL a 58 (+18,4% em 24 h)",
+      "categoria": "marco_preco",
+      "fonte": "precos.json (Yahoo/Deribit)"
     }
   ],
   "pontos_sugeridos": [
@@ -90,7 +61,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Mais de 95% de chance de alta em 09/12 e Cook defende não esperar para subir juros",
+      "porque": "Mercado segue precificando mais de 95% de chance de alta em 09/12",
       "revisao": "2026-12-09"
     },
     {
@@ -98,28 +69,21 @@
       "tema": "Sell-off de semis e IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "SOX −10,7% após a queda de mais de 5% na Ásia; Nasdaq zera o ano e NQ, ES e SOX na mínima de 3 meses"
+      "porque": "SOX −10,7% na sexta e NQ, ES e SOX na mínima de 3 meses; reabertura de domingo testa o tema"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC na mínima de 3 meses",
       "vies": "bear",
-      "peso": 2,
-      "porque": "BTC abaixo de US$ 60 mil, nova mínima de 3 meses e saída recorde no ETF da BlackRock"
-    },
-    {
-      "chave": "ipo-anthropic",
-      "tema": "IPO da Anthropic",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Ação cai 9,1% no segundo pregão e não segurou o setor de IA"
+      "peso": 3,
+      "porque": "BTC na mínima desde set/2024, US$ 2,5 bi em liquidações e medo no piso histórico"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
-      "peso": 1,
-      "porque": "Tensão em Hormuz segue sustentando o Brent acima de US$ 92"
+      "peso": 2,
+      "porque": "Petroleiro atingido em Hormuz, mísseis contra Riad e negociação EUA-Irã travada"
     }
   ],
   "nota_sugerida": -3,
