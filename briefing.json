@@ -1,38 +1,74 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-22T10:48:16Z",
+  "gerado_em": "2026-11-22T23:50:00Z",
   "data": "2026-11-22",
-  "janela": "manha",
-  "modo": "fim_de_semana",
+  "janela": "noite",
+  "modo": "domingo_noite",
   "fatos_relevantes": [
     {
-      "texto": "Guarda Revolucionária diz ter atacado com mísseis e drones bases dos EUA em Al-Riffa e Awali (Bahrein) no sábado (21/11); Bahrein interceptou e relata incêndio industrial, sem vítimas",
+      "texto": "Bahrein agora relata dois feridos (um em estado crítico) no ataque iraniano de sábado (21/11) a área industrial em Sitra; dois petroleiros foram atingidos em Hormuz",
       "categoria": "geopolitica",
-      "fonte": "Sunday Guardian",
-      "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-updates-iranian-attacks-target-us-bases-in-bahrain-as-civilian-industrial-facility-suffers-damage-strait-of-hormuz-reports-fresh-tanker-incidents-325858/"
+      "fonte": "Arab News (AFP)",
+      "url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503"
     },
     {
-      "texto": "Canal 13 de Israel: Exército israelense confirmou planos operacionais conjuntos com o CENTCOM para possível escalada contra o Irã; alerta segue alto, sem decisão de ataque",
+      "texto": "Irã estaria preparando 14 petroleiros para furar o bloqueio naval dos EUA, com risco de confronto com navios americanos; Bahrein interceptou novos ataques aéreos no domingo",
       "categoria": "geopolitica",
-      "fonte": "Sunday Guardian",
-      "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-updates-israel-confirms-joint-operational-plans-with-us-centcom-as-tensions-with-iran-escalate-military-alert-level-remains-high-what-we-know-about-possible-fresh-att-326011/"
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
     },
     {
-      "texto": "Detentores de curto prazo enviaram 92.100 BTC (cerca de US$ 5,34 bi) às exchanges com prejuízo em 21/11; ETFs de BTC à vista tiveram saques líquidos de US$ 1,47 bi na semana de 16 a 20/11",
-      "categoria": "cripto",
-      "fonte": "crypto.news",
-      "url": "https://crypto.news/bitcoin-price-rebounds-55k-2-7b-liquidations/"
+      "texto": "Trump disse à Fox News que os EUA retomam a ação militar contra o Irã depois do Ano-Novo se não houver acordo; sem prazo ou escopo definidos",
+      "categoria": "geopolitica",
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
+    },
+    {
+      "texto": "Ao menos 25 petroleiros foram atingidos em Hormuz e arredores em sete dias; seguro de casco subiu de 0,10-0,25% antes da guerra para 3,5-7,5%",
+      "categoria": "geopolitica",
+      "fonte": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+    },
+    {
+      "texto": "SEC investiga as divulgações da Nvidia após a renúncia de Jensen Huang como CEO, segundo o WSJ (18/11); tema segue pesando sobre semis",
+      "categoria": "semis",
+      "fonte": "The Star (WSJ)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/18/nvidia-facing-sec-probe-after-huang039s-resignation-wsj-reports"
+    },
+    {
+      "texto": "Quarta (25/11) às 10h30 de Brasília (08h30 em Nova York): PCE de outubro e 2ª estimativa do PIB do 3º tri (prévia: 3,4% anualizado); PCE de setembro foi 3,6% a/a, núcleo 3,1%",
+      "categoria": "agenda",
+      "fonte": "Finance Calendar (BEA)",
+      "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-november-2026/"
+    },
+    {
+      "texto": "Quarta (25/11) às 16h de Brasília (14h em Washington): Livro Bege do Fed; nenhuma fala de dirigente do Fed na agenda oficial de 23 a 27/11",
+      "categoria": "agenda",
+      "fonte": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+    },
+    {
+      "texto": "Bolsas dos EUA fechadas na quinta (26/11, Thanksgiving); na sexta (27/11) fecham às 15h de Brasília (13h em Nova York)",
+      "categoria": "agenda",
+      "fonte": "Palma Futures",
+      "url": "https://palmafutures.substack.com/p/sunday-post-recap-and-week-ahead-6d7"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Cripto teve cerca de US$ 2,7 bi em liquidações em 24 h, com US$ 650 mi em uma hora na queda; BTC tocou cerca de 55.127 (CoinGlass) e voltou acima de 60.000",
-      "categoria": "cripto",
-      "fonte": "crypto.news",
-      "url": "https://crypto.news/bitcoin-price-rebounds-55k-2-7b-liquidations/"
+      "texto": "Futuros dos EUA sobem na reabertura de domingo após a maior queda semanal em anos; NQ a 25.735,5 (+2,42%) e ES a 7.038,25 (+1,49%) às 20h30 de Brasília",
+      "categoria": "mercados",
+      "fonte": "Seeking Alpha",
+      "url": "https://www.seekingalpha.com/news/4675416-sp-500-dow-nasdaq-stock-market"
     },
     {
-      "texto": "BTC a 60.664,5 na Deribit (+4,98% em 24 h), acima da mínima de 3 meses de 55.000 em 20/11; DVOL a 55,8 (−5,4% em 24 h)",
+      "texto": "Na semana de 16 a 20/11, Nasdaq-100 caiu 10,4% (pior semana desde mar/2020), S&P 500 −8,6% (6.910,39) e SOX −17,1%, maior queda semanal desde set/2001",
+      "categoria": "mercados",
+      "fonte": "HuggingNews",
+      "url": "https://huggingnews.com/us-markets/us-stock-futures-rebound-with-nasdaq-100-up-22percent-after-worst-week-s-501bab64"
+    },
+    {
+      "texto": "NQ (24.976,5), ES (6.898) e SOX (8.342,2) fizeram mínima de 3 meses em 20/11; VIX fechou a sexta a 35,89 (+26,2%)",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -43,7 +79,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Mercado segue precificando alta na reunião de 08-09/12",
+      "porque": "Mercado segue precificando alta na reunião de 08-09/12; PCE de quarta pode reforçar ou aliviar",
       "revisao": "2026-12-09"
     },
     {
@@ -51,21 +87,21 @@
       "tema": "Sell-off de semis e IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "SOX −10,7% na sexta e NQ, ES e SOX na mínima de 3 meses; reabertura de domingo à noite testa o tema"
-    },
-    {
-      "chave": "fraqueza-btc",
-      "tema": "BTC na mínima de 3 meses",
-      "vies": "bear",
-      "peso": 2,
-      "porque": "Repique acima de 60.000 após US$ 2,7 bi em liquidações, mas ETFs e detentores de curto prazo seguem vendendo"
+      "porque": "SOX −17,1% na semana e Nvidia sob investigação da SEC; futuros repicam na reabertura, mas o tema segue dominante"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Ataque a bases dos EUA no Bahrein, petroleiros atingidos em Hormuz e Israel com planos conjuntos com o CENTCOM"
+      "porque": "Ataques a petroleiros em Hormuz, plano de furar o bloqueio dos EUA e ameaça de Trump de retomar ação militar"
+    },
+    {
+      "chave": "fraqueza-btc",
+      "tema": "BTC na mínima de 3 meses",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "BTC estabilizou perto de 61.000 (+1,8% em 24 h) após tocar 55.000 em 20/11; ETFs vinham com saques semanais"
     },
     {
       "chave": "pce-25-11",
