@@ -1,62 +1,38 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-21T23:43:14Z",
-  "data": "2026-11-21",
-  "janela": "noite",
+  "gerado_em": "2026-11-22T10:48:16Z",
+  "data": "2026-11-22",
+  "janela": "manha",
   "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "UKMTO relatou no sábado (21/11) dois petroleiros atingidos perto de Khasab (Omã), sem vítimas; Irã diz que outro navio pegou fogo após bater em mina; cerca de 25 incidentes em uma semana",
+      "texto": "Guarda Revolucionária diz ter atacado com mísseis e drones bases dos EUA em Al-Riffa e Awali (Bahrein) no sábado (21/11); Bahrein interceptou e relata incêndio industrial, sem vítimas",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
+      "fonte": "Sunday Guardian",
+      "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-updates-iranian-attacks-target-us-bases-in-bahrain-as-civilian-industrial-facility-suffers-damage-strait-of-hormuz-reports-fresh-tanker-incidents-325858/"
     },
     {
-      "texto": "Guarda Revolucionária diz ter derrubado um drone MQ-9 dos EUA sobre Hormuz e um MQ-1 sobre Qeshm no sábado; sem comentário imediato dos EUA",
+      "texto": "Canal 13 de Israel: Exército israelense confirmou planos operacionais conjuntos com o CENTCOM para possível escalada contra o Irã; alerta segue alto, sem decisão de ataque",
       "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+      "fonte": "Sunday Guardian",
+      "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-updates-israel-confirms-joint-operational-plans-with-us-centcom-as-tensions-with-iran-escalate-military-alert-level-remains-high-what-we-know-about-possible-fresh-att-326011/"
     },
     {
-      "texto": "Chanceler Araghchi lista sete condições para reabrir Hormuz (fim da guerra, sanções e bloqueio) e descarta enviar urânio a 60% ao exterior; Tesouro dos EUA sanciona quatro iranianos",
-      "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
-    },
-    {
-      "texto": "ETFs de bitcoin à vista nos EUA tiveram saques líquidos de cerca de US$ 1,1 bi na última semana",
+      "texto": "Detentores de curto prazo enviaram 92.100 BTC (cerca de US$ 5,34 bi) às exchanges com prejuízo em 21/11; ETFs de BTC à vista tiveram saques líquidos de US$ 1,47 bi na semana de 16 a 20/11",
       "categoria": "cripto",
-      "fonte": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
-    },
-    {
-      "texto": "Quarta (25/11) às 10h30 de Brasília (08h30 em Nova York): PCE de outubro, 2ª leitura do PIB do 3º tri, bens duráveis e pedidos de seguro-desemprego; Livro Bege às 16h",
-      "categoria": "agenda",
-      "fonte": "Nacionale",
-      "url": "https://www.nacionale.com/en/articles/what-could-move-stock-market-next-week-thanksgiving-pce-gdp-dell-earnings-november-23"
-    },
-    {
-      "texto": "Balanços: Analog Devices na terça (24/11) antes da abertura; Dell e HP na terça após o fechamento; HPE na segunda (23/11) após o fechamento",
-      "categoria": "agenda",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
-    },
-    {
-      "texto": "Bolsas dos EUA fechadas na quinta (26/11, Thanksgiving) e fechamento antecipado na sexta (27/11) às 15h de Brasília (13h em Nova York)",
-      "categoria": "agenda",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
+      "fonte": "crypto.news",
+      "url": "https://crypto.news/bitcoin-price-rebounds-55k-2-7b-liquidations/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "BTC subiu cerca de 9% desde a mínima de US$ 55.130 e voltou acima de US$ 60.000; liquidações de US$ 1,8 bi em 24 h, US$ 1,3 bi em compradas",
+      "texto": "Cripto teve cerca de US$ 2,7 bi em liquidações em 24 h, com US$ 650 mi em uma hora na queda; BTC tocou cerca de 55.127 (CoinGlass) e voltou acima de 60.000",
       "categoria": "cripto",
-      "fonte": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+      "fonte": "crypto.news",
+      "url": "https://crypto.news/bitcoin-price-rebounds-55k-2-7b-liquidations/"
     },
     {
-      "texto": "BTC a 60.124,5 (+2,08% em 24 h) após a mínima de 3 meses de 55.000 na Deribit em 20/11; DVOL a 58,1",
+      "texto": "BTC a 60.664,5 na Deribit (+4,98% em 24 h), acima da mínima de 3 meses de 55.000 em 20/11; DVOL a 55,8 (−5,4% em 24 h)",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -75,21 +51,21 @@
       "tema": "Sell-off de semis e IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "SOX −10,7% na sexta e NQ, ES e SOX na mínima de 3 meses; reabertura de domingo testa o tema"
+      "porque": "SOX −10,7% na sexta e NQ, ES e SOX na mínima de 3 meses; reabertura de domingo à noite testa o tema"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC na mínima de 3 meses",
       "vies": "bear",
       "peso": 2,
-      "porque": "Repique de ~9% desde a mínima, mas ETFs seguem com saques e o fluxo depende da reabertura das ações"
+      "porque": "Repique acima de 60.000 após US$ 2,7 bi em liquidações, mas ETFs e detentores de curto prazo seguem vendendo"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Mais petroleiros atingidos em Hormuz, drones dos EUA abatidos e negociação travada"
+      "porque": "Ataque a bases dos EUA no Bahrein, petroleiros atingidos em Hormuz e Israel com planos conjuntos com o CENTCOM"
     },
     {
       "chave": "pce-25-11",
