@@ -1,11 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "SOX|variacao_dia_pct|queda|2026-11-13": {
-      "em": "2026-11-13T15:16:27Z",
-      "status": "enviado",
-      "texto": "🔴 SOX −4,7% no dia (gatilho: queda > 4,0%) · 10.015,74"
-    },
     "BTC|variacao_24h_pct|queda|2026-11-14": {
       "em": "2026-11-15T01:43:05Z",
       "status": "enviado",
@@ -105,6 +100,11 @@
       "em": "2026-11-23T10:41:14Z",
       "status": "enviado",
       "texto": "🟢 ES +2,7% no dia (gatilho: alta > 2,5%) · 7.122,25"
+    },
+    "SOX|variacao_dia_pct|alta|2026-11-23": {
+      "em": "2026-11-23T21:09:41Z",
+      "status": "enviado",
+      "texto": "🟢 SOX +14,0% no dia (gatilho: alta > 4,0%) · 9.588,05"
     }
   },
   "ultima_config_valida": {
