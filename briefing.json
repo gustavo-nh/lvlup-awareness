@@ -1,74 +1,56 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-22T23:50:00Z",
-  "data": "2026-11-22",
-  "janela": "noite",
-  "modo": "domingo_noite",
+  "gerado_em": "2026-11-23T10:43:12Z",
+  "data": "2026-11-23",
+  "janela": "manha",
+  "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Bahrein agora relata dois feridos (um em estado crítico) no ataque iraniano de sábado (21/11) a área industrial em Sitra; dois petroleiros foram atingidos em Hormuz",
-      "categoria": "geopolitica",
-      "fonte": "Arab News (AFP)",
-      "url": "https://www.arabnews.com/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3013503"
-    },
-    {
-      "texto": "Irã estaria preparando 14 petroleiros para furar o bloqueio naval dos EUA, com risco de confronto com navios americanos; Bahrein interceptou novos ataques aéreos no domingo",
-      "categoria": "geopolitica",
-      "fonte": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
-    },
-    {
-      "texto": "Trump disse à Fox News que os EUA retomam a ação militar contra o Irã depois do Ano-Novo se não houver acordo; sem prazo ou escopo definidos",
-      "categoria": "geopolitica",
-      "fonte": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
-    },
-    {
-      "texto": "Ao menos 25 petroleiros foram atingidos em Hormuz e arredores em sete dias; seguro de casco subiu de 0,10-0,25% antes da guerra para 3,5-7,5%",
-      "categoria": "geopolitica",
-      "fonte": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
-    },
-    {
-      "texto": "SEC investiga as divulgações da Nvidia após a renúncia de Jensen Huang como CEO, segundo o WSJ (18/11); tema segue pesando sobre semis",
+      "texto": "Procuradoria da Califórnia intimou a Nvidia em 19/11 e a investigação agora cobre leis civis e criminais; diretor de Inteligência dos EUA chamou a empresa de alvo perpétuo de desvio de chips",
       "categoria": "semis",
-      "fonte": "The Star (WSJ)",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/18/nvidia-facing-sec-probe-after-huang039s-resignation-wsj-reports"
+      "fonte": "TipRanks",
+      "url": "https://www.tipranks.com/news/nvidia-stock-nvda-rebounds-8-even-as-u-s-intelligence-chief-calls-it-a-perpetual-target-amid-expanded-probe"
     },
     {
-      "texto": "Quarta (25/11) às 10h30 de Brasília (08h30 em Nova York): PCE de outubro e 2ª estimativa do PIB do 3º tri (prévia: 3,4% anualizado); PCE de setembro foi 3,6% a/a, núcleo 3,1%",
-      "categoria": "agenda",
-      "fonte": "Finance Calendar (BEA)",
-      "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-november-2026/"
+      "texto": "Goldman cortou o preço-alvo da Samsung (500 mil → 350 mil won) e da SK Hynix (3,5 mi → 2 mi won) e passou a projetar queda de 19% no preço da DRAM em 2028",
+      "categoria": "semis",
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262317507-south-korea-stocks-lower-kospi-samsung-tradingkey"
     },
     {
-      "texto": "Quarta (25/11) às 16h de Brasília (14h em Washington): Livro Bege do Fed; nenhuma fala de dirigente do Fed na agenda oficial de 23 a 27/11",
-      "categoria": "agenda",
-      "fonte": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/2026-November.htm"
+      "texto": "ETFs de BTC à vista nos EUA tiveram saída líquida de cerca de US$ 1,79 bi entre 16 e 20/11, com US$ 1,37 bi só no IBIT; sexta (20/11) teve a maior saída da semana (US$ 669,2 mi)",
+      "categoria": "cripto",
+      "fonte": "Coinpaper (Farside)",
+      "url": "https://coinpaper.com/39252/bitcoin-et-fs-lose-1-79-billion-in-one-week-while-btc-falls-nearly-10"
     },
     {
-      "texto": "Bolsas dos EUA fechadas na quinta (26/11, Thanksgiving); na sexta (27/11) fecham às 15h de Brasília (13h em Nova York)",
+      "texto": "Bolsa de Tóquio fechada hoje (23/11, feriado no Japão); Nikkei reabre amanhã após cair mais de 5% na sexta",
       "categoria": "agenda",
-      "fonte": "Palma Futures",
-      "url": "https://palmafutures.substack.com/p/sunday-post-recap-and-week-ahead-6d7"
+      "fonte": "IBTimes",
+      "url": "https://www.ibtimes.com.au/south-korea-kospi-falls-ai-stock-selloff-chipmakers-1879205"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Futuros dos EUA sobem na reabertura de domingo após a maior queda semanal em anos; NQ a 25.735,5 (+2,42%) e ES a 7.038,25 (+1,49%) às 20h30 de Brasília",
+      "texto": "Futuros dos EUA ampliam o repique: NQ a 25.991,5 (+3,44%) e ES a 7.122,25 (+2,70%) às 07h31 de Brasília; Nvidia sobe mais de 8% no pré-mercado",
       "categoria": "mercados",
-      "fonte": "Seeking Alpha",
-      "url": "https://www.seekingalpha.com/news/4675416-sp-500-dow-nasdaq-stock-market"
+      "fonte": "TipRanks; precos.json (Yahoo)",
+      "url": "https://www.tipranks.com/news/nvidia-stock-nvda-rebounds-8-even-as-u-s-intelligence-chief-calls-it-a-perpetual-target-amid-expanded-probe"
     },
     {
-      "texto": "Na semana de 16 a 20/11, Nasdaq-100 caiu 10,4% (pior semana desde mar/2020), S&P 500 −8,6% (6.910,39) e SOX −17,1%, maior queda semanal desde set/2001",
+      "texto": "KOSPI fechou em −3,31% (4.708,55) após cair quase 6%; sidecar suspendeu o programa de vendas por 5 min pela 2ª sessão seguida e o governo prepara o fundo de estabilização",
       "categoria": "mercados",
-      "fonte": "HuggingNews",
-      "url": "https://huggingnews.com/us-markets/us-stock-futures-rebound-with-nasdaq-100-up-22percent-after-worst-week-s-501bab64"
+      "fonte": "TradingKey",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262317507-south-korea-stocks-lower-kospi-samsung-tradingkey"
     },
     {
-      "texto": "NQ (24.976,5), ES (6.898) e SOX (8.342,2) fizeram mínima de 3 meses em 20/11; VIX fechou a sexta a 35,89 (+26,2%)",
+      "texto": "Petróleo recua apesar dos ataques no Golfo: Brent a US$ 91,96 (−0,60) e WTI a US$ 83,01 (−0,40) nesta manhã; gás natural −4,3% e ouro +1,5%",
+      "categoria": "mercados",
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/business/energy/oil-natural-gas-slip-as-gold-jumps-over-15-in-monday-trade-1.500757397"
+    },
+    {
+      "texto": "VIX segue acima de 25: 30,15 (+6,0%) às 07h26 de Brasília; BTC a 61.322 (+1,1% em 24 h) e DVOL a 51,8",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -86,22 +68,29 @@
       "chave": "selloff-semis-asia",
       "tema": "Sell-off de semis e IA",
       "vies": "bear",
-      "peso": 3,
-      "porque": "SOX −17,1% na semana e Nvidia sob investigação da SEC; futuros repicam na reabertura, mas o tema segue dominante"
+      "peso": 2,
+      "porque": "KOSPI −3,3% com sidecar e investigações da Nvidia se ampliando; repique dos futuros e da Nvidia no pré-mercado tira força do tema"
+    },
+    {
+      "chave": "repique-pos-selloff",
+      "tema": "Repique após a pior semana em anos",
+      "vies": "bull",
+      "peso": 2,
+      "porque": "NQ +3,4% e ES +2,7% nos futuros nesta manhã, com Nvidia +8% no pré-mercado"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Ataques a petroleiros em Hormuz, plano de furar o bloqueio dos EUA e ameaça de Trump de retomar ação militar"
+      "porque": "Ataques a navios no Golfo continuam e Trump ameaça retomar ação militar; petróleo em queda reduz o impacto imediato"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC na mínima de 3 meses",
       "vies": "bear",
       "peso": 1,
-      "porque": "BTC estabilizou perto de 61.000 (+1,8% em 24 h) após tocar 55.000 em 20/11; ETFs vinham com saques semanais"
+      "porque": "BTC estável perto de 61.000 após tocar 55.000 em 20/11; ETFs com saída de US$ 1,79 bi na semana passada"
     },
     {
       "chave": "pce-25-11",
@@ -112,6 +101,6 @@
       "revisao": "2026-11-25"
     }
   ],
-  "nota_sugerida": -3,
+  "nota_sugerida": -2,
   "escala_nota": 7
 }
