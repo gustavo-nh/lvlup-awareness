@@ -100,6 +100,11 @@
       "em": "2026-11-23T08:51:30Z",
       "status": "enviado",
       "texto": "⚠️ VIX em 31,38 (gatilho: acima de 25,0)"
+    },
+    "ES|variacao_dia_pct|alta|2026-11-23": {
+      "em": "2026-11-23T10:41:14Z",
+      "status": "enviado",
+      "texto": "🟢 ES +2,7% no dia (gatilho: alta > 2,5%) · 7.122,25"
     }
   },
   "ultima_config_valida": {
