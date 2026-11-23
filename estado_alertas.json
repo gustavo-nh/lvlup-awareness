@@ -90,6 +90,16 @@
       "em": "2026-11-23T00:08:40Z",
       "status": "enviado",
       "texto": "🟢 NQ +2,9% no dia (gatilho: alta > 2,5%) · 25.861,75"
+    },
+    "NQ|variacao_dia_pct|alta|2026-11-23": {
+      "em": "2026-11-23T08:51:30Z",
+      "status": "enviado",
+      "texto": "🟢 NQ +3,1% no dia (gatilho: alta > 2,5%) · 25.916,00"
+    },
+    "VIX|acima|acima|2026-11-23": {
+      "em": "2026-11-23T08:51:30Z",
+      "status": "enviado",
+      "texto": "⚠️ VIX em 31,38 (gatilho: acima de 25,0)"
     }
   },
   "ultima_config_valida": {
