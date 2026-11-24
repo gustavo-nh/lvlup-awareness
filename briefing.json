@@ -1,68 +1,85 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-24T10:43:26Z",
+  "gerado_em": "2026-11-24T23:44:12Z",
   "data": "2026-11-24",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Mercado de juros mantém cerca de 95% de chance de alta de 0,25 p.p. do Fed em dezembro e cerca de 5% de alta de 0,50 p.p.",
-      "categoria": "bc",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+      "texto": "Confiança do consumidor do Conference Board salta para 103,3 em novembro (91,9 em outubro), maior nível desde janeiro de 2025 e acima de todas as estimativas da Bloomberg",
+      "categoria": "macro",
+      "fonte": "StockAnalysis",
+      "url": "https://stockanalysis.com/news/consumer-confidence-jumps-november-2026/"
     },
     {
-      "texto": "Agenda de hoje (24/11) nos EUA: confiança do consumidor do Conference Board de novembro (consenso 92,1; anterior 91,7), Richmond Fed e ADP semanal; balanços de Dell, Analog Devices e Workday",
-      "categoria": "agenda",
-      "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
-    },
-    {
-      "texto": "Jensen Huang deve comparecer a comissões da Câmara dos EUA em 01/12",
-      "categoria": "semis",
-      "fonte": "Newsquawk",
-      "url": "https://www.newsquawk.com/headlines/former-nvidia-nvda-ceo-jensen-huang-will-appear-before-us-house-panels-on-december-1"
-    },
-    {
-      "texto": "Conflito Arábia Saudita x Houthis segue nesta terça; WSJ diz que os EUA veem o Irã como possível autor de dezenas de novos ciberataques contra navios",
+      "texto": "WSJ: EUA preparam tarifas sobre China, UE e outros 14 países após investigação do USTR sobre subsídios industriais; anúncio pode sair já nesta semana, com UE, Japão e Coreia a 15% ou menos",
       "categoria": "geopolitica",
-      "fonte": "Khaleej Times",
-      "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026"
+      "fonte": "WSJ (via To Vima)",
+      "url": "https://www.tovima.com/wsj/u-s-prepares-to-raise-tariffs-on-china-and-other-countries"
     },
     {
-      "texto": "ETFs de BTC à vista nos EUA tiveram saída líquida de US$ 569,7 mi na segunda (23/11), quinto dia seguido; novembro acumula cerca de −US$ 4,71 bi",
-      "categoria": "cripto",
-      "fonte": "The Coin Republic",
-      "url": "https://www.thecoinrepublic.com/2026/11/24/bitcoin-price-usd-falls-below-60k-as-btc-liquidations-hit-347m/"
+      "texto": "AMD registrou cerca de 337 mi de ações para possível revenda; a empresa diz que o registro não significa venda imediata",
+      "categoria": "semis",
+      "fonte": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
+    },
+    {
+      "texto": "Volta de Jensen Huang à Nvidia, aprovada por unanimidade 11 dias após a renúncia, levanta dúvidas sobre a independência do conselho; ação da Anthropic cai abaixo do preço do IPO",
+      "categoria": "semis",
+      "fonte": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/2cdb074f-e80a-4c0c-81b6-7dbb718fc322"
+    },
+    {
+      "texto": "Amanhã (25/11) saem PCE e PIB dos EUA; Treasuries fecharam mistos, com o de 10 anos a 4,901% e o de 2 anos a 4,668%",
+      "categoria": "agenda",
+      "fonte": "Sell The News (WSJ)",
+      "url": "https://sellthenews.org/catalyx/market/2026-11-24"
+    },
+    {
+      "texto": "Petróleo fecha em alta com ataques contínuos a navios no Estreito de Hormuz mantendo o prêmio de risco, apesar da expectativa de excesso de oferta global",
+      "categoria": "geopolitica",
+      "fonte": "Sell The News (WSJ)",
+      "url": "https://sellthenews.org/catalyx/market/2026-11-24"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Ásia dispara com a volta de Huang à Nvidia: KOSPI +6,32% (5.006,03), Nikkei +3,91% (58.644,63) e Taiwan perto de +9%; TSMC e MediaTek sobem quase 10%",
+      "texto": "Semis devolvem parte do repique de segunda: SOX −7,88% (8.832,5); AMD −8,86%, Nvidia −5,86%, Micron −11,01% e Intel −8,15%, com novas dúvidas sobre o retorno dos gastos em IA",
+      "categoria": "semis",
+      "fonte": "Motley Fool; StockTitan; precos.json (Yahoo)",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
+    },
+    {
+      "texto": "Wall Street dividida: Nasdaq −1,48% (23.734) e S&P 500 −0,50% (7.201), enquanto o Dow sobe cerca de 0,9% e fecha acima de 50.000",
       "categoria": "mercados",
-      "fonte": "Korea Times (AP); precos.json (Yahoo)",
-      "url": "https://www.koreatimes.co.kr/world/20261124/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo"
+      "fonte": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
     },
     {
-      "texto": "Futuros dos EUA devolvem parte da alta: às 07h31 de Brasília NQ a 26.481 (−1,22%) e ES a 7.217,25 (−0,51%); Nvidia cai cerca de 3% no pré-mercado após +31,5%",
-      "categoria": "mercados",
-      "fonte": "Yahoo Finance; precos.json (Yahoo)",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+      "texto": "Analog Devices fecha em −17,37% e HPE em −16,33% após os balanços, apesar de receitas com alta de 42% e 50%",
+      "categoria": "semis",
+      "fonte": "StockTitan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
     },
     {
-      "texto": "BTC perde os 60.000 na sessão asiática (59.679 às 07h41 de Brasília; −2,67% em 24 h), com cerca de US$ 347 mi em liquidações de BTC em 24 h",
-      "categoria": "cripto",
-      "fonte": "The Coin Republic; precos.json (Deribit)",
-      "url": "https://www.thecoinrepublic.com/2026/11/24/bitcoin-price-usd-falls-below-60k-as-btc-liquidations-hit-347m/"
-    },
-    {
-      "texto": "HPE cai cerca de 9% no pré-mercado após o balanço, apesar de recompra de US$ 5 bi",
+      "texto": "After-hours: Dell sobe cerca de 4% após superar estimativas e elevar a receita prevista do ano fiscal para US$ 202 bi; HP +9%, Workday e Autodesk −4%",
       "categoria": "mercados",
       "fonte": "Investing.com",
-      "url": "https://www.investing.com/news/economy-news/huang-comeback-in-focus-feds-williams-on-rates--whats-moving-markets-5047389"
+      "url": "https://in.investing.com/news/stock-market-news/afterhours-movers-dell-hpq-adsk-wday-ntnx-urbn-clsk-432SI-5724291"
     },
     {
-      "texto": "VIX segue acima de 25 (27,79; +4,4%); DVOL a 54,4 (+5,7% em 24 h); Brent estável perto de US$ 86,3",
+      "texto": "Ambarella cai cerca de 38% no after-hours após previsão de receita fraca",
+      "categoria": "semis",
+      "fonte": "Sell The News",
+      "url": "https://sellthenews.org/catalyx/market/2026-11-24"
+    },
+    {
+      "texto": "Às 20h31 de Brasília, NQ a 26.260 (−0,06%) e ES a 7.210,75 (−0,09%); BTC segue abaixo de 60.000 (59.770; −2,4% em 24 h)",
+      "categoria": "mercados",
+      "fonte": "precos.json (Yahoo/Deribit)"
+    },
+    {
+      "texto": "VIX fecha a 26,36, ainda acima de 25 (−1,0% no dia); DVOL a 53,1",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -73,29 +90,36 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Mercado segue com ~95% de chance de alta em dezembro e ~5% de alta de 0,50 p.p.",
+      "porque": "Mercado precificava ~95% de alta em dezembro; Treasury de 10 anos perto de 4,9% e confiança do consumidor forte",
       "revisao": "2026-12-09"
     },
     {
-      "chave": "repique-pos-selloff",
-      "tema": "Repique após a pior semana em anos",
-      "vies": "bull",
-      "peso": 2,
-      "porque": "Ásia acompanhou com força (KOSPI +6,3%, Taiwan ~+9%), mas os futuros dos EUA devolvem parte da alta (NQ −1,2%)"
+      "chave": "selloff-semis-ia",
+      "tema": "Sell-off de semis e dúvidas sobre IA",
+      "vies": "bear",
+      "peso": 3,
+      "porque": "SOX −7,9% um dia após +14%, com AMD, Micron e ADI em quedas fortes; Dell forte no after-hours é contraponto"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC abaixo de 60.000",
       "vies": "bear",
       "peso": 2,
-      "porque": "BTC perdeu os 60.000 sem acompanhar o repique das ações; ETFs com cinco dias seguidos de saídas"
+      "porque": "BTC segue abaixo de 60.000 (−2,4% em 24 h) após cinco dias seguidos de saídas dos ETFs"
+    },
+    {
+      "chave": "novas-tarifas-eua",
+      "tema": "Novas tarifas dos EUA",
+      "vies": "bear",
+      "peso": 1,
+      "porque": "WSJ diz que tarifas sobre China, UE e mais 14 países podem ser anunciadas nesta semana; ainda não oficial"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Conflito Saudi-Houthi segue e EUA suspeitam do Irã em ciberataques a navios; petróleo estável limita o impacto"
+      "porque": "Ataques a navios em Hormuz seguem sustentando o prêmio de risco do petróleo"
     },
     {
       "chave": "pce-25-11",
@@ -106,6 +130,6 @@
       "revisao": "2026-11-25"
     }
   ],
-  "nota_sugerida": -2,
+  "nota_sugerida": -3,
   "escala_nota": 7
 }
