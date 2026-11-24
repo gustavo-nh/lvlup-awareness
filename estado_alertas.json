@@ -105,6 +105,16 @@
       "em": "2026-11-23T21:09:41Z",
       "status": "enviado",
       "texto": "🟢 SOX +14,0% no dia (gatilho: alta > 4,0%) · 9.588,05"
+    },
+    "KOSPI|variacao_dia_pct|alta|2026-11-24": {
+      "em": "2026-11-24T05:52:17Z",
+      "status": "enviado",
+      "texto": "🟢 KOSPI +7,2% no dia (gatilho: alta > 4,0%) · 5.046,89"
+    },
+    "NIKKEI|variacao_dia_pct|alta|2026-11-24": {
+      "em": "2026-11-24T05:52:17Z",
+      "status": "enviado",
+      "texto": "🟢 NIKKEI +4,2% no dia (gatilho: alta > 4,0%) · 58.804,91"
     }
   },
   "ultima_config_valida": {
