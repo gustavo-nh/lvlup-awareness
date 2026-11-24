@@ -1,68 +1,68 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-23T23:45:49Z",
-  "data": "2026-11-23",
-  "janela": "noite",
+  "gerado_em": "2026-11-24T10:43:26Z",
+  "data": "2026-11-24",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "John Williams (Fed de Nova York) indicou hoje (23/11) que juros mais altos devem ser necessários ao longo do tempo e vê a inflação voltando a 2% só em 2028",
+      "texto": "Mercado de juros mantém cerca de 95% de chance de alta de 0,25 p.p. do Fed em dezembro e cerca de 5% de alta de 0,50 p.p.",
       "categoria": "bc",
-      "fonte": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
-    },
-    {
-      "texto": "CME FedWatch precifica cerca de 96% de chance de alta de 0,25 p.p. na reunião do Fed de dezembro",
-      "categoria": "bc",
-      "fonte": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-    },
-    {
-      "texto": "Conselho da Nvidia reconduziu Jensen Huang como CEO por unanimidade, após consulta a altos níveis do governo dos EUA, e diz que a volta dele não traz risco à segurança nacional",
-      "categoria": "semis",
       "fonte": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
     },
     {
-      "texto": "Irã chama o bloqueio naval dos EUA de agressão militar e só reabre Hormuz com fim das hostilidades, do bloqueio e das sanções; Houthis alegam ataque à refinaria saudita de Rabigh, sem confirmação",
+      "texto": "Agenda de hoje (24/11) nos EUA: confiança do consumidor do Conference Board de novembro (consenso 92,1; anterior 91,7), Richmond Fed e ADP semanal; balanços de Dell, Analog Devices e Workday",
+      "categoria": "agenda",
+      "fonte": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+    },
+    {
+      "texto": "Jensen Huang deve comparecer a comissões da Câmara dos EUA em 01/12",
+      "categoria": "semis",
+      "fonte": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/former-nvidia-nvda-ceo-jensen-huang-will-appear-before-us-house-panels-on-december-1"
+    },
+    {
+      "texto": "Conflito Arábia Saudita x Houthis segue nesta terça; WSJ diz que os EUA veem o Irã como possível autor de dezenas de novos ciberataques contra navios",
       "categoria": "geopolitica",
-      "fonte": "Gulf News",
-      "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-tonight-nov-23-2026-1.500758468"
+      "fonte": "Khaleej Times",
+      "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-24-2026"
     },
     {
-      "texto": "PCE de outubro e 2ª estimativa do PIB do 3º tri saem quarta (25/11) às 10h30 de Brasília (08h30 em Washington); consenso do PCE: +0,3% no mês e 3,8% em 12 meses, núcleo 3,2%",
-      "categoria": "agenda",
-      "fonte": "Finance Calendar",
-      "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-november-2026/"
-    },
-    {
-      "texto": "Semana encurtada: bolsas dos EUA fechadas na quinta (26/11, Thanksgiving) e fechamento antecipado na sexta (27/11) às 15h de Brasília (13h em Nova York)",
-      "categoria": "agenda",
-      "fonte": "Nasdaq",
-      "url": "https://www.nasdaq.com/articles/week-ahead-pce-data-thanksgiving-holiday"
+      "texto": "ETFs de BTC à vista nos EUA tiveram saída líquida de US$ 569,7 mi na segunda (23/11), quinto dia seguido; novembro acumula cerca de −US$ 4,71 bi",
+      "categoria": "cripto",
+      "fonte": "The Coin Republic",
+      "url": "https://www.thecoinrepublic.com/2026/11/24/bitcoin-price-usd-falls-below-60k-as-btc-liquidations-hit-347m/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Wall Street tem o melhor dia desde abril de 2025 após a volta de Huang à Nvidia: Nasdaq +6,51%, S&P 500 +4,74% (7.237,90) e Dow +3,01% (49.595,31)",
+      "texto": "Ásia dispara com a volta de Huang à Nvidia: KOSPI +6,32% (5.006,03), Nikkei +3,91% (58.644,63) e Taiwan perto de +9%; TSMC e MediaTek sobem quase 10%",
+      "categoria": "mercados",
+      "fonte": "Korea Times (AP); precos.json (Yahoo)",
+      "url": "https://www.koreatimes.co.kr/world/20261124/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo"
+    },
+    {
+      "texto": "Futuros dos EUA devolvem parte da alta: às 07h31 de Brasília NQ a 26.481 (−1,22%) e ES a 7.217,25 (−0,51%); Nvidia cai cerca de 3% no pré-mercado após +31,5%",
+      "categoria": "mercados",
+      "fonte": "Yahoo Finance; precos.json (Yahoo)",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+    },
+    {
+      "texto": "BTC perde os 60.000 na sessão asiática (59.679 às 07h41 de Brasília; −2,67% em 24 h), com cerca de US$ 347 mi em liquidações de BTC em 24 h",
+      "categoria": "cripto",
+      "fonte": "The Coin Republic; precos.json (Deribit)",
+      "url": "https://www.thecoinrepublic.com/2026/11/24/bitcoin-price-usd-falls-below-60k-as-btc-liquidations-hit-347m/"
+    },
+    {
+      "texto": "HPE cai cerca de 9% no pré-mercado após o balanço, apesar de recompra de US$ 5 bi",
       "categoria": "mercados",
       "fonte": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476"
+      "url": "https://www.investing.com/news/economy-news/huang-comeback-in-focus-feds-williams-on-rates--whats-moving-markets-5047389"
     },
     {
-      "texto": "Nvidia fecha em +31,48% (US$ 165,05) e Micron +19,04%; SOX sobe 14,03% no dia (9.588,05)",
-      "categoria": "semis",
-      "fonte": "Investing.com; precos.json (Yahoo)",
-      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476"
-    },
-    {
-      "texto": "Petróleo cai apesar dos ataques no Golfo: WTI −3,72% (US$ 80,31) e Brent −3,58% (US$ 86,73); ouro +3,44% (US$ 3.636,40)",
-      "categoria": "mercados",
-      "fonte": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476"
-    },
-    {
-      "texto": "VIX segue acima de 25 (26,62); às 20h31 de Brasília NQ a 26.745,5 (−0,23%) e ES a 7.254 (−0,01%) na nova sessão; BTC a 61.152 (−0,11% em 24 h) e DVOL a 52,3",
+      "texto": "VIX segue acima de 25 (27,79; +4,4%); DVOL a 54,4 (+5,7% em 24 h); Brent estável perto de US$ 86,3",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)"
     }
@@ -73,7 +73,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "FedWatch em ~96% de alta em dezembro e Williams sinaliza juros mais altos ao longo do tempo",
+      "porque": "Mercado segue com ~95% de chance de alta em dezembro e ~5% de alta de 0,50 p.p.",
       "revisao": "2026-12-09"
     },
     {
@@ -81,28 +81,21 @@
       "tema": "Repique após a pior semana em anos",
       "vies": "bull",
       "peso": 2,
-      "porque": "Volta de Huang à Nvidia deu o melhor dia desde abril de 2025 (Nasdaq +6,5%, SOX +14%); futuros estáveis à noite"
+      "porque": "Ásia acompanhou com força (KOSPI +6,3%, Taiwan ~+9%), mas os futuros dos EUA devolvem parte da alta (NQ −1,2%)"
     },
     {
-      "chave": "selloff-semis-asia",
-      "tema": "Sell-off de semis e IA",
+      "chave": "fraqueza-btc",
+      "tema": "BTC abaixo de 60.000",
       "vies": "bear",
-      "peso": 1,
-      "porque": "Alta forte nos EUA tira força do tema; Ásia ainda pesada (KOSPI −3,3% hoje) e Nikkei reabre esta noite após −5%"
+      "peso": 2,
+      "porque": "BTC perdeu os 60.000 sem acompanhar o repique das ações; ETFs com cinco dias seguidos de saídas"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Irã mantém Hormuz condicionado e Houthis alegam ataque a refinaria saudita; petróleo em queda de mais de 3% reduz o impacto"
-    },
-    {
-      "chave": "fraqueza-btc",
-      "tema": "BTC na mínima de 3 meses",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "BTC parado perto de 61.000 e sem acompanhar o repique das ações"
+      "porque": "Conflito Saudi-Houthi segue e EUA suspeitam do Irã em ciberataques a navios; petróleo estável limita o impacto"
     },
     {
       "chave": "pce-25-11",
