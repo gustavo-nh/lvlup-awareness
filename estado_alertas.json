@@ -115,6 +115,11 @@
       "em": "2026-11-24T05:52:17Z",
       "status": "enviado",
       "texto": "🟢 NIKKEI +4,2% no dia (gatilho: alta > 4,0%) · 58.804,91"
+    },
+    "VIX|acima|acima|2026-11-24": {
+      "em": "2026-11-24T10:41:37Z",
+      "status": "enviado",
+      "texto": "⚠️ VIX em 27,79 (gatilho: acima de 25,0)"
     }
   },
   "ultima_config_valida": {
