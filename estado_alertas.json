@@ -125,6 +125,16 @@
       "em": "2026-11-25T02:12:14Z",
       "status": "enviado",
       "texto": "🔴 KOSPI −4,9% no dia (gatilho: queda > 4,0%) · 4.762,48"
+    },
+    "NQ|variacao_dia_pct|queda|2026-11-25": {
+      "em": "2026-11-25T12:31:47Z",
+      "status": "enviado",
+      "texto": "🔴 NQ −3,0% no dia (gatilho: queda > 2,5%) · 25.485,50"
+    },
+    "VIX|acima|acima|2026-11-25": {
+      "em": "2026-11-25T12:31:47Z",
+      "status": "enviado",
+      "texto": "⚠️ VIX em 30,78 (gatilho: acima de 25,0)"
     }
   },
   "ultima_config_valida": {
