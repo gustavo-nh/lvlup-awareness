@@ -1,87 +1,71 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-24T23:44:12Z",
-  "data": "2026-11-24",
-  "janela": "noite",
+  "gerado_em": "2026-11-25T10:43:10Z",
+  "data": "2026-11-25",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Confiança do consumidor do Conference Board salta para 103,3 em novembro (91,9 em outubro), maior nível desde janeiro de 2025 e acima de todas as estimativas da Bloomberg",
-      "categoria": "macro",
-      "fonte": "StockAnalysis",
-      "url": "https://stockanalysis.com/news/consumer-confidence-jumps-november-2026/"
-    },
-    {
-      "texto": "WSJ: EUA preparam tarifas sobre China, UE e outros 14 países após investigação do USTR sobre subsídios industriais; anúncio pode sair já nesta semana, com UE, Japão e Coreia a 15% ou menos",
+      "texto": "AP confirma: EUA devem anunciar em breve tarifas sobre China, UE e mais 14 economias com base na Seção 301 (excesso de capacidade industrial); alíquotas ainda não definidas",
       "categoria": "geopolitica",
-      "fonte": "WSJ (via To Vima)",
-      "url": "https://www.tovima.com/wsj/u-s-prepares-to-raise-tariffs-on-china-and-other-countries"
+      "fonte": "AP (via OPB)",
+      "url": "https://www.opb.org/article/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
     },
     {
-      "texto": "AMD registrou cerca de 337 mi de ações para possível revenda; a empresa diz que o registro não significa venda imediata",
-      "categoria": "semis",
-      "fonte": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
-    },
-    {
-      "texto": "Volta de Jensen Huang à Nvidia, aprovada por unanimidade 11 dias após a renúncia, levanta dúvidas sobre a independência do conselho; ação da Anthropic cai abaixo do preço do IPO",
-      "categoria": "semis",
-      "fonte": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/2cdb074f-e80a-4c0c-81b6-7dbb718fc322"
-    },
-    {
-      "texto": "Amanhã (25/11) saem PCE e PIB dos EUA; Treasuries fecharam mistos, com o de 10 anos a 4,901% e o de 2 anos a 4,668%",
+      "texto": "Hoje (25/11) às 10h30 de Brasília (8h30 em Nova York) saem o PCE de outubro e a 2ª estimativa do PIB do 3º tri; consenso Dow Jones: PCE +0,3% no mês e 3,8% em 12 meses",
       "categoria": "agenda",
-      "fonte": "Sell The News (WSJ)",
-      "url": "https://sellthenews.org/catalyx/market/2026-11-24"
+      "fonte": "Gotrade (CNBC)",
+      "url": "https://www.heygotrade.com/en/news/after-dells-beat-pce-tests-the-market/"
     },
     {
-      "texto": "Petróleo fecha em alta com ataques contínuos a navios no Estreito de Hormuz mantendo o prêmio de risco, apesar da expectativa de excesso de oferta global",
-      "categoria": "geopolitica",
-      "fonte": "Sell The News (WSJ)",
-      "url": "https://sellthenews.org/catalyx/market/2026-11-24"
+      "texto": "CNBC: mercado trata alta de 25 pb do Fed em 09/12 como praticamente certa; PCE de hoje é o último dado de inflação antes da decisão (payroll em 04/12)",
+      "categoria": "bc",
+      "fonte": "Gotrade (CNBC); StockTitan",
+      "url": "https://www.stocktitan.net/articles/october-2026-pce-inflation-preview"
+    },
+    {
+      "texto": "Bolsas dos EUA fechadas amanhã (26/11, Thanksgiving) e com fechamento mais cedo na sexta (27/11); pedidos de seguro-desemprego saem hoje, um dia antes",
+      "categoria": "agenda",
+      "fonte": "Gotrade (CNBC)",
+      "url": "https://www.heygotrade.com/en/news/after-dells-beat-pce-tests-the-market/"
+    },
+    {
+      "texto": "Na Coreia, debate sobre o fim antecipado do ciclo de alta de memória pesa sobre Samsung e SK hynix, apesar de previsões de escassez até 2027",
+      "categoria": "semis",
+      "fonte": "KED Global",
+      "url": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202611250008"
+    },
+    {
+      "texto": "Dell: receita do 3º tri fiscal de US$ 54,94 bi (est. 49,32 bi), servidores de IA com alta de 291% e carteira de pedidos de IA de US$ 132,3 bi",
+      "categoria": "semis",
+      "fonte": "Gotrade (CNBC)",
+      "url": "https://www.heygotrade.com/en/news/after-dells-beat-pce-tests-the-market/"
+    },
+    {
+      "texto": "ETFs de BTC tiveram saídas de US$ 569,7 mi em 23/11 (IBIT −509,3 mi); saídas de novembro se aproximam de US$ 5 bi",
+      "categoria": "cripto",
+      "fonte": "The Block",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Semis devolvem parte do repique de segunda: SOX −7,88% (8.832,5); AMD −8,86%, Nvidia −5,86%, Micron −11,01% e Intel −8,15%, com novas dúvidas sobre o retorno dos gastos em IA",
-      "categoria": "semis",
-      "fonte": "Motley Fool; StockTitan; precos.json (Yahoo)",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
-    },
-    {
-      "texto": "Wall Street dividida: Nasdaq −1,48% (23.734) e S&P 500 −0,50% (7.201), enquanto o Dow sobe cerca de 0,9% e fecha acima de 50.000",
+      "texto": "KOSPI despenca 6,16% (4.697,51) com sidecar de venda às 21h08 de 24/11 em Brasília (9h08 de 25/11 em Seul); Samsung −9,87% e SK hynix −11,05%",
       "categoria": "mercados",
-      "fonte": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
+      "fonte": "Korea JoongAng Daily",
+      "url": "https://www.koreajoongangdaily.com/business/kospi-plunges-back-below-5000-as-chip-selloff-returns/12990750"
     },
     {
-      "texto": "Analog Devices fecha em −17,37% e HPE em −16,33% após os balanços, apesar de receitas com alta de 42% e 50%",
-      "categoria": "semis",
-      "fonte": "StockTitan",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
-    },
-    {
-      "texto": "After-hours: Dell sobe cerca de 4% após superar estimativas e elevar a receita prevista do ano fiscal para US$ 202 bi; HP +9%, Workday e Autodesk −4%",
+      "texto": "Nikkei fecha em −2,78% (57.011,62), com SoftBank −14,83%, Kioxia −14,18% e Advantest −12,94%; Taiex −4,8%",
       "categoria": "mercados",
-      "fonte": "Investing.com",
-      "url": "https://in.investing.com/news/stock-market-news/afterhours-movers-dell-hpq-adsk-wday-ntnx-urbn-clsk-432SI-5724291"
+      "fonte": "TradingKey; Korea JoongAng Daily",
+      "url": "https://www.tradingkey.com/analysis/stocks/more/262321404-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
     },
     {
-      "texto": "Ambarella cai cerca de 38% no after-hours após previsão de receita fraca",
-      "categoria": "semis",
-      "fonte": "Sell The News",
-      "url": "https://sellthenews.org/catalyx/market/2026-11-24"
-    },
-    {
-      "texto": "Às 20h31 de Brasília, NQ a 26.260 (−0,06%) e ES a 7.210,75 (−0,09%); BTC segue abaixo de 60.000 (59.770; −2,4% em 24 h)",
+      "texto": "Europa descola da Ásia: STOXX 600 +0,5% (636,01) às 5h19 de Brasília, puxado por luxo (Swatch +6%); setor de tecnologia −1,1%",
       "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit)"
-    },
-    {
-      "texto": "VIX fecha a 26,36, ainda acima de 25 (−1,0% no dia); DVOL a 53,1",
-      "categoria": "marco_preco",
-      "fonte": "precos.json (Yahoo/Deribit)"
+      "fonte": "Reuters (via WSAU)",
+      "url": "https://wsau.com/2026/11/25/european-shares-rise-on-consumer-boost-markets-await-us-tariffs-inflation/"
     }
   ],
   "pontos_sugeridos": [
@@ -90,7 +74,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Mercado precificava ~95% de alta em dezembro; Treasury de 10 anos perto de 4,9% e confiança do consumidor forte",
+      "porque": "Alta de 25 pb em 09/12 tratada como quase certa; PCE de hoje pode reforçar",
       "revisao": "2026-12-09"
     },
     {
@@ -98,35 +82,35 @@
       "tema": "Sell-off de semis e dúvidas sobre IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "SOX −7,9% um dia após +14%, com AMD, Micron e ADI em quedas fortes; Dell forte no after-hours é contraponto"
+      "porque": "Venda se espalhou para a Ásia: KOSPI −6,2%, SK hynix −11%, SoftBank −15%; Dell forte segue como contraponto"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC abaixo de 60.000",
       "vies": "bear",
       "peso": 2,
-      "porque": "BTC segue abaixo de 60.000 (−2,4% em 24 h) após cinco dias seguidos de saídas dos ETFs"
+      "porque": "Saídas dos ETFs de BTC perto de US$ 5 bi em novembro"
     },
     {
       "chave": "novas-tarifas-eua",
       "tema": "Novas tarifas dos EUA",
       "vies": "bear",
-      "peso": 1,
-      "porque": "WSJ diz que tarifas sobre China, UE e mais 14 países podem ser anunciadas nesta semana; ainda não oficial"
+      "peso": 2,
+      "porque": "AP confirma anúncio iminente sobre China, UE e mais 14 economias; já citado como peso na Ásia"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Ataques a navios em Hormuz seguem sustentando o prêmio de risco do petróleo"
+      "porque": "Ataques a navios em Hormuz seguem sustentando o prêmio de risco do petróleo; sem desdobramento novo"
     },
     {
       "chave": "pce-25-11",
       "tema": "PCE e PIB em 25/11",
       "vies": "neutro",
       "peso": 2,
-      "porque": "Inflação pesa na aposta de alta do Fed; PCE acima de 0,3% no mês → bear, abaixo → bull",
+      "porque": "Sai hoje às 10h30 de Brasília; PCE acima de 0,3% no mês → bear, abaixo → bull",
       "revisao": "2026-11-25"
     }
   ],
