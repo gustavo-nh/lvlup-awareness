@@ -108,7 +108,7 @@ Para os ativos de `marcos.ativos`, olhe `marcos_recentes` (tipos `ath`, `max_Nm`
 6. Termine com um resumo de 2–3 linhas (quantos itens, nota sugerida, alerta gravado se houver).
 
 ## 2. Modo varredura (notícias graves)
-Roda em dias úteis, a cada 1h30 (09:10–19:40 BRT). Objetivo único: **descobrir se aconteceu algo grave desde a última varredura** (~2 h) e, se sim, gravar um alerta. Não gera briefing.
+Roda em dias úteis, 5 vezes por dia (09:10, 11:40, 14:10, 16:40 e 19:10 BRT). Objetivo único: **descobrir se aconteceu algo grave desde a última varredura** (~2h30 a 3 h; a das 09:10 cobre desde o briefing das 07:40) e, se sim, gravar um alerta. Não gera briefing.
 
 ### O que é grave (critério rígido)
 - **Fed fora da agenda:** corte/alta de emergência, reunião extraordinária, ou fala do presidente do Fed que mude a precificação de juros de forma brusca.
@@ -121,7 +121,7 @@ Roda em dias úteis, a cada 1h30 (09:10–19:40 BRT). Objetivo único: **descobr
 
 ### Como fazer
 1. Faça a preparação da seção 0 (pull, hora, leitura do `briefing.json` e do `alerta.json`).
-2. Busque notícias das últimas ~2 h (modo "standard"; várias buscas em paralelo): Fed/juros, circuit breaker/halt, mercados asiáticos e europeus, Hormuz/Oriente Médio/Rússia-Ucrânia, cripto (exchange, hack, regulação, stablecoin), bancos.
+2. Busque notícias desde a varredura anterior (~3 h; às 09:10, desde o briefing das 07:40) (modo "standard"; várias buscas em paralelo): Fed/juros, circuit breaker/halt, mercados asiáticos e europeus, Hormuz/Oriente Médio/Rússia-Ucrânia, cripto (exchange, hack, regulação, stablecoin), bancos.
 3. Para cada candidato, confirme em pelo menos um veículo sério (Reuters, Bloomberg, AP, CNBC, FT, WSJ, CNN, Al Jazeera, CoinDesk etc.) e confira se já não está no `alerta.json` (mesmo evento = mesmo id) ou no briefing atual.
 4. Se nada passar no critério: **não grave nada** e termine com "varredura sem alertas".
 
