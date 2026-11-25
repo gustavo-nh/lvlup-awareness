@@ -1,71 +1,89 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-25T10:43:10Z",
+  "gerado_em": "2026-11-25T23:43:04Z",
   "data": "2026-11-25",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "AP confirma: EUA devem anunciar em breve tarifas sobre China, UE e mais 14 economias com base na Seção 301 (excesso de capacidade industrial); alíquotas ainda não definidas",
-      "categoria": "geopolitica",
-      "fonte": "AP (via OPB)",
-      "url": "https://www.opb.org/article/2026/11/24/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say/"
+      "texto": "PCE de outubro: cheio +0,3% no mês e 3,8% em 12 meses, em linha; núcleo +0,3% e 3,3% em 12 meses (consenso 3,2%), maior desde nov/2023",
+      "categoria": "macro",
+      "fonte": "Zhitong (via Longbridge)",
+      "url": "https://longbridge.com/en/news/306802027"
     },
     {
-      "texto": "Hoje (25/11) às 10h30 de Brasília (8h30 em Nova York) saem o PCE de outubro e a 2ª estimativa do PIB do 3º tri; consenso Dow Jones: PCE +0,3% no mês e 3,8% em 12 meses",
-      "categoria": "agenda",
-      "fonte": "Gotrade (CNBC)",
-      "url": "https://www.heygotrade.com/en/news/after-dells-beat-pce-tests-the-market/"
+      "texto": "PIB do 3º tri revisado para 4,3% anualizado (prévia 3,4%); renda pessoal +0,7% (est. 0,4%) e pedidos de seguro-desemprego em 189 mil (est. 200 mil)",
+      "categoria": "macro",
+      "fonte": "Zhitong (via Longbridge)",
+      "url": "https://longbridge.com/en/news/306802027"
     },
     {
-      "texto": "CNBC: mercado trata alta de 25 pb do Fed em 09/12 como praticamente certa; PCE de hoje é o último dado de inflação antes da decisão (payroll em 04/12)",
+      "texto": "CME FedWatch: 97% de chance de alta do Fed em 09/12 e 63% de nova alta em janeiro; debate passa a ser 25 x 50 pb",
       "categoria": "bc",
-      "fonte": "Gotrade (CNBC); StockTitan",
-      "url": "https://www.stocktitan.net/articles/october-2026-pce-inflation-preview"
+      "fonte": "The Boston Report; Zhitong (via Longbridge)",
+      "url": "https://thebostonreport.com/2026/11/25/nasdaq-plunges-ai-sell-off-tariffs-thanksgiving-november-25-2026"
     },
     {
-      "texto": "Bolsas dos EUA fechadas amanhã (26/11, Thanksgiving) e com fechamento mais cedo na sexta (27/11); pedidos de seguro-desemprego saem hoje, um dia antes",
-      "categoria": "agenda",
-      "fonte": "Gotrade (CNBC)",
-      "url": "https://www.heygotrade.com/en/news/after-dells-beat-pce-tests-the-market/"
-    },
-    {
-      "texto": "Na Coreia, debate sobre o fim antecipado do ciclo de alta de memória pesa sobre Samsung e SK hynix, apesar de previsões de escassez até 2027",
-      "categoria": "semis",
-      "fonte": "KED Global",
-      "url": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202611250008"
-    },
-    {
-      "texto": "Dell: receita do 3º tri fiscal de US$ 54,94 bi (est. 49,32 bi), servidores de IA com alta de 291% e carteira de pedidos de IA de US$ 132,3 bi",
-      "categoria": "semis",
-      "fonte": "Gotrade (CNBC)",
-      "url": "https://www.heygotrade.com/en/news/after-dells-beat-pce-tests-the-market/"
-    },
-    {
-      "texto": "ETFs de BTC tiveram saídas de US$ 569,7 mi em 23/11 (IBIT −509,3 mi); saídas de novembro se aproximam de US$ 5 bi",
+      "texto": "ETFs de BTC tiveram saídas de US$ 231,6 mi em 24/11 (IBIT −175,3 mi), sexto dia seguido; ETFs de ETH −64 mi, sétimo dia",
       "categoria": "cripto",
-      "fonte": "The Block",
-      "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548"
+      "fonte": "The Crypto Desk (SoSoValue)",
+      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-wednesday-25-november"
+    },
+    {
+      "texto": "Petróleo recua (Brent abaixo de US$ 91) apesar de novos ataques no Estreito de Hormuz, com temor de excesso de oferta",
+      "categoria": "geopolitica",
+      "fonte": "CNBC; The Fifth Skill",
+      "url": "https://www.cnbc.com/amp/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+    },
+    {
+      "texto": "Bolsas dos EUA fechadas amanhã (26/11, Thanksgiving) e com sessão reduzida na sexta (27/11)",
+      "categoria": "agenda",
+      "fonte": "CryptoTicker",
+      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-futures-tariffs-vix-30/"
+    },
+    {
+      "texto": "Vencimento mensal de opções na Deribit na sexta (27/11) às 05h de Brasília (08h UTC), com cerca de US$ 6,6 bi em opções de BTC",
+      "categoria": "agenda",
+      "fonte": "The Crypto Desk",
+      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-wednesday-25-november"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "KOSPI despenca 6,16% (4.697,51) com sidecar de venda às 21h08 de 24/11 em Brasília (9h08 de 25/11 em Seul); Samsung −9,87% e SK hynix −11,05%",
+      "texto": "Nasdaq chegou a cair 4,6% e S&P 500 3,2% no dia, mas recuperaram: fecho em −0,62% (23.585,80) e −0,25% (7.182,78); Dow +0,33% (50.182,95)",
       "categoria": "mercados",
-      "fonte": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/business/kospi-plunges-back-below-5000-as-chip-selloff-returns/12990750"
+      "fonte": "The Boston Report (CNBC)",
+      "url": "https://thebostonreport.com/2026/11/25/nasdaq-plunges-ai-sell-off-tariffs-thanksgiving-november-25-2026"
     },
     {
-      "texto": "Nikkei fecha em −2,78% (57.011,62), com SoftBank −14,83%, Kioxia −14,18% e Advantest −12,94%; Taiex −4,8%",
-      "categoria": "mercados",
-      "fonte": "TradingKey; Korea JoongAng Daily",
-      "url": "https://www.tradingkey.com/analysis/stocks/more/262321404-japan-south-korea-stocks-kospi-nikkei-softbank-sk-hynix-samsung-kioxia-tradingkey"
+      "texto": "Venda de IA: Nvidia chegou a −8,6%, AMD −6,5% e SOX −5,8% de manhã; no fechamento NVDA perto de −4%, Micron −4,5% e SOX −0,65% (8.774,9)",
+      "categoria": "semis",
+      "fonte": "Fox Business; The Boston Report",
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
     },
     {
-      "texto": "Europa descola da Ásia: STOXX 600 +0,5% (636,01) às 5h19 de Brasília, puxado por luxo (Swatch +6%); setor de tecnologia −1,1%",
-      "categoria": "mercados",
-      "fonte": "Reuters (via WSAU)",
-      "url": "https://wsau.com/2026/11/25/european-shares-rise-on-consumer-boost-markets-await-us-tariffs-inflation/"
+      "texto": "USTR propõe tarifas da Seção 301 a 14 economias (China até 20%, inclui UE, Japão, Coreia e Taiwan); comentários até 05/01/2027; citado na venda da manhã",
+      "categoria": "geopolitica",
+      "fonte": "The Boston Report",
+      "url": "https://thebostonreport.com/2026/11/25/nasdaq-plunges-ai-sell-off-tariffs-thanksgiving-november-25-2026"
+    },
+    {
+      "texto": "SOX marcou mínima de 3 meses em 25/11 (8.129,2) no intraday",
+      "categoria": "marco_preco",
+      "fonte": "precos.json (Yahoo/Deribit)",
+      "url": "https://finance.yahoo.com/quote/%5ESOX/"
+    },
+    {
+      "texto": "VIX fecha em 28,29 (+7,3%), acima de 25, após passar de 30 de manhã",
+      "categoria": "marco_preco",
+      "fonte": "precos.json (Yahoo/Deribit); CryptoTicker",
+      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-futures-tariffs-vix-30/"
+    },
+    {
+      "texto": "BTC chegou a ~58.600 de manhã e voltou a 60.271 à noite (+0,8% em 24 h)",
+      "categoria": "cripto",
+      "fonte": "CryptoTicker; precos.json (Yahoo/Deribit)",
+      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-futures-tariffs-vix-30/"
     }
   ],
   "pontos_sugeridos": [
@@ -74,7 +92,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Alta de 25 pb em 09/12 tratada como quase certa; PCE de hoje pode reforçar",
+      "porque": "Núcleo do PCE acima do esperado e PIB forte; FedWatch 97% para alta em 09/12 e 63% para janeiro",
       "revisao": "2026-12-09"
     },
     {
@@ -82,36 +100,28 @@
       "tema": "Sell-off de semis e dúvidas sobre IA",
       "vies": "bear",
       "peso": 3,
-      "porque": "Venda se espalhou para a Ásia: KOSPI −6,2%, SK hynix −11%, SoftBank −15%; Dell forte segue como contraponto"
+      "porque": "Nvidia chegou a −8,6% e SOX fez nova mínima de 3 meses; recuperação parcial no fechamento"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC abaixo de 60.000",
       "vies": "bear",
       "peso": 2,
-      "porque": "Saídas dos ETFs de BTC perto de US$ 5 bi em novembro"
+      "porque": "Perdeu 60 mil de manhã; sexto dia seguido de saídas dos ETFs"
     },
     {
       "chave": "novas-tarifas-eua",
       "tema": "Novas tarifas dos EUA",
       "vies": "bear",
       "peso": 2,
-      "porque": "AP confirma anúncio iminente sobre China, UE e mais 14 economias; já citado como peso na Ásia"
+      "porque": "Proposta formal do USTR sobre 14 economias, China até 20%; prazo de comentários em 05/01/2027"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Ataques a navios em Hormuz seguem sustentando o prêmio de risco do petróleo; sem desdobramento novo"
-    },
-    {
-      "chave": "pce-25-11",
-      "tema": "PCE e PIB em 25/11",
-      "vies": "neutro",
-      "peso": 2,
-      "porque": "Sai hoje às 10h30 de Brasília; PCE acima de 0,3% no mês → bear, abaixo → bull",
-      "revisao": "2026-11-25"
+      "porque": "Novos ataques em Hormuz, mas petróleo recua com excesso de oferta"
     }
   ],
   "nota_sugerida": -3,
