@@ -1,89 +1,77 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-25T23:43:04Z",
-  "data": "2026-11-25",
-  "janela": "noite",
+  "gerado_em": "2026-11-26T10:43:01Z",
+  "data": "2026-11-26",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "PCE de outubro: cheio +0,3% no mês e 3,8% em 12 meses, em linha; núcleo +0,3% e 3,3% em 12 meses (consenso 3,2%), maior desde nov/2023",
-      "categoria": "macro",
-      "fonte": "Zhitong (via Longbridge)",
-      "url": "https://longbridge.com/en/news/306802027"
-    },
-    {
-      "texto": "PIB do 3º tri revisado para 4,3% anualizado (prévia 3,4%); renda pessoal +0,7% (est. 0,4%) e pedidos de seguro-desemprego em 189 mil (est. 200 mil)",
-      "categoria": "macro",
-      "fonte": "Zhitong (via Longbridge)",
-      "url": "https://longbridge.com/en/news/306802027"
-    },
-    {
-      "texto": "CME FedWatch: 97% de chance de alta do Fed em 09/12 e 63% de nova alta em janeiro; debate passa a ser 25 x 50 pb",
+      "texto": "Banco da Coreia sobe a taxa básica em 0,25 pp para 3,25%, maior nível em dois anos",
       "categoria": "bc",
-      "fonte": "The Boston Report; Zhitong (via Longbridge)",
-      "url": "https://thebostonreport.com/2026/11/25/nasdaq-plunges-ai-sell-off-tariffs-thanksgiving-november-25-2026"
+      "fonte": "Oninvest (citando CNBC)",
+      "url": "https://en.oninvest.com/article/asian-markets-rose-in-tandem-with-u-s-index-futures"
     },
     {
-      "texto": "ETFs de BTC tiveram saídas de US$ 231,6 mi em 24/11 (IBIT −175,3 mi), sexto dia seguido; ETFs de ETH −64 mi, sétimo dia",
-      "categoria": "cripto",
-      "fonte": "The Crypto Desk (SoSoValue)",
-      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-wednesday-25-november"
+      "texto": "Mercado segue precificando perto de 100% de chance de alta do Fed em dezembro após o núcleo do PCE de 3,3% (consenso 3,2%)",
+      "categoria": "bc",
+      "fonte": "Saxo; FXStreet (via TMGM)",
+      "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--26-november-2026-26112026"
     },
     {
-      "texto": "Petróleo recua (Brent abaixo de US$ 91) apesar de novos ataques no Estreito de Hormuz, com temor de excesso de oferta",
+      "texto": "Dólar passou brevemente de 160 ienes; ministra Katayama alerta para movimentos 'unilaterais e rápidos' e diz estar pronta para agir com o Tesouro dos EUA",
+      "categoria": "mercados",
+      "fonte": "Saxo",
+      "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--26-november-2026-26112026"
+    },
+    {
+      "texto": "Tarifas propostas pelos EUA sobre a UE devem ficar limitadas aos 15% acordados no ano passado, o que aliviou a Europa",
       "categoria": "geopolitica",
-      "fonte": "CNBC; The Fifth Skill",
-      "url": "https://www.cnbc.com/amp/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+      "fonte": "Reuters (via KELO)",
+      "url": "https://kelo.com/2026/11/26/european-stocks-rally-as-tech-and-banks-rebound-tariff-fears-ease/"
     },
     {
-      "texto": "Bolsas dos EUA fechadas amanhã (26/11, Thanksgiving) e com sessão reduzida na sexta (27/11)",
-      "categoria": "agenda",
-      "fonte": "CryptoTicker",
-      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-futures-tariffs-vix-30/"
+      "texto": "ETFs de BTC tiveram saídas de US$ 453 mi em 25/11, sétimo dia seguido; ETFs de ETH −69 mi, nono dia",
+      "categoria": "cripto",
+      "fonte": "FXStreet (via TMGM)",
+      "url": "https://www.tmgm.com/en-eu/analysis/market-news/article/crypto-today-bitcoin-ethereum-and-xrp-recover-slightly-as-crypto-investment-outflows-continue-202611261017"
     },
     {
-      "texto": "Vencimento mensal de opções na Deribit na sexta (27/11) às 05h de Brasília (08h UTC), com cerca de US$ 6,6 bi em opções de BTC",
+      "texto": "Bolsas dos EUA fechadas hoje (26/11, Thanksgiving) e com sessão reduzida amanhã (27/11)",
       "categoria": "agenda",
-      "fonte": "The Crypto Desk",
-      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-wednesday-25-november"
+      "fonte": "Oninvest",
+      "url": "https://en.oninvest.com/article/asian-markets-rose-in-tandem-with-u-s-index-futures"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Nasdaq chegou a cair 4,6% e S&P 500 3,2% no dia, mas recuperaram: fecho em −0,62% (23.585,80) e −0,25% (7.182,78); Dow +0,33% (50.182,95)",
+      "texto": "Ásia em alta com repique de chips: Nikkei +0,9%, Hang Seng +1,7%, KOSPI chegou a +2,6% e fechou +0,3%; SoftBank mais de +7%, Disco perto de +6%",
       "categoria": "mercados",
-      "fonte": "The Boston Report (CNBC)",
-      "url": "https://thebostonreport.com/2026/11/25/nasdaq-plunges-ai-sell-off-tariffs-thanksgiving-november-25-2026"
+      "fonte": "Oninvest",
+      "url": "https://en.oninvest.com/article/asian-markets-rose-in-tandem-with-u-s-index-futures"
     },
     {
-      "texto": "Venda de IA: Nvidia chegou a −8,6%, AMD −6,5% e SOX −5,8% de manhã; no fechamento NVDA perto de −4%, Micron −4,5% e SOX −0,65% (8.774,9)",
-      "categoria": "semis",
-      "fonte": "Fox Business; The Boston Report",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+      "texto": "Europa sobe com tecnologia e bancos: STOXX 600 +1,4% (634,94) às 05h15 de Brasília; Infineon e Soitec perto de +4%, Deutsche Bank +3%",
+      "categoria": "mercados",
+      "fonte": "Reuters (via KELO)",
+      "url": "https://kelo.com/2026/11/26/european-stocks-rally-as-tech-and-banks-rebound-tariff-fears-ease/"
     },
     {
-      "texto": "USTR propõe tarifas da Seção 301 a 14 economias (China até 20%, inclui UE, Japão, Coreia e Taiwan); comentários até 05/01/2027; citado na venda da manhã",
-      "categoria": "geopolitica",
-      "fonte": "The Boston Report",
-      "url": "https://thebostonreport.com/2026/11/25/nasdaq-plunges-ai-sell-off-tariffs-thanksgiving-november-25-2026"
+      "texto": "Futuros dos EUA em alta na sessão de 26/11: NQ +0,55% (26.243,75) e ES +0,53% (7.233,75)",
+      "categoria": "mercados",
+      "fonte": "precos.json (Yahoo/Deribit)",
+      "url": "https://finance.yahoo.com/quote/NQ=F/"
     },
     {
-      "texto": "SOX marcou mínima de 3 meses em 25/11 (8.129,2) no intraday",
+      "texto": "BTC volta acima de 60.000: 60.516,5 (+2,8% em 24 h); DVOL cai para 51,7 (−7,7%)",
+      "categoria": "cripto",
+      "fonte": "precos.json (Yahoo/Deribit); FXStreet (via TMGM)",
+      "url": "https://www.tmgm.com/en-eu/analysis/market-news/article/crypto-today-bitcoin-ethereum-and-xrp-recover-slightly-as-crypto-investment-outflows-continue-202611261017"
+    },
+    {
+      "texto": "VIX em 27,08 (−4,3%), ainda acima de 25",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/quote/%5ESOX/"
-    },
-    {
-      "texto": "VIX fecha em 28,29 (+7,3%), acima de 25, após passar de 30 de manhã",
-      "categoria": "marco_preco",
-      "fonte": "precos.json (Yahoo/Deribit); CryptoTicker",
-      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-futures-tariffs-vix-30/"
-    },
-    {
-      "texto": "BTC chegou a ~58.600 de manhã e voltou a 60.271 à noite (+0,8% em 24 h)",
-      "categoria": "cripto",
-      "fonte": "CryptoTicker; precos.json (Yahoo/Deribit)",
-      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-futures-tariffs-vix-30/"
+      "url": "https://finance.yahoo.com/quote/%5EVIX/"
     }
   ],
   "pontos_sugeridos": [
@@ -92,36 +80,36 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Núcleo do PCE acima do esperado e PIB forte; FedWatch 97% para alta em 09/12 e 63% para janeiro",
+      "porque": "Alta em dezembro precificada perto de 100% após o PCE; Banco da Coreia também subiu juros",
       "revisao": "2026-12-09"
     },
     {
       "chave": "selloff-semis-ia",
       "tema": "Sell-off de semis e dúvidas sobre IA",
       "vies": "bear",
-      "peso": 3,
-      "porque": "Nvidia chegou a −8,6% e SOX fez nova mínima de 3 meses; recuperação parcial no fechamento"
+      "peso": 2,
+      "porque": "Chips repicam na Ásia e na Europa hoje, mas SOX segue perto da mínima de 3 meses de 25/11"
     },
     {
       "chave": "fraqueza-btc",
-      "tema": "BTC abaixo de 60.000",
+      "tema": "BTC perto de 60.000",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Perdeu 60 mil de manhã; sexto dia seguido de saídas dos ETFs"
+      "peso": 1,
+      "porque": "Voltou acima de 60 mil, mas os ETFs somam sete dias seguidos de saídas"
     },
     {
       "chave": "novas-tarifas-eua",
       "tema": "Novas tarifas dos EUA",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Proposta formal do USTR sobre 14 economias, China até 20%; prazo de comentários em 05/01/2027"
+      "peso": 1,
+      "porque": "Proposta sobre 14 economias segue de pé; alívio na Europa com teto provável de 15% para a UE"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 1,
-      "porque": "Novos ataques em Hormuz, mas petróleo recua com excesso de oferta"
+      "porque": "Sem novidade nesta janela; ataques recentes em Hormuz seguem no radar"
     }
   ],
   "nota_sugerida": -3,
