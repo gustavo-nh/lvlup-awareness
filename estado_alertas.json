@@ -135,6 +135,11 @@
       "em": "2026-11-25T12:31:47Z",
       "status": "enviado",
       "texto": "⚠️ VIX em 30,78 (gatilho: acima de 25,0)"
+    },
+    "VIX|acima|acima|2026-11-26": {
+      "em": "2026-11-26T10:41:04Z",
+      "status": "enviado",
+      "texto": "⚠️ VIX em 27,08 (gatilho: acima de 25,0)"
     }
   },
   "ultima_config_valida": {
