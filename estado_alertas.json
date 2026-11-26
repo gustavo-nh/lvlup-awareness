@@ -1,21 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "SOX|variacao_dia_pct|queda|2026-11-16": {
-      "em": "2026-11-16T20:14:54Z",
-      "status": "enviado",
-      "texto": "🔴 SOX −5,0% no dia (gatilho: queda > 4,0%) · 9.633,71"
-    },
-    "VIX|salto_dia_pct|salto|2026-11-16": {
-      "em": "2026-11-16T20:14:54Z",
-      "status": "enviado",
-      "texto": "⚠️ VIX +21,4% no dia (gatilho: salto > 20,0%) · 23,42"
-    },
-    "noticia|2026-11-06-halt-kospi": {
-      "em": "2026-11-16T20:14:58Z",
-      "status": "expirado",
-      "texto": "KOSPI suspenso por 20 minutos após queda de 8,8%"
-    },
     "noticia|2026-10-17-teste-ponta-a-ponta": {
       "em": "2026-11-17T10:40:56Z",
       "status": "expirado",
@@ -140,6 +125,11 @@
       "em": "2026-11-26T10:41:04Z",
       "status": "enviado",
       "texto": "⚠️ VIX em 27,08 (gatilho: acima de 25,0)"
+    },
+    "noticia|2026-11-06-halt-kospi": {
+      "em": "2026-11-26T23:40:12Z",
+      "status": "expirado",
+      "texto": "KOSPI suspenso por 20 minutos após queda de 8,8%"
     }
   },
   "ultima_config_valida": {
