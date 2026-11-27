@@ -1,89 +1,83 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-26T23:43:50Z",
-  "data": "2026-11-26",
-  "janela": "noite",
+  "gerado_em": "2026-11-27T10:43:24Z",
+  "data": "2026-11-27",
+  "janela": "manha",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Guarda Revolucionária diz que dois petroleiros, um deles superpetroleiro com mais de 2 mi de barris, explodiram após bater em minas no norte de Hormuz; sem confirmação independente",
-      "categoria": "geopolitica",
-      "fonte": "Reuters (via Longbridge)",
-      "url": "https://longbridge.com/en/news/306942576"
+      "texto": "Nvidia mandou parceiros como Dell e Supermicro suspenderem o envio de servidores com seus chips para Malásia, Singapura, Tailândia e Indonésia, segundo o FT; não está claro se é temporário",
+      "categoria": "semis",
+      "fonte": "The National (citando FT)",
+      "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
     },
     {
-      "texto": "Houthis reivindicam ataque à refinaria saudita de Ras Tanura (550 mil b/d); Arábia Saudita diz ter derrubado quatro drones e não há confirmação de impacto na produção",
-      "categoria": "geopolitica",
-      "fonte": "The National",
-      "url": "https://www.thenationalnews.com/business/energy/2026/11/26/oil-rebounds-to-95-per-barrel-after-saudi-refinery-attack/"
+      "texto": "Bloomberg relata que as restrições dos EUA a chips de IA já atrapalham o financiamento de data centers na Ásia, como o empréstimo de US$ 6,6 bi da Bridge Data Centres na Malásia",
+      "categoria": "semis",
+      "fonte": "Investing.com (citando Bloomberg)",
+      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
     },
     {
-      "texto": "Kuwait diz que ataque de drones do Irã matou dois italianos; Teerã nega qualquer operação militar na região",
+      "texto": "Houthis atingem a refinaria saudita de Jazan, depois de mirar Ras Tanura; UKMTO relata petroleiro atingido por projétil na quarta (25/11)",
       "categoria": "geopolitica",
-      "fonte": "Khaleej Times",
-      "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-26-2026"
+      "fonte": "Investing.com (citando Reuters)",
+      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
     },
     {
-      "texto": "Líderes da UE escolhem Pablo Hernández de Cos (hoje chefe do BIS) para suceder Lagarde no BCE em fevereiro; mercado leu como continuidade da política",
+      "texto": "Coreia estuda fundo de estabilização de 10 tri de wons e fará reunião de emergência na segunda (30/11) com os chefes dos cinco maiores grupos financeiros",
+      "categoria": "mercados",
+      "fonte": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund"
+    },
+    {
+      "texto": "Alta do Fed em dezembro seguia cerca de 96% precificada no fechamento de quarta (25/11), segundo o Deutsche Bank; Goldman vê o repique mais como alívio de oferta do que compra",
       "categoria": "bc",
-      "fonte": "Reuters (via Longbridge); investingLive",
-      "url": "https://longbridge.com/en/news/306942418"
+      "fonte": "ZeroHedge",
+      "url": "https://www.zerohedge.com/markets/futures-extend-thanksgiving-turnaround-nasdaq-dodges-bear-market-oil-climbs-houthi-strikes"
     },
     {
-      "texto": "Novas tarifas dos EUA sobre 14 parceiros não se somam às de julho e dificilmente entram em vigor antes de fevereiro ou março",
-      "categoria": "geopolitica",
-      "fonte": "investingLive",
-      "url": "https://investinglive.com/stocks/european-stocks-surge-s-p-500-futures-finish-higher-in-thanksgiving-trading/"
-    },
-    {
-      "texto": "ETFs de BTC à vista somam saídas de cerca de US$ 5,39 bi em novembro até 25/11, maior resgate mensal desde o lançamento",
-      "categoria": "cripto",
-      "fonte": "CryptoBriefing (via KuCoin)",
-      "url": "https://www.kucoin.com/news/flash/bitcoin-holds-above-60k-amid-death-cross-signal-and-etf-outflows"
-    },
-    {
-      "texto": "Vencimento mensal de opções de BTC na Deribit (cerca de US$ 6,5 a 7 bi em aberto) amanhã (27/11) às 05h de Brasília",
+      "texto": "ETFs de BTC à vista tiveram saída de US$ 453 mi na quarta (25/11) e voltam a negociar hoje; sessão reduzida nos EUA termina às 15h de Brasília (13h em Nova York)",
       "categoria": "agenda",
-      "fonte": "crypto.news",
-      "url": "https://crypto.news/where-does-bitcoin-price-discovery-move-when-wall-street-closes/"
-    },
-    {
-      "texto": "Bolsas dos EUA reabrem amanhã (27/11) com sessão reduzida, das 11h30 às 15h de Brasília; OPEP+ se reúne domingo (29/11) para definir a produção de 2027",
-      "categoria": "agenda",
-      "fonte": "investingLive; Reuters (via Longbridge)",
-      "url": "https://investinglive.com/stocks/european-stocks-surge-s-p-500-futures-finish-higher-in-thanksgiving-trading/"
+      "fonte": "Finwire",
+      "url": "https://finwire.io/news/crypto-news/bitcoin-price-reclaims-61k-ahead-of-68b-options-expiry-what-comes-next"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Europa fecha em forte alta com alívio nas tarifas: STOXX 600 +1,8% (636,98), DAX +2,14%, Euro Stoxx 50 +2,11%; mineradoras, montadoras e defesa sobem mais de 3%",
+      "texto": "Futuros dos EUA disparam na sessão de 27/11 com a volta às ações de IA: às 07h30 de Brasília, NQ +2,57% (26.772,25) e ES +1,88% (7.331,25)",
       "categoria": "mercados",
-      "fonte": "Reuters (via Longbridge); investingLive",
-      "url": "https://longbridge.com/en/news/306942418"
+      "fonte": "precos.json (Yahoo/Deribit); Investing.com",
+      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
     },
     {
-      "texto": "Brent fecha a US$ 96,57 (+1,2%) com minas em Hormuz e ataque a refinaria saudita; WTI sem ajuste no feriado, indicativo a US$ 84,84 (+1,4%)",
+      "texto": "KOSPI fecha em +4,34% (4.915,68) e Kosdaq +8,13% com aposta em fundo de estabilização; Samsung +4,55%, SK hynix +5,41% e estrangeiros compram 1,13 tri de wons",
       "categoria": "mercados",
-      "fonte": "Reuters (via Longbridge)",
-      "url": "https://longbridge.com/en/news/306942576"
+      "fonte": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund"
     },
     {
-      "texto": "Futuros dos EUA sobem na sessão de 26/11: NQ +0,58% (26.252,25) e ES +0,62% (7.240,5)",
+      "texto": "Nikkei fecha 27/11 em +2,11% (58.711,11)",
       "categoria": "mercados",
       "fonte": "precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/quote/NQ=F/"
+      "url": "https://finance.yahoo.com/quote/%5EN225/"
     },
     {
-      "texto": "BTC repica no feriado com liquidação de vendidos e liquidez fina, fechando 26/11 a 60.948 (+2,7%); às 20h41 de Brasília estava em 60.393",
-      "categoria": "cripto",
-      "fonte": "CryptoBriefing (via KuCoin); precos.json (Yahoo/Deribit)",
-      "url": "https://www.kucoin.com/news/flash/bitcoin-holds-above-60k-amid-death-cross-signal-and-etf-outflows"
-    },
-    {
-      "texto": "VIX em 26,8 (−5,3%), ainda acima de 25",
+      "texto": "VIX cai para 24,75 (−7,7%) e volta abaixo de 25",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)",
       "url": "https://finance.yahoo.com/quote/%5EVIX/"
+    },
+    {
+      "texto": "BTC a 61.558 (+1,7% em 24 h) após o vencimento de US$ 6,8 bi em opções na Deribit às 05h de Brasília; DVOL em 49,1 (−5,8%)",
+      "categoria": "cripto",
+      "fonte": "Finwire; precos.json (Yahoo/Deribit)",
+      "url": "https://finwire.io/news/crypto-news/bitcoin-price-reclaims-61k-ahead-of-68b-options-expiry-what-comes-next"
+    },
+    {
+      "texto": "Petróleo segue pressionado pelo Golfo: Brent a US$ 96,51 (−0,1%) e WTI a US$ 85,78 (+2,5%), com o Brent rumo a alta semanal de cerca de 4,5%",
+      "categoria": "mercados",
+      "fonte": "Investing.com (citando Reuters)",
+      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
     }
   ],
   "pontos_sugeridos": [
@@ -92,7 +86,7 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Alta em dezembro segue precificada perto de 100% após o núcleo do PCE de 3,3%",
+      "porque": "Alta em dezembro segue precificada perto de 96% a 100% após o núcleo do PCE de 3,3%",
       "revisao": "2026-12-09"
     },
     {
@@ -100,29 +94,35 @@
       "tema": "Sell-off de semis e dúvidas sobre IA",
       "vies": "bear",
       "peso": 2,
-      "porque": "SOX segue perto da mínima de 3 meses de 25/11; chips repicaram na Europa, mas EUA só reabrem amanhã"
+      "porque": "Nvidia suspende envios ao Sudeste Asiático e curbs dos EUA travam data centers; SOX segue perto da mínima de 3 meses"
+    },
+    {
+      "chave": "repique-risco-asia",
+      "tema": "Repique de risco na Ásia e nos futuros",
+      "vies": "bull",
+      "peso": 2,
+      "porque": "KOSPI +4,34% com fundo de estabilização em estudo e NQ +2,57% na volta às ações de IA"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Minas em Hormuz, ataque a Ras Tanura e mortes no Kuwait levam o Brent a US$ 96,57"
+      "porque": "Minas em Hormuz e ataques Houthis a Ras Tanura e Jazan mantêm o Brent perto de US$ 96"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC perto de 60.000",
       "vies": "bear",
       "peso": 1,
-      "porque": "Repique do feriado veio de liquidação de vendidos; ETFs têm o pior mês de resgates da história e há vencimento de opções amanhã",
-      "revisao": "2026-11-27"
+      "porque": "Vencimento de opções passou sem ruptura, mas ETFs têm o pior mês de resgates da história"
     },
     {
       "chave": "novas-tarifas-eua",
       "tema": "Novas tarifas dos EUA",
       "vies": "bear",
       "peso": 1,
-      "porque": "Risco perdeu força: teto nos níveis dos acordos e vigência provável só em fevereiro ou março"
+      "porque": "Sem novidade; risco perdeu força com vigência provável só em fevereiro ou março"
     }
   ],
   "nota_sugerida": -3,
