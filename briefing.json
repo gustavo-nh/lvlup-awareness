@@ -1,83 +1,89 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-27T10:43:24Z",
+  "gerado_em": "2026-11-27T23:43:16Z",
   "data": "2026-11-27",
-  "janela": "manha",
+  "janela": "noite",
   "modo": "util",
   "fatos_relevantes": [
     {
-      "texto": "Nvidia mandou parceiros como Dell e Supermicro suspenderem o envio de servidores com seus chips para Malásia, Singapura, Tailândia e Indonésia, segundo o FT; não está claro se é temporário",
-      "categoria": "semis",
-      "fonte": "The National (citando FT)",
-      "url": "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/"
-    },
-    {
-      "texto": "Bloomberg relata que as restrições dos EUA a chips de IA já atrapalham o financiamento de data centers na Ásia, como o empréstimo de US$ 6,6 bi da Bridge Data Centres na Malásia",
-      "categoria": "semis",
-      "fonte": "Investing.com (citando Bloomberg)",
-      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
-    },
-    {
-      "texto": "Houthis atingem a refinaria saudita de Jazan, depois de mirar Ras Tanura; UKMTO relata petroleiro atingido por projétil na quarta (25/11)",
-      "categoria": "geopolitica",
-      "fonte": "Investing.com (citando Reuters)",
-      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
-    },
-    {
-      "texto": "Coreia estuda fundo de estabilização de 10 tri de wons e fará reunião de emergência na segunda (30/11) com os chefes dos cinco maiores grupos financeiros",
-      "categoria": "mercados",
-      "fonte": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund"
-    },
-    {
-      "texto": "Alta do Fed em dezembro seguia cerca de 96% precificada no fechamento de quarta (25/11), segundo o Deutsche Bank; Goldman vê o repique mais como alívio de oferta do que compra",
+      "texto": "Traders seguem precificando quase toda uma alta de juros na reunião do Fed de 8–9/12 (decisão em 09/12 às 16h de Brasília), segundo a Reuters",
       "categoria": "bc",
-      "fonte": "ZeroHedge",
-      "url": "https://www.zerohedge.com/markets/futures-extend-thanksgiving-turnaround-nasdaq-dodges-bear-market-oil-climbs-houthi-strikes"
+      "fonte": "StockAnalysis (citando Reuters)",
+      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
     },
     {
-      "texto": "ETFs de BTC à vista tiveram saída de US$ 453 mi na quarta (25/11) e voltam a negociar hoje; sessão reduzida nos EUA termina às 15h de Brasília (13h em Nova York)",
+      "texto": "Apesar do repique, S&P 500 caminha para o pior novembro desde 2008, com um pregão restante (30/11), e fechou 6,7% abaixo do recorde de 06/10",
+      "categoria": "mercados",
+      "fonte": "StockAnalysis",
+      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
+    },
+    {
+      "texto": "Chips acumulavam queda de 24,2% em um mês até 25/11 (SMH) e o repique recuperou só cerca de 12% dessa perda; Nasdaq 100 segue ~10% abaixo de um mês atrás",
+      "categoria": "semis",
+      "fonte": "Quantisnow",
+      "url": "https://www.quantisnow.com/articles/chip-stocks-lead-a-black-friday-rally-that-wins-back-only-12-of-their-monthly-loss"
+    },
+    {
+      "texto": "ETFs de BTC à vista tiveram saída líquida de US$ 2,51 bi em cinco sessões até 25/11 (Farside), com o pior dia em 20/11 (−US$ 669,2 mi)",
+      "categoria": "cripto",
+      "fonte": "crypto.news",
+      "url": "https://crypto.news/bitcoin-price-slips-below-60k-traders-watch-55k/"
+    },
+    {
+      "texto": "Yield do Treasury de 30 anos em 5,32% na sexta (27/11), segundo a CNBC",
+      "categoria": "mercados",
+      "fonte": "Quantisnow (citando CNBC)",
+      "url": "https://www.quantisnow.com/articles/chip-stocks-lead-a-black-friday-rally-that-wins-back-only-12-of-their-monthly-loss"
+    },
+    {
+      "texto": "Fim de semana: reunião ministerial da OPEP+ e eleição geral na Espanha no domingo (29/11); Ueda (BoJ) fala em Nagoya em 30/11 e alta do BoJ em dezembro está ~70% precificada",
       "categoria": "agenda",
-      "fonte": "Finwire",
-      "url": "https://finwire.io/news/crypto-news/bitcoin-price-reclaims-61k-ahead-of-68b-options-expiry-what-comes-next"
+      "fonte": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/e93be02c-7bc3-4c1b-942a-287a7745ed23"
+    },
+    {
+      "texto": "Semana: ISM industrial em 01/12 (12h de Brasília), ADP em 02/12, ISM serviços em 03/12 e payroll em 04/12 às 10h30 de Brasília",
+      "categoria": "agenda",
+      "fonte": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/e93be02c-7bc3-4c1b-942a-287a7745ed23"
+    },
+    {
+      "texto": "Consenso do payroll de novembro: +90 mil vagas e desemprego de 4,1%; balanços de Salesforce e Marvell também saem na próxima semana",
+      "categoria": "agenda",
+      "fonte": "Reuters (via Rallies.ai)",
+      "url": "https://rallies.ai/news/wall-st-week-ahead-volatile-stock-market-confronts-jobs-data-rate-view-as-next-tests-f93ec612201cf973"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Futuros dos EUA disparam na sessão de 27/11 com a volta às ações de IA: às 07h30 de Brasília, NQ +2,57% (26.772,25) e ES +1,88% (7.331,25)",
+      "texto": "Wall Street sobe no pregão reduzido de 27/11: S&P 500 +1,6% (7.297,49) e Nasdaq 100 +2,6%; S&P fecha a melhor semana desde abril de 2025 (+5,6%)",
       "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit); Investing.com",
-      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
+      "fonte": "StockAnalysis; Quantisnow (citando Yahoo Finance)",
+      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
     },
     {
-      "texto": "KOSPI fecha em +4,34% (4.915,68) e Kosdaq +8,13% com aposta em fundo de estabilização; Samsung +4,55%, SK hynix +5,41% e estrangeiros compram 1,13 tri de wons",
-      "categoria": "mercados",
-      "fonte": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/economy/20261127/kospi-surges-over-4-kosdaq-gains-top-8-on-hopes-for-market-stabilization-fund"
-    },
-    {
-      "texto": "Nikkei fecha 27/11 em +2,11% (58.711,11)",
+      "texto": "Futuros na sessão de 27/11: NQ +2,55% (26.765) e ES +1,56% (7.308,25)",
       "categoria": "mercados",
       "fonte": "precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/quote/%5EN225/"
+      "url": "https://finance.yahoo.com/quote/NQ%3DF/"
     },
     {
-      "texto": "VIX cai para 24,75 (−7,7%) e volta abaixo de 25",
+      "texto": "SOX +4,69% (9.186,7) puxado por memória e IA: Sandisk +16%, Micron +7,6%, Marvell +7,3%, AMD +4,6%, Broadcom +3,8%; Nvidia só +0,8%",
+      "categoria": "semis",
+      "fonte": "StockAnalysis; precos.json (Yahoo/Deribit)",
+      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
+    },
+    {
+      "texto": "VIX cai para 23,81 (−11,2%) e fecha abaixo de 25",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)",
       "url": "https://finance.yahoo.com/quote/%5EVIX/"
     },
     {
-      "texto": "BTC a 61.558 (+1,7% em 24 h) após o vencimento de US$ 6,8 bi em opções na Deribit às 05h de Brasília; DVOL em 49,1 (−5,8%)",
+      "texto": "BTC descola do rali e volta abaixo de 60.000 após máxima de 62.249: 59.771 às 20h40 de Brasília (−1,0% em 24 h); DVOL em 51,7",
       "categoria": "cripto",
-      "fonte": "Finwire; precos.json (Yahoo/Deribit)",
-      "url": "https://finwire.io/news/crypto-news/bitcoin-price-reclaims-61k-ahead-of-68b-options-expiry-what-comes-next"
-    },
-    {
-      "texto": "Petróleo segue pressionado pelo Golfo: Brent a US$ 96,51 (−0,1%) e WTI a US$ 85,78 (+2,5%), com o Brent rumo a alta semanal de cerca de 4,5%",
-      "categoria": "mercados",
-      "fonte": "Investing.com (citando Reuters)",
-      "url": "https://za.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-4598887"
+      "fonte": "Bloomberg; crypto.news; precos.json (Yahoo/Deribit)",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/bitcoin-bounces-as-optimism-returns-to-markets-after-holiday"
     }
   ],
   "pontos_sugeridos": [
@@ -86,45 +92,46 @@
       "tema": "Fed com viés de alta de juros",
       "vies": "bear",
       "peso": 3,
-      "porque": "Alta em dezembro segue precificada perto de 96% a 100% após o núcleo do PCE de 3,3%",
+      "porque": "Alta em 09/12 segue quase toda precificada e o yield de 30 anos está em 5,32%",
       "revisao": "2026-12-09"
+    },
+    {
+      "chave": "repique-risco-asia",
+      "tema": "Repique de risco na Ásia e em Wall Street",
+      "vies": "bull",
+      "peso": 2,
+      "porque": "S&P 500 tem a melhor semana desde abril de 2025, SOX +4,7% e VIX volta abaixo de 25"
     },
     {
       "chave": "selloff-semis-ia",
       "tema": "Sell-off de semis e dúvidas sobre IA",
       "vies": "bear",
-      "peso": 2,
-      "porque": "Nvidia suspende envios ao Sudeste Asiático e curbs dos EUA travam data centers; SOX segue perto da mínima de 3 meses"
-    },
-    {
-      "chave": "repique-risco-asia",
-      "tema": "Repique de risco na Ásia e nos futuros",
-      "vies": "bull",
-      "peso": 2,
-      "porque": "KOSPI +4,34% com fundo de estabilização em estudo e NQ +2,57% na volta às ações de IA"
+      "peso": 1,
+      "porque": "Repique recuperou só ~12% da queda de 24% no mês; Nvidia fica para trás com suspensão de envios ao Sudeste Asiático"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Minas em Hormuz e ataques Houthis a Ras Tanura e Jazan mantêm o Brent perto de US$ 96"
+      "porque": "Ataques Houthis a refinarias sauditas mantêm o Brent perto de US$ 96; OPEP+ se reúne no domingo (29/11)"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC perto de 60.000",
       "vies": "bear",
       "peso": 1,
-      "porque": "Vencimento de opções passou sem ruptura, mas ETFs têm o pior mês de resgates da história"
+      "porque": "BTC volta abaixo de 60.000 mesmo com Wall Street em alta e ETFs com saída de US$ 2,5 bi em cinco sessões"
     },
     {
-      "chave": "novas-tarifas-eua",
-      "tema": "Novas tarifas dos EUA",
-      "vies": "bear",
-      "peso": 1,
-      "porque": "Sem novidade; risco perdeu força com vigência provável só em fevereiro ou março"
+      "chave": "payroll-04-12",
+      "tema": "Payroll de novembro em 04/12",
+      "vies": "neutro",
+      "peso": 2,
+      "porque": "Último dado forte antes do Fed; acima de +90 mil reforça a alta → bear, dado fraco → bull",
+      "revisao": "2026-12-04"
     }
   ],
-  "nota_sugerida": -3,
+  "nota_sugerida": -2,
   "escala_nota": 7
 }
