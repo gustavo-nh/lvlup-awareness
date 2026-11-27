@@ -140,6 +140,11 @@
       "em": "2026-11-27T10:41:05Z",
       "status": "expirado",
       "texto": "Teste ponta a ponta dos alertas de noticia"
+    },
+    "SOX|variacao_dia_pct|alta|2026-11-27": {
+      "em": "2026-11-27T18:03:27Z",
+      "status": "enviado",
+      "texto": "🟢 SOX +4,7% no dia (gatilho: alta > 4,0%) · 9.186,71"
     }
   },
   "ultima_config_valida": {
