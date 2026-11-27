@@ -1,11 +1,6 @@
 {
   "versao": 1,
   "disparos": {
-    "VIX|acima|acima|2026-11-17": {
-      "em": "2026-11-17T21:39:41Z",
-      "status": "enviado",
-      "texto": "⚠️ VIX em 25,46 (gatilho: acima de 25,0)"
-    },
     "VIX|acima|acima|2026-11-19": {
       "em": "2026-11-19T21:20:23Z",
       "status": "enviado",
