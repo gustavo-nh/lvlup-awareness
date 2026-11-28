@@ -1,89 +1,65 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-27T23:43:16Z",
-  "data": "2026-11-27",
-  "janela": "noite",
-  "modo": "util",
+  "gerado_em": "2026-11-28T10:42:17Z",
+  "data": "2026-11-28",
+  "janela": "manha",
+  "modo": "fim_de_semana",
   "fatos_relevantes": [
     {
-      "texto": "Traders seguem precificando quase toda uma alta de juros na reunião do Fed de 8–9/12 (decisão em 09/12 às 16h de Brasília), segundo a Reuters",
-      "categoria": "bc",
-      "fonte": "StockAnalysis (citando Reuters)",
-      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
+      "texto": "Saídas dos ETFs de BTC à vista em novembro já passam de US$ 5 bi, segundo a Investing.com",
+      "categoria": "cripto",
+      "fonte": "Investing.com",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180"
     },
     {
-      "texto": "Apesar do repique, S&P 500 caminha para o pior novembro desde 2008, com um pregão restante (30/11), e fechou 6,7% abaixo do recorde de 06/10",
-      "categoria": "mercados",
-      "fonte": "StockAnalysis",
-      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
+      "texto": "Baleias (1.000 a 10.000 BTC) acumularam 121.117 BTC entre 30/09 e 21/11 enquanto o preço caía 29,5%, segundo a CryptoQuant",
+      "categoria": "cripto",
+      "fonte": "Investing.com (citando CryptoQuant)",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180"
     },
     {
-      "texto": "Chips acumulavam queda de 24,2% em um mês até 25/11 (SMH) e o repique recuperou só cerca de 12% dessa perda; Nasdaq 100 segue ~10% abaixo de um mês atrás",
-      "categoria": "semis",
-      "fonte": "Quantisnow",
-      "url": "https://www.quantisnow.com/articles/chip-stocks-lead-a-black-friday-rally-that-wins-back-only-12-of-their-monthly-loss"
-    },
-    {
-      "texto": "ETFs de BTC à vista tiveram saída líquida de US$ 2,51 bi em cinco sessões até 25/11 (Farside), com o pior dia em 20/11 (−US$ 669,2 mi)",
+      "texto": "Binance concluiu em 26/11 a retomada dos saques, quase quatro semanas após o hack de 29/10; poucas redes seguem pausadas",
       "categoria": "cripto",
       "fonte": "crypto.news",
-      "url": "https://crypto.news/bitcoin-price-slips-below-60k-traders-watch-55k/"
+      "url": "https://crypto.news/bitcoin-60k-binance-sec-tokenized-stocks-weekly-recap/"
     },
     {
-      "texto": "Yield do Treasury de 30 anos em 5,32% na sexta (27/11), segundo a CNBC",
-      "categoria": "mercados",
-      "fonte": "Quantisnow (citando CNBC)",
-      "url": "https://www.quantisnow.com/articles/chip-stocks-lead-a-black-friday-rally-that-wins-back-only-12-of-their-monthly-loss"
+      "texto": "Golfo: CENTCOM diz ter desviado 158 navios e desabilitado seis no bloqueio ao Irã; IRGC alega petroleiros atingidos por minas perto de Khasab (sem confirmação)",
+      "categoria": "geopolitica",
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/uae/uae-residents-update-regional-tensions-mecca-pact-and-hormuz-standoff-1.500763959"
     },
     {
-      "texto": "Fim de semana: reunião ministerial da OPEP+ e eleição geral na Espanha no domingo (29/11); Ueda (BoJ) fala em Nagoya em 30/11 e alta do BoJ em dezembro está ~70% precificada",
+      "texto": "Kuwait convocou o embaixador do Irã após ataque de drone em 26/11 que matou dois italianos; Itália diz que o drone era de fabricação iraniana, Teerã nega",
+      "categoria": "geopolitica",
+      "fonte": "Gulf News",
+      "url": "https://gulfnews.com/uae/uae-residents-update-regional-tensions-mecca-pact-and-hormuz-standoff-1.500763959"
+    },
+    {
+      "texto": "OPEP+ se reúne domingo (29/11) e deve manter as metas de produção do 1º trimestre de 2027, segundo fontes",
       "categoria": "agenda",
-      "fonte": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/e93be02c-7bc3-4c1b-942a-287a7745ed23"
+      "fonte": "JBizNews",
+      "url": "https://jbiznews.com/opec-set-to-keep-q1-2027-output-targets-unchanged-at-sunday-meeting-sources-say/"
     },
     {
-      "texto": "Semana: ISM industrial em 01/12 (12h de Brasília), ADP em 02/12, ISM serviços em 03/12 e payroll em 04/12 às 10h30 de Brasília",
+      "texto": "Comitê consultivo de investidores da SEC discute ações americanas tokenizadas em 03/12, a partir das 11h30 de Brasília (09h30 em Nova York)",
       "categoria": "agenda",
-      "fonte": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/e93be02c-7bc3-4c1b-942a-287a7745ed23"
-    },
-    {
-      "texto": "Consenso do payroll de novembro: +90 mil vagas e desemprego de 4,1%; balanços de Salesforce e Marvell também saem na próxima semana",
-      "categoria": "agenda",
-      "fonte": "Reuters (via Rallies.ai)",
-      "url": "https://rallies.ai/news/wall-st-week-ahead-volatile-stock-market-confronts-jobs-data-rate-view-as-next-tests-f93ec612201cf973"
+      "fonte": "crypto.news",
+      "url": "https://crypto.news/bitcoin-60k-binance-sec-tokenized-stocks-weekly-recap/"
     }
   ],
   "moveu_mercados": [
     {
-      "texto": "Wall Street sobe no pregão reduzido de 27/11: S&P 500 +1,6% (7.297,49) e Nasdaq 100 +2,6%; S&P fecha a melhor semana desde abril de 2025 (+5,6%)",
-      "categoria": "mercados",
-      "fonte": "StockAnalysis; Quantisnow (citando Yahoo Finance)",
-      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
+      "texto": "BTC devolve o repique e cai de 62.125 para 58.719 com liquidações de US$ 478 mi e vencimento de ~US$ 7 bi em opções na Deribit; 59.224 às 07h40 (−3,78% em 24 h)",
+      "categoria": "cripto",
+      "fonte": "Investing.com; precos.json (Yahoo/Deribit)",
+      "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-falls-below-60k-as-whales-buy-dip-etf-outflows-mount-5054180"
     },
     {
-      "texto": "Futuros na sessão de 27/11: NQ +2,55% (26.765) e ES +1,56% (7.308,25)",
-      "categoria": "mercados",
-      "fonte": "precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/quote/NQ%3DF/"
-    },
-    {
-      "texto": "SOX +4,69% (9.186,7) puxado por memória e IA: Sandisk +16%, Micron +7,6%, Marvell +7,3%, AMD +4,6%, Broadcom +3,8%; Nvidia só +0,8%",
-      "categoria": "semis",
-      "fonte": "StockAnalysis; precos.json (Yahoo/Deribit)",
-      "url": "https://stockanalysis.com/news/sp-500-caps-best-week-in-over-a-year/"
-    },
-    {
-      "texto": "VIX cai para 23,81 (−11,2%) e fecha abaixo de 25",
+      "texto": "DVOL sobe para 53,3 (+8,8% em 24 h) com a queda do BTC",
       "categoria": "marco_preco",
       "fonte": "precos.json (Yahoo/Deribit)",
-      "url": "https://finance.yahoo.com/quote/%5EVIX/"
-    },
-    {
-      "texto": "BTC descola do rali e volta abaixo de 60.000 após máxima de 62.249: 59.771 às 20h40 de Brasília (−1,0% em 24 h); DVOL em 51,7",
-      "categoria": "cripto",
-      "fonte": "Bloomberg; crypto.news; precos.json (Yahoo/Deribit)",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/bitcoin-bounces-as-optimism-returns-to-markets-after-holiday"
+      "url": "https://www.deribit.com/statistics/BTC/volatility-index"
     }
   ],
   "pontos_sugeridos": [
@@ -100,28 +76,28 @@
       "tema": "Repique de risco na Ásia e em Wall Street",
       "vies": "bull",
       "peso": 2,
-      "porque": "S&P 500 tem a melhor semana desde abril de 2025, SOX +4,7% e VIX volta abaixo de 25"
+      "porque": "S&P 500 teve a melhor semana desde abril de 2025, SOX +4,7% e VIX abaixo de 25 na sexta"
     },
     {
       "chave": "selloff-semis-ia",
       "tema": "Sell-off de semis e dúvidas sobre IA",
       "vies": "bear",
       "peso": 1,
-      "porque": "Repique recuperou só ~12% da queda de 24% no mês; Nvidia fica para trás com suspensão de envios ao Sudeste Asiático"
+      "porque": "Repique recuperou só ~12% da queda de 24% no mês"
     },
     {
       "chave": "escalada-ira-golfo",
       "tema": "Nova escalada do Irã no Golfo",
       "vies": "bear",
       "peso": 2,
-      "porque": "Ataques Houthis a refinarias sauditas mantêm o Brent perto de US$ 96; OPEP+ se reúne no domingo (29/11)"
+      "porque": "Bloqueio dos EUA, ataque no Kuwait e alegações de minas em Hormuz; OPEP+ se reúne no domingo (29/11)"
     },
     {
       "chave": "fraqueza-btc",
       "tema": "BTC perto de 60.000",
       "vies": "bear",
-      "peso": 1,
-      "porque": "BTC volta abaixo de 60.000 mesmo com Wall Street em alta e ETFs com saída de US$ 2,5 bi em cinco sessões"
+      "peso": 2,
+      "porque": "BTC cai 3,8% em 24 h, abaixo de 60.000, com US$ 478 mi em liquidações e saídas de ETFs acima de US$ 5 bi no mês"
     },
     {
       "chave": "payroll-04-12",
